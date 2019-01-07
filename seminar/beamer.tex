@@ -1,0 +1,252 @@
+\input{pre}
+
+\DeclareMathOperator{\sign}{sign}
+
+\AtBeginSection[]{
+  \begin{frame}
+  \vfill
+  \centering
+  \begin{beamercolorbox}[sep=8pt,center,shadow=true,rounded=true]{title}
+  	\hrule
+  	\bigskip
+    \usebeamerfont{title}\insertsectionhead\par%
+    \bigskip
+    \hrule
+  \end{beamercolorbox}
+  \vfill
+  \end{frame}
+}
+
+\begin{document}
+
+	\begin{frame}
+		\begin{figure}
+			\centering
+			\includegraphics[scale=0.25]{images/Porsche-919-Hybrid-wind-tunnel-testing.jpg}
+			\caption{Luftströmungen eines fahrenden Rennwagens \\ \scriptsize Quelle:\\ \url{http://autonetmagz.net/wp-content/uploads/2014/03/Porsche-919-Hybrid-wind-tunnel-testing.jpg}}
+		\end{figure}
+	\end{frame}
+	
+	\frame{\hrule\maketitle\hrule}
+	\frame{\frametitle{Gliederung} \begin{adjustwidth}{1em}{}\tableofcontents\end{adjustwidth}}
+
+
+	\section{Grundlagen} % (fold)
+	\label{sec:grundlagen}
+
+		\subsection{Erinnerung} % (fold)
+		\label{sub:erinnerung}
+		
+			\begin{frame}
+				\frametitle{Erinnerung: Thermodynamik}
+				\begin{enumerate}[label=(\roman*)]
+					\item Kontinuitätsgleichung:
+						\[ \tcboxmath{\partial_t\varrho + \nabla\cdot\curvb{ \varrho\vec{v} } = 0} \]
+					\item Impulsgleichung:
+						\[ \tcboxmath{\varrho \boxb{ \partial_t \vec{v} + \curvb{ \vec{v}\cdot\nabla }\vec{v} } = \vec{f} + \nabla\cdot\sigma} \]
+				\end{enumerate}
+			\end{frame}
+		
+		% subsection erinnerung (end)
+
+
+		\subsection{Navier-Stokes-Gleichungen} % (fold)
+		\label{sub:navier_stokes_gleichungen}
+		
+			\begin{frame}
+				\textbf{Annahme:}\\
+				Betrachtung eines einzelnen newtonschen Fluids (z.B. Wasser, Öl, Luft, etc.).
+				\vfill
+				\pause
+				\begin{tcolorbox}[title = Navier-Stokes Gleichungen]
+					\begin{alignat*}{3}
+						\partial_t\varrho + \nabla\cdot\curvb{ \varrho\vec{v} } &=&& \ 0 \\
+						\varrho \boxb{ \partial_t \vec{v} + \curvb{ \vec{v}\cdot\nabla }\vec{v} } &=&& \ \vec{f} - \nabla p + \eta\Delta\vec{v} + \curvb{ \tfrac{\eta}{3}+\xi }\nabla\curvb{ \nabla\cdot\vec{v} }
+					\end{alignat*}
+				\end{tcolorbox}
+			\end{frame}
+
+			\begin{frame}[label=nsg]
+				\begin{tcolorbox}[title = dimensionslose Navier-Stokes Gleichungen inkompressibler Flüssigkeiten]
+					\begin{alignat*}{3}
+						\nabla\cdot\vec{v} &=&& \ 0 \\
+						\partial_t \vec{v} + \curvb{ \vec{v}\cdot\nabla }\vec{v} &=&& \ \vec{g} - \nabla p + \tfrac{1}{Re}\Delta\vec{v}
+					\end{alignat*}
+				\end{tcolorbox}
+			\end{frame}
+		
+		% subsection navier_stokes_gleichungen (end)
+
+	% section grundlagen (end)
+
+	\section{Numerische Verfahren} % (fold)
+	\label{sec:numerische_verfahren}
+	
+		\subsection{Diskretisierung} % (fold)
+		\label{sub:diskretisierung}
+		
+			\begin{frame}
+				\frametitle{Finite-Differenzen-Methode}
+				\begin{enumerate}[label=(\roman*)]
+					\item Vorwärts-Differenzenquotient
+						\[ \tcboxmath{ u^\prime = \frac{u(x_{i+1}) - u(x_i)}{\delta x} + \mathcal{O}(\delta x) } \]
+					\item Rückwärts-Differenzenquotient
+						\[ \tcboxmath{ u^\prime = \frac{u(x_{i}) - u(x_{i-1})}{\delta x} + \mathcal{O}(\delta x) } \]
+					\item zentraler Differenzenquotient
+						\[ \tcboxmath{ u^\prime = \frac{u(x_{i+1}) - u(x_{i-1})}{2\delta x} + \mathcal{O}(\delta x^2) } \]
+				\end{enumerate}
+			\end{frame}
+
+			\begin{frame}
+				\frametitle{Verschobenes Gitter (staggered grid)}
+				\begin{figure}
+					\centering
+					\includegraphics[scale = 0.30]{staggered-grid.png}
+				\end{figure}
+			\end{frame}
+
+		% subsection diskretisierung (end)
+
+		\subsection{Algorithmus} % (fold)
+		\label{sub:algorithmus}
+		
+			\againframe{nsg}
+
+		% subsection algorithmus (end)
+
+	% section numerische_verfahren (end)
+
+	\section{Ergebnisse} % (fold)
+	\label{sec:ergebnisse}
+	
+		\begin{frame}
+			\begin{figure}
+				\centering
+				\includegraphics[scale=0.4]{images/re-1000-512-00520.png}
+			\end{figure}
+		\end{frame}
+
+		\begin{frame}
+			\begin{figure}
+				\centering
+				\includegraphics[scale=0.4]{images/re-1000-512-01069.png}
+			\end{figure}
+		\end{frame}
+
+		\begin{frame}
+			\begin{figure}
+				\centering
+				\includegraphics[scale=0.4]{images/re-1000-512-01555.png}
+			\end{figure}
+		\end{frame}
+
+		\begin{frame}
+			\begin{figure}
+				\centering
+				\includegraphics[scale=0.4]{images/re-1000-512-02170.png}
+			\end{figure}
+		\end{frame}
+
+		\begin{frame}
+			\begin{figure}
+				\centering
+				\includegraphics[scale=0.4]{images/re-1000-512-02405.png}
+			\end{figure}
+		\end{frame}
+
+		\begin{frame}
+			\begin{figure}
+				\centering
+				\includegraphics[scale=0.4]{images/re-1000-512-04758.png}
+			\end{figure}
+		\end{frame}
+
+		\begin{frame}
+			\begin{figure}
+				\centering
+				\includegraphics[scale=0.4]{images/re-1000-512-06482.png}
+			\end{figure}
+		\end{frame}
+
+		\begin{frame}
+			\begin{figure}
+				\centering
+				\includegraphics[scale=0.4]{images/re-1000-512-07612.png}
+			\end{figure}
+		\end{frame}
+
+		\begin{frame}
+			\begin{figure}
+				\centering
+				\includegraphics[scale=0.4]{images/re-1000-512-08419.png}
+			\end{figure}
+		\end{frame}
+
+		\begin{frame}
+			\begin{figure}
+				\centering
+				\includegraphics[scale=0.4]{images/re-1000-512-10164.png}
+			\end{figure}
+		\end{frame}
+
+		\begin{frame}
+			\begin{figure}
+				\centering
+				\includegraphics[scale=0.4]{images/re-1000-512-11408.png}
+			\end{figure}
+		\end{frame}
+
+		\begin{frame}
+			\begin{figure}
+				\centering
+				\includegraphics[scale=0.4]{images/re-1000-512-12475.png}
+			\end{figure}
+		\end{frame}
+
+	% section ergebnisse (end)
+
+	\section{Zusammenfassung} % (fold)
+	\label{sec:zusammenfassung}
+
+		\begin{frame}
+			\textbf{grundsätzliches Verfahren:}
+			\begin{itemize}[label=$\circ$]
+				\item problemabhängige spezialisierte Navier-Stokes-Gleichungen
+				\item Diskretisierung durch Gitter und Finite-Differenzen-Methode
+				\item Aufstellen des linearen Gleichungssystems
+				\item Lösen durch Zeitschrittverfahren und Poisson-Löser
+				\item Anzeigen der Lösung
+			\end{itemize}
+		\end{frame}
+
+		\begin{frame}
+			\textbf{Probleme:}
+			\begin{itemize}[label=$\circ$]
+				\item numerische Instabilität für auftretende Turbulenzen
+				\item viele numerische Verfahren sind problemabhängig
+				\item sehr hoher Aufwand für komplexe Geometrien
+				\item meistens nur qualitativer Vergleich mit Experimenten möglich
+			\end{itemize}
+
+			\begin{figure}
+				\includegraphics[scale = 0.2]{images/re-1000-64.png}
+			\end{figure}
+		\end{frame}
+
+	% section zusammenfassung (end)
+	
+	\begin{frame}
+		\frametitle{Referenzen}
+
+		\begin{itemize}[label=$\circ$]
+			\item Griebel und Dornseifer und Neunhoeffer, \textit{Numerical Simulation in Fluid Dynamics - A Practical Introduction}, 1998
+			\item Ferziger und Peric, \textit{Computational Methods for Fluid Dynamics}, korrigierte 2.Auflage, 1997
+			\item Durst, \textit{Grundlagen der Strömungsmechanik - Eine Einführung in die Theorie der Strömungen von Fluiden}, 2006
+			\item Kincaid and Cheney, \textit{Numerical Analysis: Mathematics of Scientific Computing}, 3.Auflage, 2002
+			\item Ansorg, Skript zu \textit{Thermodynamik und statistische Physik}, 2015/16
+			\item \url{https://en.wikipedia.org/wiki/Computational_fluid_dynamics}
+			\item \url{https://de.wikipedia.org/wiki/Navier-Stokes-Gleichungen}
+		\end{itemize}
+	\end{frame}
+
+\end{document}
