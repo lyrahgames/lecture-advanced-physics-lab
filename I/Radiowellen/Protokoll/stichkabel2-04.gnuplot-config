@@ -1,0 +1,32 @@
+set terminal epslatex size 13cm,7cm
+set output "stichkabel2-04.tex"
+
+set xl '$f$ \ [MHz]'
+set yl '$U_{pp}$ \ [mV]'
+
+set xr [10:90]
+#set yr [0:500]
+
+plot 'stichkabel2-upp-f-01.gnuplot-data' \
+	using 1:2 \
+	with points \
+	title 'offen' \
+	, \
+	'' using 1:2:(1e4) \
+	smooth acsplines ls 5 lt rgb "black" notitle \
+	, \
+	'stichkabel2-upp-f-02.gnuplot-data' \
+	using 1:2 \
+	with points \
+	title 'kurzgeschlossen' \
+	, \
+	'' using 1:2:(1e4) \
+	smooth acsplines ls 5 lt rgb "red" notitle \
+	, \
+	'stichkabel2-upp-f-03.gnuplot-data' \
+	using 1:2 \
+	with points pt 13 \
+	title 'angepasst' \
+	, \
+	'' using 1:2:(1e4) \
+	smooth acsplines ls 5 lt rgb "blue" notitle

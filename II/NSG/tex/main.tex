@@ -1,0 +1,49 @@
+\input{pre}
+
+\ihead[]{Protokoll: \\ Navier-Stokes-Gleichungen}
+\ohead[]{Clemens Anschütz \\ Markus Pawellek}
+
+\title{Protokoll: Numerische Behandlung der Navier-Stokes-Gleichungen}
+\author{Clemens Anschütz \\ Markus Pawellek}
+% \date{}
+
+\usepackage[font=footnotesize]{subcaption}
+
+\begin{document}
+	
+	\maketitle
+	\tableofcontents
+	\newpage
+	\thispagestyle{empty}
+	\null
+	\newpage
+	\pagenumbering{arabic}
+	\input{aufgaben}
+	\newpage
+	\input{grundlagen}
+	\newpage
+	\FloatBarrier
+	\input{aufbau}
+	\newpage
+	\FloatBarrier
+	\input{messwerte}
+	\newpage
+	\FloatBarrier
+	\input{zusammenfassung}
+	\newpage
+	\FloatBarrier
+	% \input{quellen}
+	\bibliography{ref}
+	\newpage
+	\FloatBarrier
+
+	\appendix
+	\input{code}
+	\newpage
+	\FloatBarrier
+	\input{literatur}
+
+	\nocite{gds}
+	\nocite{cmfd}
+
+\end{document}

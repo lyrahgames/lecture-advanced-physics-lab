@@ -1,0 +1,19 @@
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}Aufgaben}{1}
+\contentsline {section}{\numberline {2}Mathematische und physikalische Grundlagen}{2}
+\contentsline {subsection}{\numberline {2.1}Die Navier-Stokes Gleichungen}{2}
+\contentsline {subsection}{\numberline {2.2}Randbedingungen}{3}
+\contentsline {section}{\numberline {3}Numerik und Durchf\IeC {\"u}hrung}{4}
+\contentsline {subsection}{\numberline {3.1}R\IeC {\"a}umliche Diskretisierung und Gitter}{4}
+\contentsline {subsection}{\numberline {3.2}L\IeC {\"o}sen der Impulsgleichungen}{4}
+\contentsline {subsection}{\numberline {3.3}Ableitungs - Stencils}{5}
+\contentsline {subsection}{\numberline {3.4}Berechnung des Drucks}{7}
+\contentsline {section}{\numberline {4}Simulation und Ergebnisse}{8}
+\contentsline {subsection}{\numberline {4.1}Ausgabe und Visualisierung}{8}
+\contentsline {subsection}{\numberline {4.2}Zeitevoluion einer Fl\IeC {\"u}ssigkeit}{8}
+\contentsline {subsection}{\numberline {4.3}Einfluss der Reynoldszahl}{10}
+\contentsline {subsection}{\numberline {4.4}Untersuchung von rechtwinkligen Geometrien}{12}
+\contentsline {subsection}{\numberline {4.5}Periodische Anregung}{12}
+\contentsline {section}{\numberline {5}Zusammenfassung}{18}
+\contentsline {section}{\numberline {A}Quellcode}{20}
+\contentsline {section}{\numberline {B}Literaturbeispiele}{41}

@@ -1,0 +1,2141 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2015.5.1)  4 DEC 2015 15:26
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**main
+(./main.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, pinyin, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/geometry/geometry.sty
+Package: geometry 2008/12/21 v4.2 Page Geometry
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@dimlist=\toks15
+
+(/usr/share/texmf-texlive/tex/xelatex/xetexconfig/geometry.cfg))
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+(/usr/share/texmf-texlive/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/share/texmf-texlive/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/share/texmf-texlive/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/var/lib/texmf/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/share/texmf-texlive/tex/generic/babel/germanb.ldf
+Language: germanb 2008/06/01 v2.6m German support from the babel system
+
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count90
+\U@D=\dimen107
+)
+\l@austrian = a dialect from \language\l@german 
+Package babel Info: Making " an active character on input line 102.
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks18
+\ex@=\dimen108
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen109
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen110
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks19
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks20
+\eqnshift@=\dimen111
+\alignsep@=\dimen112
+\tagshift@=\dimen113
+\tagwidth@=\dimen114
+\totwidth@=\dimen115
+\lineht@=\dimen116
+\@envbody=\toks21
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count103
+))
+\Gin@req@height=\dimen117
+\Gin@req@width=\dimen118
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2009/10/17 v2.4 Conversion with epstopdf on the fly (HO)
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2009/10/17 v2.4 Base part for package epstopdf
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/grfext.sty
+Package: grfext 2007/09/30 v1.0 Managing graphics extensions (HO)
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2009/08/13 v3.4 Keyval support for LaTeX options (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2009/07/30 v1.5 Key value parser with default handler suppor
+t (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2009/09/23 v0.6 LuaTeX support for pdfTeX utility functions
+ (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2009/04/17 v1.2 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2009/08/05 v1.0 Some LaTeX kernel commands for general use (HO
+)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 433.
+
+(/usr/share/texmf-texlive/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2009/10/26 v1.1 Configuration of epstopdf for TeX Live
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+0.
+
+(/usr/share/texmf-texlive/tex/latex/lastpage/lastpage.sty
+Package: lastpage 1994/06/25 v0.1b LaTeX2e package for refs to last page number
+ (JPG)
+)
+(/usr/share/texmf-texlive/tex/latex/koma-script/scrpage2.sty
+Package: scrpage2 2008/12/08 v2.3 LaTeX2e KOMA-Script package
+)
+(/usr/share/texmf-texlive/tex/latex/natbib/natbib.sty
+Package: natbib 2009/07/16 8.31 (PWD, AO)
+\bibhang=\skip46
+\bibsep=\skip47
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count104
+)
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(/usr/share/texmf-texlive/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count105
+\float@exts=\toks23
+\float@box=\box28
+\@float@everytoks=\toks24
+\@floatcapt=\box29
+)
+(/usr/share/texmf-texlive/tex/latex/caption/caption.sty
+Package: caption 2009/10/09 v3.1k Customizing captions (AR)
+
+(/usr/share/texmf-texlive/tex/latex/caption/caption3.sty
+Package: caption3 2009/10/09 v3.1k caption3 kernel (AR)
+\captionmargin=\dimen119
+\captionmargin@=\dimen120
+\captionwidth=\dimen121
+\caption@indent=\dimen122
+\caption@parindent=\dimen123
+\caption@hangindent=\dimen124
+)
+\c@ContinuedFloat=\count106
+Package caption Info: float package is loaded.
+) (./main.aux
+
+LaTeX Warning: Label `sub:modulation_und_mischung' multiply defined.
+
+
+LaTeX Warning: Label `sub:elektromagnetische_wellen_auf_leitungen' multiply def
+ined.
+
+
+LaTeX Warning: Label `sub:modulation_und_mischung' multiply defined.
+
+
+LaTeX Warning: Label `sub:elektromagnetische_wellen_im_freien_raum' multiply de
+fined.
+
+
+LaTeX Warning: Label `sub:elektromagnetische_wellen_auf_leitungen' multiply def
+ined.
+
+
+LaTeX Warning: Label `sub:modulation_und_mischung' multiply defined.
+
+
+LaTeX Warning: Label `sub:elektromagnetische_wellen_im_freien_raum' multiply de
+fined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+
+*geometry auto-detecting driver*
+*geometry detected driver: pdftex*
+-------------------- Geometry parameters
+paper: a4paper
+landscape: --
+twocolumn: --
+twoside: true
+asymmetric: --
+h-parts: 113.81102pt, 369.88583pt, 113.81102pt
+v-parts: 113.81102pt, 617.4248pt, 113.81102pt
+hmarginratio: --
+vmarginratio: --
+lines: --
+heightrounded: --
+bindingoffset: 0.0pt
+truedimen: --
+includehead: --
+includefoot: --
+includemp: --
+driver: pdftex
+-------------------- Page layout dimensions and switches
+\paperwidth  597.50787pt
+\paperheight 845.04684pt
+\textwidth  369.88583pt
+\textheight 617.4248pt
+\oddsidemargin  41.54103pt
+\evensidemargin 41.54103pt
+\topmargin  4.54103pt
+\headheight 12.0pt
+\headsep    25.0pt
+\footskip   30.0pt
+\marginparwidth 103.0pt
+\marginparsep   10.0pt
+\columnsep  10.0pt
+\skip\footins  10.0pt plus 4.0pt minus 2.0pt
+\hoffset 0.0pt
+\voffset 0.0pt
+\mag 1000
+\@twosidetrue \@mparswitchtrue 
+(1in=72.27pt, 1cm=28.45pt)
+-----------------------
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count107
+\scratchdimen=\dimen125
+\scratchbox=\box30
+\nofMPsegments=\count108
+\nofMParguments=\count109
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count110
+\MPscratchDim=\dimen126
+\MPnumerator=\count111
+\everyMPtoPDFconversion=\toks26
+)
+
+Package scrpage2 Warning: seems you are using a constant headheight.
+(scrpage2)                If you get overfull \vbox warnings at almost every
+(scrpage2)                page, you should increase headheight e.g. writing
+(scrpage2)                 \setlength{\headheight}{1.1\baselineskip}
+(scrpage2)                into the preamble of your document.
+(scrpage2)                A better solution would be to use typearea package.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 73.
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 73.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+Overfull \vbox (1.61752pt too high) has occurred while \output is active []
+
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./aufgaben.tex
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 6.
+
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
+)
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [2]
+(./grundlagen.tex
+<messwerte/Leitungsbelaege.jpg, id=14, 327.47343pt x 188.95593pt>
+File: messwerte/Leitungsbelaege.jpg Graphic file (type jpg)
+
+<use messwerte/Leitungsbelaege.jpg>
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.11 ...sstücks der Länge l = dx \cite{vierpol}}
+                                                   %fick dich schröter!!!
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.11 ...sstücks der Länge l = dx \cite{vierpol}}
+                                                   %fick dich schröter!!!
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [3 <./messwerte/Leitungsbelaege.jpg>]
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [4]
+<messwerte/Early_Lecher_line.png, id=27, 988.69376pt x 504.88625pt>
+File: messwerte/Early_Lecher_line.png Graphic file (type png)
+
+<use messwerte/Early_Lecher_line.png>
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.102 ...ungen bei hohen Frequenzen \cite{lecher}}
+                                                   %fick dich schröter!!!
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.102 ...ungen bei hohen Frequenzen \cite{lecher}}
+                                                   %fick dich schröter!!!
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+<messwerte/twisted_pair.jpg, id=28, 362.35374pt x 152.57pt>
+File: messwerte/twisted_pair.jpg Graphic file (type jpg)
+
+<use messwerte/twisted_pair.jpg>
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.109 ...agung in Computersystemen \cite{twisted}}
+                                                   %fick dich schröter!!!
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.109 ...agung in Computersystemen \cite{twisted}}
+                                                   %fick dich schröter!!!
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [5 <./messwerte/Early_Lecher_line.png (PNG copy)> <./messwerte/twisted_pair.jp
+g>]
+<messwerte/Koaxkabelbild.png, id=33, 375.0813pt x 227.6505pt>
+File: messwerte/Koaxkabelbild.png Graphic file (type png)
+
+<use messwerte/Koaxkabelbild.png>
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.125 ...h im Versuch verwendet wurde \cite{koax}}
+                                                   %fick dich schröter!!!
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.125 ...h im Versuch verwendet wurde \cite{koax}}
+                                                   %fick dich schröter!!!
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Overfull \hbox (4.18pt too wide) in paragraph at lines 129--131
+\OT1/cmr/m/n/10.95 fen-lei-tun-gen ei-ne Rol-le, da sie sich ein-fach und g[]un
+stig auf Lei-ter-plat-ten drucken
+ []
+
+
+Overfull \hbox (23.41736pt too wide) in paragraph at lines 160--165
+\OT1/cmr/m/n/10.95 Wel-len k[]onnen den Sen-der be-ein-flus-sen oder wenn die K
+a-bell[]ange in Gr[]o^^Yenordnung
+ []
+
+
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [6 <./messwerte/Koaxkabelbild.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 178--182
+
+ []
+
+<messwerte/Mischung.jpg, id=38, 746.79pt x 179.92218pt>
+File: messwerte/Mischung.jpg Graphic file (type jpg)
+
+<use messwerte/Mischung.jpg>
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.194 ...mm Spektrum-Analyzer(USB6251NI) erstellt}
+                                                   %fick dich schröter!!!
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.194 ...mm Spektrum-Analyzer(USB6251NI) erstellt}
+                                                   %fick dich schröter!!!
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [7 <./messwerte/Mischung.jpg>] <messwerte/AM_addit.jpg, id=43, 746.79pt x 179.
+92218pt>
+File: messwerte/AM_addit.jpg Graphic file (type jpg)
+
+<use messwerte/AM_addit.jpg>
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.207 ...mm Spektrum-Analyzer(USB6251NI) erstellt}
+                                                   %fick dich schröter!!!
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.207 ...mm Spektrum-Analyzer(USB6251NI) erstellt}
+                                                   %fick dich schröter!!!
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+<messwerte/FT_AM_addit.jpg, id=44, 748.29562pt x 178.41656pt>
+File: messwerte/FT_AM_addit.jpg Graphic file (type jpg)
+
+<use messwerte/FT_AM_addit.jpg>
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.214 ...mm Spektrum-Analyzer(USB6251NI) erstellt}
+                                                   %fick dich schröter!!!
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.214 ...mm Spektrum-Analyzer(USB6251NI) erstellt}
+                                                   %fick dich schröter!!!
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+<messwerte/multi.jpg, id=45, 995.72pt x 239.89626pt>
+File: messwerte/multi.jpg Graphic file (type jpg)
+ <use messwerte/multi.jpg>
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.237 ...mm Spektrum-Analyzer(USB6251NI) erstellt}
+                                                   %fick dich schröter!!!
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.237 ...mm Spektrum-Analyzer(USB6251NI) erstellt}
+                                                   %fick dich schröter!!!
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [8 <./messwerte/AM_addit.jpg> <./messwerte/FT_AM_addit.jpg>]
+<messwerte/ft-multi.jpg, id=50, 997.7275pt x 237.88875pt>
+File: messwerte/ft-multi.jpg Graphic file (type jpg)
+
+<use messwerte/ft-multi.jpg>
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.244 ...mm Spektrum-Analyzer(USB6251NI) erstellt}
+                                                   %fick dich schröter!!!
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.244 ...mm Spektrum-Analyzer(USB6251NI) erstellt}
+                                                   %fick dich schröter!!!
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+<messwerte/circuit_diagram_parker.png, id=51, 896.34875pt x 461.725pt>
+File: messwerte/circuit_diagram_parker.png Graphic file (type png)
+
+<use messwerte/circuit_diagram_parker.png>
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.253 ...n Amplitudenmodulation \cite{circuitpic}}
+                                                   %fick dich schröter!!!
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.253 ...n Amplitudenmodulation \cite{circuitpic}}
+                                                   %fick dich schröter!!!
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Overfull \hbox (9.21275pt too wide) in paragraph at lines 264--274
+\OT1/cmr/m/n/10.95 Die Aus-brei-tung der elek-tro-ma-gne-ti-schen Wel-len ist d
+ie Grund-la-ge je-der Funkan-
+ []
+
+
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [9 <./messwerte/multi.jpg> <./messwerte/ft-multi.jpg> <./messwerte/circuit_dia
+gram_parker.png>] <messwerte/schwingkreis-antenne.png, id=58, 635.37375pt x 291
+.0875pt>
+File: messwerte/schwingkreis-antenne.png Graphic file (type png)
+
+<use messwerte/schwingkreis-antenne.png>
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.278 ...hwingkreis zur Antenne \cite{unterlagen}}
+                                                   %fick dich schröter!!!
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.278 ...hwingkreis zur Antenne \cite{unterlagen}}
+                                                   %fick dich schröter!!!
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+<messwerte/220px-Lineare_antennen_svg.png, id=59, 220.825pt x 397.485pt>
+File: messwerte/220px-Lineare_antennen_svg.png Graphic file (type png)
+
+<use messwerte/220px-Lineare_antennen_svg.png>
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.292 ...f einer $\lambda /2$-Antenne \cite{wave}}
+                                                   %fick dich schröter!!!
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.292 ...f einer $\lambda /2$-Antenne \cite{wave}}
+                                                   %fick dich schröter!!!
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [10 <./messwerte/schwingkreis-antenne.png>])
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [11 <./messwerte/220px-Lineare_antennen_svg.png>] (./aufbau.tex
+<schaltung-leitung-01.png, id=68, 445.665pt x 232.87pt>
+File: schaltung-leitung-01.png Graphic file (type png)
+
+<use schaltung-leitung-01.png>
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.14 ...d hier durch das jeweilige Kabel ersetzt)}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.14 ...d hier durch das jeweilige Kabel ersetzt)}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...d hier durch das jeweilige Kabel ersetzt)}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--21
+
+ []
+
+<schaltung-impuls-01.png, id=69, 352.6776pt x 189.3474pt>
+File: schaltung-impuls-01.png Graphic file (type png)
+
+<use schaltung-impuls-01.png>
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.29 ...sen auf Leitungen (erstellt mit GeoGebra)}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.29 ...sen auf Leitungen (erstellt mit GeoGebra)}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [12 <./schaltung-leitung-01.png (PNG copy)>]
+<schaltung-impuls-02.png, id=73, 455.7828pt x 269.3262pt>
+File: schaltung-impuls-02.png Graphic file (type png)
+
+<use schaltung-impuls-02.png>
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.39 ...sen auf Leitungen (erstellt mit GeoGebra)}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.39 ...sen auf Leitungen (erstellt mit GeoGebra)}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [13 <./schaltung-impuls-01.png> <./schaltung-impuls-02.png>]
+<schaltung-modulation-01.png, id=80, 393.6306pt x 211.5102pt>
+File: schaltung-modulation-01.png Graphic file (type png)
+
+<use schaltung-modulation-01.png>
+Overfull \hbox (23.7438pt too wide) in paragraph at lines 58--59
+ [] 
+ []
+
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.59 ...\cite{unterlagen} (erstellt mit GeoGebra)}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.59 ...\cite{unterlagen} (erstellt mit GeoGebra)}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+<schaltung-demodulation-01.png, id=81, 534.798pt x 287.1528pt>
+File: schaltung-demodulation-01.png Graphic file (type png)
+
+<use schaltung-demodulation-01.png>
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.70 ...\cite{unterlagen} (erstellt mit GeoGebra)}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.70 ...\cite{unterlagen} (erstellt mit GeoGebra)}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [14 <./schaltung-modulation-01.png> <./schaltung-demodulation-01.png>]
+<schaltung-reflektometer-01.png, id=87, 973.6375pt x 590.205pt>
+File: schaltung-reflektometer-01.png Graphic file (type png)
+
+<use schaltung-reflektometer-01.png>
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.89 ...es Reflektometers (erstellt mit GeoGebra)}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.89 ...es Reflektometers (erstellt mit GeoGebra)}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+<schaltung-antennen-01.png, id=88, 801.99625pt x 565.11125pt>
+File: schaltung-antennen-01.png Graphic file (type png)
+
+<use schaltung-antennen-01.png>
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.110 ...n über Antennen (erstellt mit GeoGebra)}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.110 ...n über Antennen (erstellt mit GeoGebra)}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [15 <./schaltung-reflektometer-01.png (PNG copy)>]
+Overfull \hbox (4.90997pt too wide) in paragraph at lines 114--117
+[]\OT1/cmr/m/n/10.95 In ei-nem letz-ten qua-li-ta-ti-ven Ver-suchs-teil, wur-de
+ mit-hil-fe die-ser grunds[]atzlichen
+ []
+
+)
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [16 <./schaltung-antennen-01.png (PNG copy)>] (./messwerte.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+<messwerte/DSC_0548.JPG, id=95, 3854.4pt x 2168.1pt>
+File: messwerte/DSC_0548.JPG Graphic file (type jpg)
+
+<use messwerte/DSC_0548.JPG>
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.20 ...hsaufbaus für die verwendeten Laborkabel}
+                                                   %fick dich schröter!!!
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.20 ...hsaufbaus für die verwendeten Laborkabel}
+                                                   %fick dich schröter!!!
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+(./laborkabel.tex
+Package epstopdf Info: Source file: <laborkabel.eps>
+(epstopdf)                    date: 2015-12-01 16:33:14
+(epstopdf)                    size: 18643 bytes
+(epstopdf)             Output file: <laborkabel-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-12-01 16:34:44
+(epstopdf)                    size: 4884 bytes
+(epstopdf)             Command: < ps2pdf -dEPSCrop laborkabel.eps laborkabel-ep
+s-converted-to.pdf>
+(epstopdf)             \includegraphics on input line 104.
+Package epstopdf Info: Output file is already uptodate.
+
+<laborkabel-eps-converted-to.pdf, id=96, 369.38pt x 198.7425pt>
+File: laborkabel-eps-converted-to.pdf Graphic file (type pdf)
+
+<use laborkabel-eps-converted-to.pdf>)
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.29 ...ingangswiderstand $R_{in}$ am Oszilloskop}
+                                                   %fick dich schröter
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.29 ...ingangswiderstand $R_{in}$ am Oszilloskop}
+                                                   %fick dich schröter
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [17 <./messwerte/DSC_0548.JPG>]
+Overfull \hbox (31.46368pt too wide) in paragraph at lines 33--39
+[]\OT1/cmr/m/n/10.95 An die-ser Stel-le m[]ochten wir noch be-mer-ken, dass sch
+on durch ge-rin-ge Ver[]anderungen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--39
+
+ []
+
+<messwerte/DSC_0552.JPG, id=100, 3854.4pt x 2168.1pt>
+File: messwerte/DSC_0552.JPG Graphic file (type jpg)
+
+<use messwerte/DSC_0552.JPG>
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.55 ... genauen Versuchsaufbaus der Koaxialkabel}
+                                                   %fick dich schröter
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.55 ... genauen Versuchsaufbaus der Koaxialkabel}
+                                                   %fick dich schröter
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [18 <./laborkabel-eps-converted-to.pdf>] (./koaxkabel.tex
+Package epstopdf Info: Source file: <koaxkabel.eps>
+(epstopdf)                    date: 2015-12-01 16:39:41
+(epstopdf)                    size: 18823 bytes
+(epstopdf)             Output file: <koaxkabel-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-12-01 16:39:42
+(epstopdf)                    size: 5071 bytes
+(epstopdf)             Command: < ps2pdf -dEPSCrop koaxkabel.eps koaxkabel-eps-
+converted-to.pdf>
+(epstopdf)             \includegraphics on input line 101.
+Package epstopdf Info: Output file is already uptodate.
+
+<koaxkabel-eps-converted-to.pdf, id=107, 369.38pt x 198.7425pt>
+File: koaxkabel-eps-converted-to.pdf Graphic file (type pdf)
+
+<use koaxkabel-eps-converted-to.pdf>)
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.66 ...ingangswiderstand $R_{in}$ am Oszilloskop}
+                                                   %fick dich schröter
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.66 ...ingangswiderstand $R_{in}$ am Oszilloskop}
+                                                   %fick dich schröter
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--82
+
+ []
+
+
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [19 <./messwerte/DSC_0552.JPG> <./koaxkabel-eps-converted-to.pdf>]
+<messwerte/DSC_0553.JPG, id=114, 3854.4pt x 2168.1pt>
+File: messwerte/DSC_0553.JPG Graphic file (type jpg)
+
+<use messwerte/DSC_0553.JPG>
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.100 ...axialkabels mit eingestecktem Stichkabel}
+                                                   %fick dich schröter
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.100 ...axialkabels mit eingestecktem Stichkabel}
+                                                   %fick dich schröter
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [20]
+(./stichkabel-01.tex
+Package epstopdf Info: Source file: <stichkabel-01.eps>
+(epstopdf)                    date: 2015-12-01 17:24:06
+(epstopdf)                    size: 17960 bytes
+(epstopdf)             Output file: <stichkabel-01-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-12-01 17:24:08
+(epstopdf)                    size: 4578 bytes
+(epstopdf)             Command: < ps2pdf -dEPSCrop stichkabel-01.eps stichkabel
+-01-eps-converted-to.pdf>
+(epstopdf)             \includegraphics on input line 101.
+Package epstopdf Info: Output file is already uptodate.
+
+<stichkabel-01-eps-converted-to.pdf, id=118, 369.38pt x 198.7425pt>
+File: stichkabel-01-eps-converted-to.pdf Graphic file (type pdf)
+
+<use stichkabel-01-eps-converted-to.pdf>)
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.112 ...eak-Spannung $U_{pp}$ über Frequenz $f$}
+                                                   %fick dich schröter
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.112 ...eak-Spannung $U_{pp}$ über Frequenz $f$}
+                                                   %fick dich schröter
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [21 <./messwerte/DSC_0553.JPG> <./stichkabel-01-eps-converted-to.pdf>]
+<schema-02.png, id=124, 425.59pt x 213.79875pt>
+File: schema-02.png Graphic file (type png)
+ <use schema-02.png>
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.125 ...n stehenden Wellen im offenen Stichkabel}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.125 ...n stehenden Wellen im offenen Stichkabel}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [22 <./schema-02.png (PNG copy)>] (./stichkabel-02.tex
+Package epstopdf Info: Source file: <stichkabel-02.eps>
+(epstopdf)                    date: 2015-12-01 17:21:28
+(epstopdf)                    size: 17849 bytes
+(epstopdf)             Output file: <stichkabel-02-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-12-01 17:22:06
+(epstopdf)                    size: 4414 bytes
+(epstopdf)             Command: < ps2pdf -dEPSCrop stichkabel-02.eps stichkabel
+-02-eps-converted-to.pdf>
+(epstopdf)             \includegraphics on input line 101.
+Package epstopdf Info: Output file is already uptodate.
+
+<stichkabel-02-eps-converted-to.pdf, id=129, 369.38pt x 198.7425pt>
+File: stichkabel-02-eps-converted-to.pdf Graphic file (type pdf)
+
+<use stichkabel-02-eps-converted-to.pdf>)
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.165 ...eak-Spannung $U_{pp}$ über Frequenz $f$}
+                                                   %fick dich schröter
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.165 ...eak-Spannung $U_{pp}$ über Frequenz $f$}
+                                                   %fick dich schröter
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Overfull \hbox (2.2625pt too wide) in paragraph at lines 179--184
+\OT1/cmr/m/n/10.95 Der Verk[]urzungsfaktor soll-te un-abh[]angig von der je-wei
+-li-gen ver-wen-de-ten Schal-
+ []
+
+
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [23 <./stichkabel-02-eps-converted-to.pdf>] (./stichkabel-03.tex
+Package epstopdf Info: Source file: <stichkabel-03.eps>
+(epstopdf)                    date: 2015-12-01 17:33:22
+(epstopdf)                    size: 17830 bytes
+(epstopdf)             Output file: <stichkabel-03-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-12-01 17:33:32
+(epstopdf)                    size: 4366 bytes
+(epstopdf)             Command: < ps2pdf -dEPSCrop stichkabel-03.eps stichkabel
+-03-eps-converted-to.pdf>
+(epstopdf)             \includegraphics on input line 102.
+Package epstopdf Info: Output file is already uptodate.
+
+<stichkabel-03-eps-converted-to.pdf, id=135, 369.38pt x 198.7425pt>
+File: stichkabel-03-eps-converted-to.pdf Graphic file (type pdf)
+
+<use stichkabel-03-eps-converted-to.pdf>)
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.192 ...eak-Spannung $U_{pp}$ über Frequenz $f$}
+                                                   %fick dich schröter
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.192 ...eak-Spannung $U_{pp}$ über Frequenz $f$}
+                                                   %fick dich schröter
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+(./stichkabel-04.tex
+Package epstopdf Info: Source file: <stichkabel-04.eps>
+(epstopdf)                    date: 2015-12-01 17:59:25
+(epstopdf)                    size: 19847 bytes
+(epstopdf)             Output file: <stichkabel-04-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-12-01 17:59:31
+(epstopdf)                    size: 5552 bytes
+(epstopdf)             Command: < ps2pdf -dEPSCrop stichkabel-04.eps stichkabel
+-04-eps-converted-to.pdf>
+(epstopdf)             \includegraphics on input line 107.
+Package epstopdf Info: Output file is already uptodate.
+
+<stichkabel-04-eps-converted-to.pdf, id=136, 369.38pt x 198.7425pt>
+File: stichkabel-04-eps-converted-to.pdf Graphic file (type pdf)
+
+<use stichkabel-04-eps-converted-to.pdf>)
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.204 ...eak-Spannung $U_{pp}$ über Frequenz $f$}
+                                                   %fick dich schröter
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.204 ...eak-Spannung $U_{pp}$ über Frequenz $f$}
+                                                   %fick dich schröter
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [24 <./stichkabel-03-eps-converted-to.pdf>] (./stichkabel2-04.tex
+Package epstopdf Info: Source file: <stichkabel2-04.eps>
+(epstopdf)                    date: 2015-12-01 17:58:25
+(epstopdf)                    size: 20951 bytes
+(epstopdf)             Output file: <stichkabel2-04-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-12-01 17:58:26
+(epstopdf)                    size: 6992 bytes
+(epstopdf)             Command: < ps2pdf -dEPSCrop stichkabel2-04.eps stichkabe
+l2-04-eps-converted-to.pdf>
+(epstopdf)             \includegraphics on input line 107.
+Package epstopdf Info: Output file is already uptodate.
+
+<stichkabel2-04-eps-converted-to.pdf, id=142, 369.38pt x 198.7425pt>
+File: stichkabel2-04-eps-converted-to.pdf Graphic file (type pdf)
+
+<use stichkabel2-04-eps-converted-to.pdf>)
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.228 ...eak-Spannung $U_{pp}$ über Frequenz $f$}
+                                                   %fick dich schröter
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.228 ...eak-Spannung $U_{pp}$ über Frequenz $f$}
+                                                   %fick dich schröter
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--236
+
+ []
+
+
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [25 <./stichkabel-04-eps-converted-to.pdf> <./stichkabel2-04-eps-converted-to.
+pdf>]
+(./impuls-offen-01.tex
+Package epstopdf Info: Source file: <impuls-offen-01.eps>
+(epstopdf)                    date: 2015-12-03 00:23:41
+(epstopdf)                    size: 20623 bytes
+(epstopdf)             Output file: <impuls-offen-01-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-12-03 00:23:42
+(epstopdf)                    size: 4453 bytes
+(epstopdf)             Command: < ps2pdf -dEPSCrop impuls-offen-01.eps impuls-o
+ffen-01-eps-converted-to.pdf>
+(epstopdf)             \includegraphics on input line 104.
+Package epstopdf Info: Output file is already uptodate.
+
+<impuls-offen-01-eps-converted-to.pdf, id=151, 369.38pt x 198.7425pt>
+File: impuls-offen-01-eps-converted-to.pdf Graphic file (type pdf)
+
+<use impuls-offen-01-eps-converted-to.pdf>)
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.257 ...mpuls_1}: \\ Spannung $U$ über Zeit $t$}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.257 ...mpuls_1}: \\ Spannung $U$ über Zeit $t$}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.257 ...mpuls_1}: \\ Spannung $U$ über Zeit $t$}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [26 <./impuls-offen-01-eps-converted-to.pdf>] (./impuls-offen-02.tex
+Package epstopdf Info: Source file: <impuls-offen-02.eps>
+(epstopdf)                    date: 2015-12-03 00:55:17
+(epstopdf)                    size: 24509 bytes
+(epstopdf)             Output file: <impuls-offen-02-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-12-03 00:55:20
+(epstopdf)                    size: 5803 bytes
+(epstopdf)             Command: < ps2pdf -dEPSCrop impuls-offen-02.eps impuls-o
+ffen-02-eps-converted-to.pdf>
+(epstopdf)             \includegraphics on input line 106.
+Package epstopdf Info: Output file is already uptodate.
+
+<impuls-offen-02-eps-converted-to.pdf, id=157, 369.38pt x 198.7425pt>
+File: impuls-offen-02-eps-converted-to.pdf Graphic file (type pdf)
+
+<use impuls-offen-02-eps-converted-to.pdf>)
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.283 ...r Channel 2: Spannung $U$ über Zeit $t$}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.283 ...r Channel 2: Spannung $U$ über Zeit $t$}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--292
+
+ []
+
+
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [27 <./impuls-offen-02-eps-converted-to.pdf>]
+<messwerte/impuls-offen-03.jpg, id=163, 321.2pt x 234.8775pt>
+File: messwerte/impuls-offen-03.jpg Graphic file (type jpg)
+
+<use messwerte/impuls-offen-03.jpg>
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.308 ...r Channel 2: Spannung $U$ über Zeit $t$}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.308 ...r Channel 2: Spannung $U$ über Zeit $t$}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [28 <./messwerte/impuls-offen-03.jpg>]
+Overfull \hbox (38.27592pt too wide) in paragraph at lines 345--353
+\OT1/cmr/m/n/10.95 F[]ur die Rea-li-sie-rung ei-ner ad-di-ti-ven Am-pli-tu-den-
+mo-du-la-ti-on wur-de ei-ne Tr[]agerfrequenz
+ []
+
+(./modulation-amp.tex
+Package epstopdf Info: Source file: <modulation-amp.eps>
+(epstopdf)                    date: 2015-12-03 02:44:34
+(epstopdf)                    size: 21275 bytes
+(epstopdf)             Output file: <modulation-amp-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-12-03 02:44:35
+(epstopdf)                    size: 4956 bytes
+(epstopdf)             Command: < ps2pdf -dEPSCrop modulation-amp.eps modulatio
+n-amp-eps-converted-to.pdf>
+(epstopdf)             \includegraphics on input line 98.
+Package epstopdf Info: Output file is already uptodate.
+
+<modulation-amp-eps-converted-to.pdf, id=167, 369.38pt x 198.7425pt>
+File: modulation-amp-eps-converted-to.pdf Graphic file (type pdf)
+
+<use modulation-amp-eps-converted-to.pdf>)
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.357 ...dulation_1}: Spannung $U$ über Zeit $t$}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.357 ...dulation_1}: Spannung $U$ über Zeit $t$}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+(./modulation-freq.tex
+Package epstopdf Info: Source file: <modulation-freq.eps>
+(epstopdf)                    date: 2015-12-03 02:39:20
+(epstopdf)                    size: 25326 bytes
+(epstopdf)             Output file: <modulation-freq-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-12-03 02:39:29
+(epstopdf)                    size: 6984 bytes
+(epstopdf)             Command: < ps2pdf -dEPSCrop modulation-freq.eps modulati
+on-freq-eps-converted-to.pdf>
+(epstopdf)             \includegraphics on input line 104.
+Package epstopdf Info: Output file is already uptodate.
+
+<modulation-freq-eps-converted-to.pdf, id=168, 369.38pt x 198.7425pt>
+File: modulation-freq-eps-converted-to.pdf Graphic file (type pdf)
+
+<use modulation-freq-eps-converted-to.pdf>)
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.364 ...dulation_1}: Spannung $U$ über Zeit $t$}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.364 ...dulation_1}: Spannung $U$ über Zeit $t$}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Underfull \vbox (badness 1590) has occurred while \output is active []
+
+
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [29 <./modulation-amp-eps-converted-to.pdf>] (./antenne-01.tex
+Package epstopdf Info: Source file: <antenne-01.eps>
+(epstopdf)                    date: 2015-12-03 04:37:17
+(epstopdf)                    size: 17238 bytes
+(epstopdf)             Output file: <antenne-01-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-12-03 04:37:20
+(epstopdf)                    size: 3545 bytes
+(epstopdf)             Command: < ps2pdf -dEPSCrop antenne-01.eps antenne-01-ep
+s-converted-to.pdf>
+(epstopdf)             \includegraphics on input line 100.
+Package epstopdf Info: Output file is already uptodate.
+
+<antenne-01-eps-converted-to.pdf, id=174, 369.38pt x 198.7425pt>
+File: antenne-01-eps-converted-to.pdf Graphic file (type pdf)
+
+<use antenne-01-eps-converted-to.pdf>)
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.383 ...aus Abbildung \ref{schaltung_antennen_1}}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.383 ...aus Abbildung \ref{schaltung_antennen_1}}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+(./antenne-01-2.tex
+Package epstopdf Info: Source file: <antenne-01-2.eps>
+(epstopdf)                    date: 2015-12-03 04:42:26
+(epstopdf)                    size: 17159 bytes
+(epstopdf)             Output file: <antenne-01-2-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-12-03 04:42:31
+(epstopdf)                    size: 3562 bytes
+(epstopdf)             Command: < ps2pdf -dEPSCrop antenne-01-2.eps antenne-01-
+2-eps-converted-to.pdf>
+(epstopdf)             \includegraphics on input line 101.
+Package epstopdf Info: Output file is already uptodate.
+
+<antenne-01-2-eps-converted-to.pdf, id=175, 369.38pt x 198.7425pt>
+File: antenne-01-2-eps-converted-to.pdf Graphic file (type pdf)
+
+<use antenne-01-2-eps-converted-to.pdf>)
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.390 ...aus Abbildung \ref{schaltung_antennen_1}}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.390 ...aus Abbildung \ref{schaltung_antennen_1}}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [30 <./modulation-freq-eps-converted-to.pdf> <./antenne-01-eps-converted-to.pd
+f>]
+(./antenne-02.tex
+Package epstopdf Info: Source file: <antenne-02.eps>
+(epstopdf)                    date: 2015-12-03 05:32:38
+(epstopdf)                    size: 18206 bytes
+(epstopdf)             Output file: <antenne-02-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-12-03 05:32:45
+(epstopdf)                    size: 4004 bytes
+(epstopdf)             Command: < ps2pdf -dEPSCrop antenne-02.eps antenne-02-ep
+s-converted-to.pdf>
+(epstopdf)             \includegraphics on input line 104.
+Package epstopdf Info: Output file is already uptodate.
+
+<antenne-02-eps-converted-to.pdf, id=183, 369.38pt x 198.7425pt>
+File: antenne-02-eps-converted-to.pdf Graphic file (type pdf)
+
+<use antenne-02-eps-converted-to.pdf>)
+! Argument of \@caption has an extra }.
+<inserted text> 
+                \par 
+l.420 ...aus Abbildung \ref{schaltung_antennen_1}}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\@captype {\def \reserved@a *{\nobreak \@xcentercr }\reserved@a }\def \ETC.
+! Paragraph ended before \@caption was complete.
+<to be read again> 
+                   \par 
+l.420 ...aus Abbildung \ref{schaltung_antennen_1}}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Underfull \vbox (badness 1173) has occurred while \output is active []
+
+
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [31 <./antenne-01-2-eps-converted-to.pdf>]
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [32 <./antenne-02-eps-converted-to.pdf>])
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [33]
+(./zusammenfassung.tex
+Overfull \hbox (8.68767pt too wide) in paragraph at lines 1--7
+\OT1/cmr/m/n/10.95 ausl[]oschen. Die Mes-sun-gen der Licht-ge-schwin-dig-kei-te
+n und Verk[]urzungsfaktoren
+ []
+
+)
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [34]
+(./main.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+[]\OT1/cmr/m/n/10.95 URL $\OT1/cmtt/m/n/10.95 http : / / webaudio . prototyping
+ . bbc . co . uk / img / circuit \
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--16
+[]\OT1/cmr/m/n/10.95 URL $\OT1/cmtt/m/n/10.95 http : / / www . itwissen . info 
+/ bilder /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--16
+\OT1/cmtt/m/n/10.95 doppelgeschirmtes-[]rg-[]6-[]kabel-[]foto-[]computercablest
+ore-[]dotcom .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--21
+[]\OT1/cmr/m/n/10.95 URL $\OT1/cmtt/m/n/10.95 https : / / de . wikipedia . org 
+/ wiki / Lecher-[]Leitung # /media /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+[]\OT1/cmr/m/n/10.95 URL $\OT1/cmtt/m/n/10.95 http : / / www . elektronik-[]kom
+pendium . de / sites / net / fotos /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+[]\OT1/cmr/m/n/10.95 URL $\OT1/cmtt/m/n/10.95 https : / / mhf-[]e-[]wiki . desy
+ . de / images / 2 / 29 / Leitungsbel % C3 %
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--32
+[]\OT1/cmr/m/n/10.95 URL $\OT1/cmtt/m/n/10.95 http : / / www . mikrocontroller 
+. net / attachment / $129363 /
+ []
+
+)
+Overfull \vbox (15.2pt too high) has occurred while \output is active []
+
+ [35]
+AED: lastpage setting LastPage (./main.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5184 strings out of 493848
+ 75106 string characters out of 1152824
+ 151913 words of memory out of 3000000
+ 8259 multiletter control sequences out of 15000+50000
+ 14409 words of font info for 55 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 41i,12n,39p,443b,385s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sha
+re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-te
+xlive/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-texlive/fonts
+/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/publ
+ic/amsfonts/cm/cmmi6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/
+cm/cmmi8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi9.pfb
+></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
+/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texli
+ve/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/typ
+e1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-texlive/fonts/type1/public/ams
+fonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr9
+.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/
+share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf
+-texlive/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-texlive/fon
+ts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texmf-texlive/fonts/type1/pub
+lic/amsfonts/cm/cmti10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfont
+s/cm/cmtt10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/symbols/m
+sbm10.pfb>
+Output written on main.pdf (35 pages, 9922738 bytes).
+PDF statistics:
+ 269 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 191 words of extra memory for PDF output out of 10000 (max. 10000000)
+

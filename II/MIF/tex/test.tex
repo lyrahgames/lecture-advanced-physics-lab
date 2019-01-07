@@ -1,0 +1,122 @@
+\documentclass[10pt, twoside, a4paper, fleqn]{article}
+
+% package for changing page layout
+\usepackage{geometry}
+\geometry{a4paper, lmargin=40mm, rmargin=45mm, tmargin=40mm, bmargin=45mm}
+% set indentation
+\setlength{\parindent}{1em}
+
+
+% set factor for line spacing
+% \linespread{1.0}\selectfont
+% set (dynamic) additional line spacing
+% \setlength{\parskip}{1ex plus 0.5ex minus 0.3ex}
+
+% rigorous formatting (not too much hyphens)
+% \fussy
+% \sloppy
+
+% package for changing page layout (used to indent whole paragraphs with adjustwidth)
+\usepackage{changepage}
+
+% input encoding for special characters (e.g. ä,ü,ö,ß), only for non english text
+% options: utf8 as encoding standard, latin1
+\usepackage[utf8]{inputenc}
+% package for font encoding
+\usepackage[T1]{fontenc}
+% package for changing used language (especially for more than one language)
+% options: ngerman (new spelling) or default: english
+\usepackage[ngerman]{babel}
+% package for times font
+% \usepackage{times}
+% package for latin modern fonts
+\usepackage{lmodern}
+
+% package for math symbols, functions and environments from ams(american mathematical society)
+\usepackage{amsmath}
+\usepackage{mathtools}
+% package for extended symbols from ams
+\usepackage{amssymb}
+% package for math black board symbols (e.g. R,Q,Z,...)
+\usepackage{bbm}
+% package used for calligraphic math symbols
+\usepackage{mathrsfs}
+% package for extended symbols from stmaryrd(st mary road)
+\usepackage{stmaryrd}
+% package for more math blackboard symbols
+\usepackage{dsfont}
+
+% pack­age im­ple­ments scal­ing of the math ex­ten­sion font cmex; used for scaling math signs
+\usepackage{exscale}
+
+% package for including extern graphics plus scaling and rotating
+\usepackage{graphicx}
+%package for positioning figures
+\usepackage{float}
+% package for changing color of font and paper
+% options: using names of default colors (e.g red, black)
+% \usepackage[usenames]{color}
+\usepackage[dvipsnames]{xcolor}
+\definecolor{shadecolor}{gray}{0.9}
+% package for customising captions
+\usepackage[footnotesize, hang]{caption}
+% package for customising enumerations (e.g. axioms)
+\usepackage{enumitem}
+% calc package reimplements \setcounter, \addtocounter, \setlength and \addtolength: commands now accept an infix notation expression
+\usepackage{calc}
+% package for creating framed, shaded, or differently highlighted regions that can break across pages; environments: framed, oframed, shaded, shaded*, snugshade, snugshade*, leftbar, titled-frame
+\usepackage{framed}
+% package for creating custom "list of"
+% options: titles: do not intefere with standard headings for "list of"
+\usepackage[titles]{tocloft}
+% change enumeration style of equations
+% \renewcommand\theequation{\thesection.\arabic{equation}}
+
+% new displaymath command, so that equations will not be stretched
+\newcommand{\D}[1]{\mbox{$ #1 $}}
+% make unnumerated equation
+\newcommand{\E}[1]{\[ #1 \]}
+% command for curly brackets
+\newcommand{\curlb}[1]{\left\{ #1 \right\}}
+% command for box brackets
+\newcommand{\boxb}[1]{\left[ #1 \right]}
+% command for parentheses/curved brackets
+\newcommand{\curvb}[1]{\left( #1 \right)}
+% command for angle brackets
+\newcommand{\angleb}[1]{\left\langle #1 \right\rangle}
+% command for floor brackets
+\newcommand{\floorb}[1]{\left\lfloor #1 \right\rfloor}
+% command for ceil brackets
+\newcommand{\ceilb}[1]{\left\lceil #1 \right\rceil}
+% command for creating sets
+\newcommand{\set}[2]{ \left\{ #1 \enspace \middle\vert \enspace #2 \right\} }
+% command for absolute value
+\newcommand{\abs}[1]{\left\vert #1 \right\vert}
+\newcommand{\norm}[1]{\left\| #1 \right\|}
+
+% package for reference to last page (output number of last page)
+\usepackage{lastpage}
+% package for using header and footer
+% options: automate terms of right and left marks
+\usepackage[automark]{scrpage2}
+% \setlength{\headheight}{4\baselineskip}
+% set style for footer and header
+\pagestyle{scrheadings}
+% \pagestyle{headings}
+% clear pagestyle for redefining
+\clearscrheadfoot
+% set header and footer: use <xx>head/foot[]{Text} (i...inner, o...outer, c...center, o...odd, e...even, l...left, r...right)
+
+% use that for mark to last page: \pageref{LastPage}
+% set header separation line
+\setheadsepline[\textwidth]{0.5pt}
+% set foot separation line
+\setfootsepline[\textwidth]{0.5pt}
+
+\begin{document}
+	
+	\input{aufgaben}
+	\newpage
+	\input{grundlagen}
+
+\end{document}

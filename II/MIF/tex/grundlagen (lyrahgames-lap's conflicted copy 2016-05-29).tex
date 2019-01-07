@@ -1,0 +1,97 @@
+\section{Grundlagen} % (fold)
+\label{sec:grundlagen}
+
+	Das sind Grundlagen.
+	Mehr gibt es nicht zu sagen.
+
+	\subsection{Interferenz und Kohärenz} % (fold)
+	\label{sub:interferenz_und_koh_renz}
+		
+		Bringt man zwei Teilbündel der selben Lichtquelle zur Überlagerung (wie hinter einem Youngschen Doppelspalt) kommt es zur Addition der Feldstärken. 
+		Weisen beide Teilbündel die gleiche Polarisation auf, was im Normalfall ohne Bauelemente die die Polarisation beeinflussen zutrifft, so kommt es am Ort der Überlagerung zu Interferenzerscheinungen, wenn die Teilbündel eine Phasendifferenz $\varphi$ besitzen.
+
+		\[ E_1(t) = \hat{E}_1 \cos(\omega t) \]
+		\[ E_2(t) = \hat{E}_2 \cos(\omega t + \varphi) \]
+
+		\begin{alignat*}{3}
+			I = \overline{(E_1 + E_2)^2} \\
+				&=&& \hat{E}_1 \overline{\cos^2(\omega t)} + \hat{E}_2 TT\overline{\cos^2(\omega t)} + 2\hat{E}_1 \hat{E}_2 \hat{\cos(\omega t)\cos(\omega t + \varphi)}
+		\end{alignat*}
+
+		\begin{alignat*}{3}
+			\overline{\cos(\omega t)\cos(\omega t + \varphi)} &=&& \overline{\cos(\omega t)\box{\cos \omega t \cos \varphi - \sin \omega t \sin \varphi} }\\
+				&=&& \overline{\cos^2 (\omega t) \cos \varphi} - \overline{\cos (\omega t) \sin (\omegat t) \sin \varphi} \\
+				&=&& \cos \varphi
+		\end{alignat*}
+
+		\[  \]
+
+		 \[\]
+
+		 -->
+
+		 \[ I = I_1 + I_2 + 2 sqrt{I_1 I_2} \cos \varphi \]
+
+		 Vorrausetzung für die Interferenz von Lichtstrahlen ist ihre Kohärenz.
+		 Zwei Wellen werden kohärent genannt, wenn sie über eine konstante Phasendifferenz in Beziehung stehen.
+		 Man unterscheidet räumliche und zeitliche Kohärenz.
+		 Die Kohärenzzeit $t_{koh} $ ist die Spanne, in der sich die Phasendifferenz nicht ändert, bzw. genauer, in der sie sich um weniger als $2 \Pi $ ändert.
+
+		 Jeden Wellenzug kann man als eine Überlagerung monochromatischer Schwingungen, also als seine Fouriertransformation darstellen:
+
+		 \[\vec{E}(\vec{r}, t) = INTEGRAL f0-delta f/2, fo+ delta f/2, \vec{Ẽ}(\vec{r}, \omega) 
+		 e ^{-i \omega t}\]
+
+		 Nach den Regeln der Fouriertransformation ist ein Wellenzug nun zeitlich umso kürzer, je breiter sein Spektrum, d.h. je größer $\Delta f$ ist.
+		 Da zwei Wellenzüge generell inkohärent sind, ist also die Kohärenzlänge $t_{koh}$ maximal so lang wie ein Wellenzug.
+		 Es gilt der einfache Zusammenhang:
+
+		 \[ t_{koh} = frac{1}{\Delta f} \]
+
+		 Streng monochromatische Strahlung hat demnach als Fouriertransfomierte einen Delta-Peak und eine unendliche Kohärenzzeit und -länge.
+		 Die Kohärenzlänge $l_{koh}$ ergibt sich mit der Phasengeschwindigkeit $c$ zu:
+
+		 \[l_{koh} = t_{koh} c\]
+
+	% subsection interferenz_und_koh_renz (end)
+
+
+	\subsection{Prinzip des Michelson-Interferometers} % (fold)
+	\label{sub:prinzip_des_michelson_interferometers}
+
+		Hier kommt eine große Skizze des MIF.
+
+		\\
+		Wie in Abb 1234567890 zu sehen, durchläuft das Licht im Michelson-Interferometer (MIF) ausgehend von der Quelle zunächst den Kollimator um dann auf einen 50/50-Strahlteiler zu treffen, der zwei Bündel gleicher Intensität zu den Spiegeln Sp1 und Sp2 führt. 
+		Sp2 ist hierbei verstellbar und somit kann die optische Wegdifferenz der beiden Teilstrahlen beliebig eingestellt werden.
+		Nach erneuter Ablenkung durch den Strahlteiler gelangt der eine Teil der Lichtbündel zurück zur Quelle, der andere erreicht den Ausgang und wird über das Objektiv auf eine Fläche abgebildet.
+		Je nach Art des Strahlteilers kann eine Kompensationsplatte in einem der beiden Strahlengänge erforderlich sein, um zu verhindern, dass nur einer der Teilstrahlen z.B. eine Strekce in Glas zurücklegt und so von vorneherein eine ungewollte Wegdifferenz aufweißt.
+		Beträgt die Spiegelverschiebung $\Delta x$ weniger als die halbe Kohärenzlänge, so lassen sich auf dem Schirm je nach Stellung der Spiegel unterschiedliche Interferenzerscheinungen einstellen und beobachten.
+	
+	% subsection prinzip_des_michelson_interferometers (end)
+
+	\subsection{Interferenzen gleicher Neigung - Haidinger Ringe} % (fold)
+	\label{sub:interferenzen_gleicher_neigung_haidinger_ringe}
+
+		Bei idealen Bauteilen und idealer Justierung, d.h. plane Spiegel, keine Verzeichnung durch Linsen und Kollimator, exakt rechtwinklige Ausrichtung der Spiegel, homogenen Strahlenbündel usw \sind auf dem Schirm konzentrische Kreise zu erkennen, genannt Haidinger Ringe.
+		Analog lasssen sich zwei Lichtquellen im Abstand $2 \Delta x$ auf einer Achse vor dem Schirm betrachten.
+
+		EVENTUELL SKIZZE
+
+		Maxima lassen wie immer an allen Stellen finden, wo die Phasendifferenz $\varphi = 2 \Pi$ beträgt, also der Wegunterschied gleich $\lambda$ ist.
+
+	% subsection interferenzen_gleicher_neigung_haidinger_ringe (end)
+
+
+	\subsection{Interferenzen gleicher dicke - Fizeau-Streifen} % (fold)
+	\label{sub:interferenzen_gleicher_dicke_fizeau_streifen}
+	
+
+	% subsection interferenzen_gleicher_dicke_fizeau_streifen (end)
+
+	\subsection{Fourierspektroskopie} % (fold)
+	\label{sub:fourierspektroskopie}
+		
+		
+	% subsection fourierspektroskopie (end)
+% section grundlagen (end)

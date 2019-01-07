@@ -1,0 +1,19 @@
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}Aufgaben}{2}
+\contentsline {section}{\numberline {2}Grundlagen}{3}
+\contentsline {subsection}{\numberline {2.1}Temperaturmessung am Nullpunkt}{3}
+\contentsline {subsection}{\numberline {2.2}Supraleitung und BCS-Theorie}{4}
+\contentsline {subsection}{\numberline {2.3}Sprungtemperatur und kritischer Strom}{5}
+\contentsline {subsection}{\numberline {2.4}Josephson-Kontakte}{5}
+\contentsline {section}{\numberline {3}Aufbau und Durchf\IeC {\"u}hrung}{7}
+\contentsline {subsection}{\numberline {3.1}He-Kanne und F\IeC {\"u}llstandmessung}{7}
+\contentsline {subsection}{\numberline {3.2}Aufbau des Messstabes}{8}
+\contentsline {subsection}{\numberline {3.3}Stromversorgung, Versuchsplatz und Aufzeichnung}{8}
+\contentsline {subsection}{\numberline {3.4}Josephson-Kontakte}{9}
+\contentsline {section}{\numberline {4}Messwerte und Auswertung}{10}
+\contentsline {subsection}{\numberline {4.1}Temperaturverteilung}{10}
+\contentsline {subsection}{\numberline {4.2}Supraleitung von Tantal}{10}
+\contentsline {subsection}{\numberline {4.3}Gleichstrom Josephson-Kontakt}{11}
+\contentsline {subsection}{\numberline {4.4}SQUID-Magnetfeldmessung}{13}
+\contentsline {section}{\numberline {5}Zusammenfassung}{15}
+\contentsline {section}{\numberline {6}Quellen}{16}

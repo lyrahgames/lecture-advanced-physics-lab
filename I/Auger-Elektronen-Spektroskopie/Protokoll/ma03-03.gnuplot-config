@@ -1,0 +1,14 @@
+set terminal epslatex size 16.5cm,9cm
+set output "ma03-03.tex"
+
+set title 'Ag-Spektrummit Modulationsspannung 10V'
+set xl '$E \ [eV]$'
+set yl '$dN/dE \ [1]$'
+
+set yr [-4:4]
+
+plot 'ma03-03.txt' \
+	using (-1.624*$1):2 \
+	with lines \
+	title 'Messwerte', \
+	0 notitle

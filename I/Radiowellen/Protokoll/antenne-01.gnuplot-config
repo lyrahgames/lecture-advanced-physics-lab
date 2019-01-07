@@ -1,0 +1,12 @@
+set terminal epslatex size 13cm,7cm
+set output "antenne-01.tex"
+
+set xl '$L$ \ [cm]'
+set yl '$f$ \ [MHz]'
+
+plot 'antenne-01.gnuplot-data' \
+	using 2:1 \
+	with points pt 13 \
+	title 'Messwerte', \
+	'' using 2:1:(1e4) \
+	smooth acsplines notitle

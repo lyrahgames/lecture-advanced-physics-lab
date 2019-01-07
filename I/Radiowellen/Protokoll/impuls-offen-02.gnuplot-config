@@ -1,0 +1,13 @@
+set terminal epslatex size 13cm,7cm
+set output "impuls-offen-02.tex"
+
+set datafile separator ","
+
+set xl '$t$'
+set yl '$U$'
+
+plot 'messwerte/impuls-offen-02.csv' \
+	using 1:2 \
+	with lines title 'Channel 1', \
+	'' using 1:3 \
+	with lines lt rgb 'blue' title 'Channel 2'

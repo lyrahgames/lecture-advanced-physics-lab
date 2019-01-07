@@ -1,0 +1,10 @@
+set terminal epslatex size 13cm,7cm
+set output "modulation-freq.tex"
+
+set datafile separator ","
+
+set xl '$f$ \ [MHz]'
+
+plot 'messwerte/modulation-freq.CSV' \
+	using ($1 * (10**(-6))):2 \
+	with lines title 'Messwerte'

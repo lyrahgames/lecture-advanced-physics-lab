@@ -1,0 +1,74 @@
+\input{pre}
+
+\usepackage{placeins}
+
+\begin{document}
+	
+	% \maketitle
+	\vfill
+	\articletitle
+	\tableofcontents
+	\newpage
+	\thispagestyle{empty}
+	\null
+	\newpage
+	\pagenumbering{arabic}
+	\input{aufgaben}
+	\FloatBarrier
+	\null
+	\newpage
+	\input{grundlagen}
+	\FloatBarrier
+	\null
+	\newpage
+	\input{aufbau}
+	\FloatBarrier
+	\null
+	\newpage
+	\input{auswertung}
+	\FloatBarrier
+	\null
+	\newpage
+	\input{zammfassung}
+	\newpage
+
+
+	\appendix
+
+	\section{Spektrum - Quecksilberdampflampe} % (fold)
+	\label{sec:hg_spektrum}
+	
+		\begin{figure}[h]
+			\centering
+			\includegraphics[scale = 0.75]{images/hg-cd-reference.PNG}
+			\caption{bekanntes Spektrum der Quecksilberdampflampe \\ Quelle: Versuchsanleitung Sonnenspektroskopie}
+			\label{fig:hg-ref}
+		\end{figure}
+
+	% section hg_spektrum (end)
+
+	\FloatBarrier
+	\newpage
+
+	\section{Absorptionsspektrum Wasser} % (fold)
+	\label{sec:absorptionsspektrum_wasser}
+	
+		\begin{figure}[htb]
+			\centering
+			\includegraphics[scale=0.25]{images/h2o-spec.png}
+			\caption{Absorbtionsspektrum des Wassers \\ Quelle: Versuchsunterlagen}
+			\label{fig:}
+		\end{figure}
+
+	% section absorptionsspektrum_wasser (end)
+
+	\FloatBarrier
+
+	\newpage
+	\pagestyle{empty}
+	\topskip0pt
+	\vspace*{\fill}
+	\centering $\mathscr{D}$anke für die $\mathscr{K}$ekse!
+	\vspace*{\fill}
+
+\end{document}

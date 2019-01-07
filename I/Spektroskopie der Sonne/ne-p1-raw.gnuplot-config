@@ -1,0 +1,20 @@
+#set terminal epslatex size 12cm,7cm
+#set output "ne-p1-raw.tex"
+
+set xl 'Pixel'
+set yl 'Intensität (willkürliche Einheit)'
+
+#set xr [0:1000]
+#set yr [0:20000]
+
+#set xtics 100
+#set ytics 25
+
+set datafile separator ","
+
+plot 'messwerte/Ne-P3-mid.csv' \
+	using 1:2 \
+	with lines \
+	title 'Messwerte'
+
+pause mouse

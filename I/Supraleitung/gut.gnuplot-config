@@ -1,0 +1,16 @@
+set terminal epslatex size 12cm,6.75cm
+set output "gut.tex"
+
+set key bottom
+set key height 3
+
+set format x '%.1f'
+set format y '%.2f'
+
+set xl '$\sim \textit{Spannung an Diode}$'
+set yl '$\textit{Spannung am Tantaldraht}$'
+
+set xtics 0.1
+
+plot 'messwerte/gut.txt' using 1:2 with points pt 13 ps 0.6 title 'Messwerte', \
+	'' using 1:2:(1e8) with lines lw 4 lt rgb "blue" smooth acsplines title 'approximierter Kurvenverlauf'

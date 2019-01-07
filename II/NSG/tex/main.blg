@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: abbrvnat.bst
+Database file #1: ref.bib
+Warning--empty publisher in gds
+Warning--empty publisher in cmfd
+Warning--empty publisher in nsfd
+You've used 3 entries,
+            2773 wiz_defined-function locations,
+            604 strings with 4723 characters,
+and the built_in function-call counts, 912 in all, are:
+= -- 63
+> -- 30
+< -- 3
++ -- 12
+- -- 9
+* -- 53
+:= -- 151
+add.period$ -- 9
+call.type$ -- 3
+change.case$ -- 9
+chr.to.int$ -- 3
+cite$ -- 9
+duplicate$ -- 60
+empty$ -- 97
+format.name$ -- 12
+if$ -- 181
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 6
+newline$ -- 23
+num.names$ -- 12
+pop$ -- 39
+preamble$ -- 1
+purify$ -- 9
+quote$ -- 0
+skip$ -- 37
+stack$ -- 0
+substring$ -- 6
+swap$ -- 3
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 18
+warning$ -- 3
+while$ -- 9
+width$ -- 0
+write$ -- 40
+(There were 3 warnings)

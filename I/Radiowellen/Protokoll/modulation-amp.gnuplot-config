@@ -1,0 +1,13 @@
+set terminal epslatex size 13cm,7cm
+set output "modulation-amp.tex"
+
+set datafile separator ","
+
+set xl '$t$ \ [s]'
+set yl '$U$'
+
+set xr [-1e-5:1e-5]
+
+plot 'messwerte/modulation-amp.csv' \
+	using 1:2 \
+	with lines title 'Messwerte'

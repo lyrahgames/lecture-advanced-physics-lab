@@ -1,0 +1,16 @@
+set terminal epslatex size 16.5cm,9cm
+set output "ph4.tex"
+
+set title 'Probenhalter-Spektrum an Position (2)'
+set xl '$E \ [eV]$'
+set yl '$dN/dE \ [1]$'
+
+set xr [0:150]
+set yr [-6:2]
+
+set label "68" at 68, -5.2
+
+plot 'PH4.txt' \
+	using (-1.624*$1):2:(1) \
+	with lines \
+	title 'Messwerte'

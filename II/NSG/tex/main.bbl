@@ -1,0 +1,23 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Durst(2006)]{gds}
+Durst.
+\newblock \emph{Grundlagen der Strömungsmechanik}.
+\newblock 2006.
+
+\bibitem[Ferziger/Perić(2002)]{cmfd}
+Ferziger/Perić.
+\newblock \emph{Computational Methods for Fluid Dynamics}.
+\newblock 2002.
+
+\bibitem[Griebel/Dornseifer/Neunhoeffer(1998)]{nsfd}
+Griebel/Dornseifer/Neunhoeffer.
+\newblock \emph{Numerical Simulation in Fluid Dynamics}.
+\newblock 1998.
+
+\end{thebibliography}

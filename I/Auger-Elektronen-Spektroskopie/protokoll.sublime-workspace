@@ -1,0 +1,3238 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"arg",
+				"argv"
+			],
+			[
+				"int",
+				"int_max"
+			],
+			[
+				"y",
+				"y_min"
+			],
+			[
+				"x_m",
+				"x_max"
+			],
+			[
+				"y_m",
+				"y_max"
+			],
+			[
+				"x_",
+				"x_min"
+			],
+			[
+				"out",
+				"out2uu"
+			],
+			[
+				"vec_",
+				"vec_x"
+			],
+			[
+				"sqma",
+				"sqmag2"
+			],
+			[
+				"setmult",
+				"setmult2"
+			],
+			[
+				"vec",
+				"vec4f"
+			],
+			[
+				"setneg",
+				"setneg2"
+			],
+			[
+				"setnorm",
+				"setnorm2"
+			],
+			[
+				"setn",
+				"setnorm"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"ve",
+				"vec4f"
+			],
+			[
+				"ex",
+				"exit_stat"
+			],
+			[
+				"MAX",
+				"MAX_NAME_LEN"
+			],
+			[
+				"mtll",
+				"mtl_lib"
+			],
+			[
+				"mtl",
+				"mtl_vec"
+			],
+			[
+				"tex",
+				"tex_p_vec"
+			],
+			[
+				"Max",
+				"MAX_MATERIALS"
+			],
+			[
+				"mat",
+				"matPtr"
+			],
+			[
+				"mt",
+				"mtl_vec"
+			],
+			[
+				"pri",
+				"prim_vec"
+			],
+			[
+				"nor",
+				"normal"
+			],
+			[
+				"prim",
+				"prim_vec"
+			],
+			[
+				"diff",
+				"diff_refl"
+			],
+			[
+				"scenew",
+				"sceneWnd"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"main",
+				"mainWnd"
+			],
+			[
+				"spe",
+				"spec"
+			],
+			[
+				"setv",
+				"setv3"
+			],
+			[
+				"curr",
+				"currMat"
+			],
+			[
+				"mtl_",
+				"mtl_vec"
+			],
+			[
+				"group",
+				"group_vec"
+			],
+			[
+				"wi",
+				"_width"
+			],
+			[
+				"_",
+				"_width"
+			],
+			[
+				"tmp",
+				"tmp_data"
+			],
+			[
+				"GL_UN",
+				"GL_UNPACK_ALIGNMENT"
+			],
+			[
+				"GL_TEX",
+				"GL_TEXTURE_2D"
+			],
+			[
+				"glB",
+				"glBindTexture"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"gl",
+				"glMaterialfv"
+			],
+			[
+				"err",
+				"errvec"
+			],
+			[
+				"item",
+				"item3"
+			],
+			[
+				"ite",
+				"item2"
+			],
+			[
+				"vm",
+				"v_max"
+			],
+			[
+				"worl",
+				"worldMax"
+			],
+			[
+				"v_",
+				"v_max"
+			],
+			[
+				"glE",
+				"glEnable"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Protokoll/main.tex",
+			"settings":
+			{
+				"buffer_size": 4188,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/ma05-03.txt",
+			"settings":
+			{
+				"buffer_size": 48719,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Protokoll/ma05-03.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 382,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/PH4.txt",
+			"settings":
+			{
+				"buffer_size": 8065,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Protokoll/ph4.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 288,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/findmin.cpp",
+			"settings":
+			{
+				"buffer_size": 1041,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/aufbau.tex",
+			"settings":
+			{
+				"buffer_size": 1919,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/messwerte.tex",
+			"settings":
+			{
+				"buffer_size": 13398,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/zusammenfassung.tex",
+			"settings":
+			{
+				"buffer_size": 1333,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/AgGlatt.txt",
+			"settings":
+			{
+				"buffer_size": 32344,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Protokoll/agg.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 260,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/ma03-08.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 261,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/ma03-07.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 262,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/ma03-14.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 276,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/ma03-12.txt",
+			"settings":
+			{
+				"buffer_size": 4105,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Protokoll/ma03-11.txt",
+			"settings":
+			{
+				"buffer_size": 4077,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Protokoll/ma03-10.txt",
+			"settings":
+			{
+				"buffer_size": 4079,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Protokoll/ma03-12.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 265,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/ph2.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 354,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/ma03-11.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 266,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/ma03-10.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 267,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/ma03-03.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 264,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/ma03-02.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 266,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/ma03-01.txt",
+			"settings":
+			{
+				"buffer_size": 4048,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Protokoll/ma03-02.txt",
+			"settings":
+			{
+				"buffer_size": 4037,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Protokoll/ma03-03.txt",
+			"settings":
+			{
+				"buffer_size": 4037,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Protokoll/ma03-01.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 266,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/ma03-16.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 232,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/RUDOLPH/15-16-pawan/151027/ma03-16.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/ma03-16.gnuplot-data",
+			"settings":
+			{
+				"buffer_size": 16179,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/425 - Polarisationszustand des Lichtes/p-N.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 421,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/grundlagen.tex",
+			"settings":
+			{
+				"buffer_size": 7932,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/aufgaben.tex",
+			"settings":
+			{
+				"buffer_size": 2210,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/ref.bib",
+			"settings":
+			{
+				"buffer_size": 291,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/ma03-15.txt",
+			"settings":
+			{
+				"buffer_size": 12810,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Protokoll/ma03-15.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 208,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/ma03-07.txt",
+			"settings":
+			{
+				"buffer_size": 4154,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Protokoll/ma03-08.txt",
+			"settings":
+			{
+				"buffer_size": 4086,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Protokoll/ma03-14.txt",
+			"settings":
+			{
+				"buffer_size": 1339,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/RUDOLPH/15-16-pawan/151027/readme.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/RUDOLPH/15-16-pawan/151102/readme.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/RUDOLPH/15-16-pawan/151103/readme.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"log",
+				"Git: Log"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"comm",
+				"Git: Amend Commit"
+			],
+			[
+				"dif",
+				"Git: Diff Cached"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"fetc",
+				"Git: Fetch"
+			],
+			[
+				"remo",
+				"Git: Remote"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"diff",
+				"Git: Diff"
+			],
+			[
+				"settcurr",
+				"Preferences: Toggle Settings – Current View"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"settin",
+				"Preferences: Toggle Settings – Current View"
+			],
+			[
+				"toggle cu",
+				"Preferences: Toggle Settings – Current View"
+			],
+			[
+				"toggl",
+				"Bookmarks: Toggle"
+			],
+			[
+				"settings",
+				"Preferences: Toggle Settings – Current View"
+			],
+			[
+				"git",
+				"Git: Log"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git dif",
+				"Git: Diff Current File"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"brackettogg",
+				"BracketHighlighter: Toggle String Bracket Escape Mode"
+			],
+			[
+				"bracket toggle",
+				"BracketHighlighter: Toggle String Bracket Escape Mode"
+			],
+			[
+				"bracket togg",
+				"BracketHighlighter: Toggle Global Enable"
+			],
+			[
+				"bracke toggle",
+				"BracketHighlighter: Toggle Global Enable"
+			],
+			[
+				"visi",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"vis",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"bracket",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"bra",
+				"BracketHighlighter: Jump to Left Bracket"
+			],
+			[
+				"brakc",
+				"BracketHighlighter: Select Bracket Content"
+			],
+			[
+				"stall",
+				"Package Control: Install Package"
+			],
+			[
+				"git log",
+				"Git: Log"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"git rem",
+				"Git: Remote"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"setting",
+				"Preferences: Settings - Default"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"kebin",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"k",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"print",
+				"Print Clipboard"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"amn",
+				"Git: Amend Commit"
+			],
+			[
+				"ame",
+				"Git: Amend Commit"
+			],
+			[
+				"commt",
+				"Git: Commit history"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"hist",
+				"Git: Commit history"
+			],
+			[
+				"commi",
+				"Git: Commit history"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"gitst",
+				"Git: Status"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"si",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"sta",
+				"View: Toggle Status Bar"
+			],
+			[
+				"status",
+				"View: Toggle Status Bar"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"brw",
+				"Preferences: Browse Packages"
+			],
+			[
+				"add f",
+				"Project: Add Folder"
+			]
+		],
+		"width": 570.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Auger-Elektronen-Spektroskopie/Protokoll/PH2.txt",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Auger-Elektronen-Spektroskopie/Protokoll/ph2.gnupot-config",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Auger-Elektronen-Spektroskopie/ma03-02.gnuplot-config",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Auger-Elektronen-Spektroskopie/ma03-16-plot.gnuplot-config",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Auger-Elektronen-Spektroskopie/Protokoll/ma03-16.txt",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Höhere Analysis/I/Aufzeichnungen/Übersicht.txt",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/SublimeGit.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/Distraction Free.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/ToggleSettings.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/ToggleSettings/ToggleSettings.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/ToggleSettings/ToggleSettings.sublime-commands",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/ToggleSettings/ToggleSettings.py",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/ToggleSettings/Main.sublime-menu",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/ToggleSettings/package-metadata.json",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/ToggleSettings/README.md",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Package Control/1_reloader.py",
+		"/home/lyrahgames/cloud/Dropbox/tools/sublime-text/sublime-text-2.0.2/User/package control (Case Conflict (1)).last-run",
+		"/home/lyrahgames/cloud/Dropbox/tools/sublime-text/sublime-text-2.0.2/User/package control.last-run",
+		"/home/lyrahgames/cloud/Dropbox/tools/sublime-text/sublime-text-2.0.2/User/SublimePrint.sublime-settings",
+		"/home/lyrahgames/cloud/Dropbox/tools/sublime-text/sublime-text-2.0.2/User/Plain text.sublime-settings",
+		"/home/lyrahgames/cloud/Dropbox/tools/sublime-text/sublime-text-2.0.2/backup-package-list.txt",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/bh_core.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/BracketHighlighter/Example.sublime-keymap",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/home/lyrahgames/pro/xmath/xmath.sublime-workspace",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/lyrahgames/pro/xmath/pro-files/linux/Makefile",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/sublime-github/GitHub.sublime-settings",
+		"/home/lyrahgames/.cache/.fr-Secju9/README.md",
+		"/home/lyrahgames/.cache/.fr-P4Dv4f/README.md",
+		"/home/lyrahgames/.config/QtProject.conf",
+		"/home/lyrahgames/.cache/.fr-68wejB/README.md",
+		"/home/lyrahgames/.config/user-dirs.dirs",
+		"/home/lyrahgames/.profile",
+		"/home/lyrahgames/.cache/.fr-Tq1jrp/ProjectTreeTemplater.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Simple Print Function/Default.sublime-keymap",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Simple Print Function/SublimePrint.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/SublimePrint.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Simple Print Function/README.md",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/SublimePrint.sublime-keymap",
+		"/home/lyrahgames/pro/xmath/src/vec4f.h",
+		"/home/lyrahgames/pro/xmath/pro-files/linux/config.pro",
+		"/home/lyrahgames/pro/xmath/.gitignore",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Open URL/package-metadata.json",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Open URL/open_url.sublime-commands",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Open URL/Context.sublime-menu",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Open URL/open_url.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Open URL/notes.txt",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Open URL/example.txt",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Open URL/Default.sublime-mousemap",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Open URL/Default.sublime-keymap",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/Side Bar.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Open URL/README.md",
+		"/home/lyrahgames/pro/xmath/src/main.cpp",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Open URL/open_url.py",
+		"/windows/pro/xmath/.git/TAG_EDITMSG",
+		"/home/lyrahgames/pro/xmath/src/test.h",
+		"/windows/pro/xmath/.git/COMMIT_EDITMSG",
+		"/home/lyrahgames/cloud/Dropbox/pro/wavefront-obj-loader-v3/src/vec4f.h",
+		"/home/lyrahgames/cloud/Dropbox/pro/vec3f/src/vec4f.h",
+		"/home/lyrahgames/pro/mesh-data/dice/dice.mtl",
+		"/home/lyrahgames/cloud/Dropbox/pro/vrgen-wavefront-obj/pro-files/linux/config.pro",
+		"/home/lyrahgames/pro/mesh-data/mamiya/Mamiya/Mamiya.obj",
+		"/home/lyrahgames/pro/mesh-data/san-miguel/san-miguel.mtl",
+		"/home/lyrahgames/cloud/Dropbox/pro/wavefront-obj-loader-v2/pro-files/data/tmp/input.obj",
+		"/home/lyrahgames/pro/mesh-data/r8_final/final1.mtl",
+		"/home/lyrahgames/pro/mesh-data/audi-r8-tex/audi_r8-tex.mtl",
+		"/home/lyrahgames/pro/mesh-data/dragon/ALDIUN/OBJ/alduin.obj",
+		"/home/lyrahgames/pro/mesh-data/alien-interceptor/Interceptor/alien_interceptor_flying.mtl",
+		"/home/lyrahgames/pro/mesh-data/alien-interceptor/readme.txt",
+		"/home/lyrahgames/pro/mesh-data/crytek-sponza/sponza.obj",
+		"/home/lyrahgames/pro/mesh-data/crytek-sponza/sponza.mtl",
+		"/home/lyrahgames/pro/mesh-data/borderlands-zero/Borderlands 2 - Zero/zero.obj",
+		"/home/lyrahgames/pro/mesh-data/mini-cooper/mini_obj.obj",
+		"/home/lyrahgames/pro/mesh-data/borderlands-zero/Borderlands 2 - Zero/zero.mtl",
+		"/home/lyrahgames/pro/mesh-data/fairy/fairy.mtl",
+		"/home/lyrahgames/pro/mesh-data/ashtray/ahstray.obj",
+		"/home/lyrahgames/pro/mesh-data/r8_final/final1-debug.obj",
+		"/home/lyrahgames/pro/mesh-data/karambit/knife.mtl",
+		"/home/lyrahgames/pro/mesh-data/spider-bot/SPIDERBOOOT.obj",
+		"/home/lyrahgames/cloud/Dropbox/pro/vrgen-wavefront-obj/src/io/WavefrontObj.h",
+		"/home/lyrahgames/cloud/Dropbox/pro/vrgen-wavefront-obj/src/gui/main.cpp",
+		"/home/lyrahgames/pro/vrGenGL_markus/src/gui/Ctrl.h",
+		"/home/lyrahgames/pro/vrGenGL_markus/src/gui/main.cpp",
+		"/home/lyrahgames/pro/vrGenGL_markus/src/gui/Dbgout.cpp",
+		"/home/lyrahgames/pro/vrGenGL_markus/src/gui/Dbgout.h",
+		"/home/lyrahgames/pro/vrGenGL_markus/pro-files/data/test-obj/test.obj",
+		"/home/lyrahgames/pro/vrGenGL_markus/pro-files/data/test-obj/cube.obj",
+		"/home/lyrahgames/pro/vrGenGL_markus/src/rtcore/Camera.cpp",
+		"/home/lyrahgames/pro/vrGenGL_markus/src/rtcore/Camera.h",
+		"/home/lyrahgames/pro/vrGenGL_markus/pro-files/linux/qrc_resources.cpp",
+		"/home/lyrahgames/pro/vrGenGL_markus/src/gui/Viewer.h",
+		"/home/lyrahgames/pro/mesh-data/audi-r8-tex/audi_r8-tex.obj",
+		"/home/lyrahgames/pro/vrGenGL_markus/pro-files/data/test-obj/triangle.obj",
+		"/home/lyrahgames/pro/mesh-data/cornell-box/CornellBox-Original.mtl",
+		"/home/lyrahgames/pro/mesh-data/hairball/hairball.obj",
+		"/home/lyrahgames/pro/mesh-data/cube/cube.obj",
+		"/home/lyrahgames/pro/mesh-data/chinese-dragon/dragon.obj",
+		"/home/lyrahgames/pro/mesh-data/cornell-box/CornellBox-Original.obj",
+		"/home/lyrahgames/pro/vrGenGL_markus/pro-files/linux/include/MCTP1.h",
+		"/home/lyrahgames/.gvfs/usb-hdd-medion on lyrahgames-rout/projects/struct/vec3f/vec3f.h",
+		"/home/lyrahgames/.gvfs/usb-hdd-medion on lyrahgames-rout/projects/struct/vector/vector.h",
+		"/home/lyrahgames/.gvfs/usb-hdd-medion on lyrahgames-rout/projects/struct/vec3f/vec3f.cpp",
+		"/home/lyrahgames/.bashrc",
+		"/home/lyrahgames/pro/latex-stdinit/sublime-text-snippets/subsection_s.sublime-snippet",
+		"/home/lyrahgames/pro/latex-stdinit/table.csv",
+		"/home/lyrahgames/pro/latex-stdinit/sublime-text-snippets/stdinit.sublime-snippet",
+		"/home/lyrahgames/pro/latex-stdinit/test.py",
+		"/home/lyrahgames/pro/latex-stdinit/main.cu",
+		"/home/lyrahgames/pro/latex-stdinit/main.cpp",
+		"/home/lyrahgames/pro/latex-stdinit/sublime-text-snippets/math/qed01.sublime-snippet",
+		"/home/lyrahgames/cloud/Dropbox/pro/qt-project/histoW-v3/src/histo-w.h",
+		"/home/lyrahgames/cloud/Dropbox/pro/qt-project/histoW-v3/src/main.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"5",
+			"\\\\",
+			"120s",
+			"300ms",
+			"Phase 12^\\circ",
+			"12",
+			"1",
+			"Zeitkonstante 300ms,",
+			"120s",
+			"300ms",
+			"120s",
+			"Parameter:",
+			"timeconst",
+			"Modulationsspannung",
+			"\\dfrac{V}{s}",
+			"0",
+			",",
+			"ph4",
+			",",
+			"equation",
+			"eV",
+			"ph2",
+			",",
+			"const",
+			",",
+			"180°",
+			",",
+			"08",
+			"dfrac",
+			"equation",
+			"ma03",
+			",",
+			"h",
+			",",
+			"test",
+			"centering",
+			"Versuchsbeschreibung",
+			"newpage",
+			"Rechenvorschrift",
+			"Vollständigkeit",
+			"Elementen",
+			"+",
+			"add",
+			"norm",
+			"<",
+			"max",
+			"vec.y",
+			"vec.x",
+			"y",
+			"toggle_settings",
+			"toggle",
+			"drawCentered",
+			"centered",
+			"center",
+			"draw_centered",
+			"show_overlay",
+			"y",
+			"x",
+			"*=",
+			"mult",
+			"-=",
+			"sub",
+			"+=",
+			"add",
+			"super",
+			"solid",
+			"show_in_mini",
+			"Afterglow",
+			"blue",
+			"path",
+			"rel",
+			"relative",
+			"ctrl",
+			"h",
+			"https",
+			"htt",
+			"prim_vec",
+			"//",
+			"	//",
+			"cle",
+			"gendl",
+			"currmat",
+			"setmat",
+			"default_mtl",
+			";\n",
+			"default_mtl",
+			"wf.prim_vec[i].mtl_id",
+			"setmater",
+			"wf.mtl_lib.mtl_vec[active_mtl].",
+			"currmat",
+			"setmater",
+			"diff",
+			"currMat",
+			"matpage",
+			"matPage",
+			"mpage",
+			"setmater",
+			"diff",
+			"4",
+			"tga",
+			"textures\\",
+			"tex_p_vec[",
+			"tex_vec",
+			"Maps\\",
+			"NO_MTL_ID",
+			"wf.prim_vec[i].mtl_id",
+			"texPtr",
+			"texture",
+			"mallocCA",
+			"tex",
+			"mtllib",
+			"340282346638528859811704183484516925440.000000",
+			"3402823466",
+			"loadmtl",
+			"item2",
+			"init",
+			"0",
+			"prim_vec",
+			"wf.pData[i]",
+			"wf",
+			"elemcnt",
+			"wf",
+			"creat",
+			"wf",
+			"parsetuple",
+			"wf",
+			"MAX_MATERIALS",
+			"wf"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Protokoll/main.tex",
+					"settings":
+					{
+						"buffer_size": 4188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4059,
+								4059
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 373.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Protokoll/ma05-03.txt",
+					"settings":
+					{
+						"buffer_size": 48719,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								535,
+								535
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Protokoll/ma05-03.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								382,
+								382
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Protokoll/PH4.txt",
+					"settings":
+					{
+						"buffer_size": 8065,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1088,
+								1088
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Protokoll/ph4.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								288,
+								288
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Protokoll/findmin.cpp",
+					"settings":
+					{
+						"buffer_size": 1041,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								472,
+								472
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 306.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Protokoll/aufbau.tex",
+					"settings":
+					{
+						"buffer_size": 1919,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1435,
+								1435
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Protokoll/messwerte.tex",
+					"settings":
+					{
+						"buffer_size": 13398,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11848,
+								11848
+							],
+							[
+								12159,
+								12159
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"spell_check": true,
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5610.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "Protokoll/zusammenfassung.tex",
+					"settings":
+					{
+						"buffer_size": 1333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1333,
+								1333
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"spell_check": true,
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "Protokoll/AgGlatt.txt",
+					"settings":
+					{
+						"buffer_size": 32344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								503,
+								503
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "Protokoll/agg.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "Protokoll/ma03-08.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								106,
+								106
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "Protokoll/ma03-07.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "Protokoll/ma03-14.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "Protokoll/ma03-12.txt",
+					"settings":
+					{
+						"buffer_size": 4105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1199,
+								1199
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "Protokoll/ma03-11.txt",
+					"settings":
+					{
+						"buffer_size": 4077,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "Protokoll/ma03-10.txt",
+					"settings":
+					{
+						"buffer_size": 4079,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1252,
+								1252
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "Protokoll/ma03-12.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								265,
+								265
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "Protokoll/ph2.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 354,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								354,
+								354
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "Protokoll/ma03-11.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "Protokoll/ma03-10.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 267,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								110,
+								110
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "Protokoll/ma03-03.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								264,
+								264
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "Protokoll/ma03-02.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								266,
+								266
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "Protokoll/ma03-01.txt",
+					"settings":
+					{
+						"buffer_size": 4048,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "Protokoll/ma03-02.txt",
+					"settings":
+					{
+						"buffer_size": 4037,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								980,
+								980
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "Protokoll/ma03-03.txt",
+					"settings":
+					{
+						"buffer_size": 4037,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								901,
+								901
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "Protokoll/ma03-01.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								173,
+								173
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "Protokoll/ma03-16.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								232,
+								232
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "/media/RUDOLPH/15-16-pawan/151027/ma03-16.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "Protokoll/ma03-16.gnuplot-data",
+					"settings":
+					{
+						"buffer_size": 16179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"file": "/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/425 - Polarisationszustand des Lichtes/p-N.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 421,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								320,
+								320
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"file": "Protokoll/grundlagen.tex",
+					"settings":
+					{
+						"buffer_size": 7932,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7634,
+								7634
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"spell_check": true,
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1479.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"file": "Protokoll/aufgaben.tex",
+					"settings":
+					{
+						"buffer_size": 2210,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2183,
+								2183
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 527.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 33,
+					"file": "Protokoll/ref.bib",
+					"settings":
+					{
+						"buffer_size": 291,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								288,
+								288
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/LaTeX/Bibtex.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 34,
+					"file": "Protokoll/ma03-15.txt",
+					"settings":
+					{
+						"buffer_size": 12810,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 35,
+					"file": "Protokoll/ma03-15.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 208,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								208,
+								208
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 36,
+					"file": "Protokoll/ma03-07.txt",
+					"settings":
+					{
+						"buffer_size": 4154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 37,
+					"file": "Protokoll/ma03-08.txt",
+					"settings":
+					{
+						"buffer_size": 4086,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 38,
+					"file": "Protokoll/ma03-14.txt",
+					"settings":
+					{
+						"buffer_size": 1339,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 39,
+					"file": "/media/RUDOLPH/15-16-pawan/151027/readme.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1632.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 40,
+					"file": "/media/RUDOLPH/15-16-pawan/151102/readme.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 41,
+					"file": "/media/RUDOLPH/15-16-pawan/151103/readme.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "Protokoll/ph2.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 354,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								354,
+								354
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 33,
+					"file": "Protokoll/ref.bib",
+					"settings":
+					{
+						"buffer_size": 291,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								291,
+								291
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/LaTeX/Bibtex.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"output.git-commit":
+	{
+		"height": 114.0
+	},
+	"output.git-fetch":
+	{
+		"height": 114.0
+	},
+	"output.git-pull":
+	{
+		"height": 114.0
+	},
+	"output.git-push":
+	{
+		"height": 114.0
+	},
+	"output.git-remote":
+	{
+		"height": 114.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"bib",
+				"Protokoll/ref.bib"
+			],
+			[
+				"auf",
+				"Protokoll/aufbau.tex"
+			],
+			[
+				"ph2.gn",
+				"Protokoll/ph2.gnuplot-config"
+			],
+			[
+				"au",
+				"Protokoll/aufbau.tex"
+			],
+			[
+				"grun",
+				"Protokoll/grundlagen.tex"
+			],
+			[
+				"mess",
+				"Protokoll/messwerte.tex"
+			],
+			[
+				"ma05-",
+				"Protokoll/ma05-03.gnuplot-config"
+			],
+			[
+				"mw",
+				"Protokoll/messwerte.tex"
+			],
+			[
+				"ph",
+				"Protokoll/ph2.gnuplot-config"
+			],
+			[
+				"mai",
+				"Protokoll/main.tex"
+			],
+			[
+				"main",
+				"Protokoll/main.tex"
+			],
+			[
+				"ma14",
+				"Protokoll/ma03-14.gnuplot-config"
+			],
+			[
+				"ma08",
+				"Protokoll/ma03-08.gnuplot-config"
+			],
+			[
+				"ma07",
+				"Protokoll/ma03-07.gnuplot-config"
+			],
+			[
+				"ma03-02",
+				"Protokoll/ma03-02.gnuplot-config"
+			],
+			[
+				"ma0301",
+				"Protokoll/ma03-01.gnuplot-config"
+			],
+			[
+				"ma03",
+				"Protokoll/ma03-15.txt"
+			],
+			[
+				"c",
+				"pro-files/linux/config.pro"
+			],
+			[
+				"ve",
+				"src/vec4f.h"
+			],
+			[
+				"work",
+				"xmath.sublime-workspace"
+			],
+			[
+				"ma",
+				"pro-files/linux/Makefile"
+			],
+			[
+				"con",
+				"pro-files/linux/config.pro"
+			],
+			[
+				"re",
+				"README.md"
+			],
+			[
+				"vec",
+				"src/vec4f.h"
+			],
+			[
+				".g",
+				".gitignore"
+			],
+			[
+				"m",
+				"src/main.cpp"
+			],
+			[
+				"co",
+				"pro-files/linux/config.pro"
+			],
+			[
+				"view",
+				"src/gui/Viewer.cpp"
+			],
+			[
+				"objh",
+				"src/io/wavefront-obj.h"
+			],
+			[
+				"mtl",
+				"src/io/alias-wavefront-mtl.h"
+			],
+			[
+				"math",
+				"src/common/MathUtil.h"
+			],
+			[
+				"bmp",
+				"src/io/bitmap.h"
+			],
+			[
+				"mtlh",
+				"src/io/alias-wavefront-mtl.h"
+			],
+			[
+				"mathu",
+				"src/common/MathUtil.h"
+			],
+			[
+				"clic",
+				"src/io/cmd-line-interp.cpp"
+			],
+			[
+				"clih",
+				"src/io/cmd-line-interp.h"
+			],
+			[
+				"objc",
+				"src/io/wavefront-obj.cpp"
+			],
+			[
+				"data",
+				"src/common/Datastructs.h"
+			],
+			[
+				"obj",
+				"src/io/wavefront-obj.h"
+			],
+			[
+				"conf",
+				"pro-files/linux/config.pro"
+			],
+			[
+				"",
+				"src/io/wavefront-obj.cpp"
+			],
+			[
+				"vi",
+				"src/gui/Viewer.cpp"
+			],
+			[
+				"mtlc",
+				"src/io/alias-wavefront-mtl.cpp"
+			],
+			[
+				"bmpl",
+				"src/io/bitmap-loader.h"
+			],
+			[
+				"ob.c",
+				"src/io/wavefront-obj.cpp"
+			],
+			[
+				"vec4",
+				"src/io/vec4f.h"
+			],
+			[
+				"ctr",
+				"src/gui/Ctrl.h"
+			],
+			[
+				"windw",
+				"src/gui/MainWindow.h"
+			],
+			[
+				"mainh",
+				"src/gui/MainWindow.h"
+			],
+			[
+				"mainc",
+				"src/gui/MainWindow.cpp"
+			],
+			[
+				"viw",
+				"src/gui/Viewer.cpp"
+			],
+			[
+				"wi",
+				"src/gui/MainWindow.cpp"
+			],
+			[
+				"mainwin",
+				"src/gui/MainWindow.cpp"
+			],
+			[
+				"mainwi",
+				"src/gui/MainWindow.cpp"
+			],
+			[
+				"win",
+				"src/gui/MainWindow.h"
+			],
+			[
+				"vie",
+				"src/gui/Viewer.cpp"
+			],
+			[
+				"tga",
+				"src/io/truevision-tga.h"
+			],
+			[
+				"tex",
+				"src/io/TextureLoader.h"
+			],
+			[
+				"bi",
+				"src/io/bitmap-loader.h"
+			],
+			[
+				"text",
+				"src/io/TextureLoader.h"
+			],
+			[
+				"bit",
+				"src/io/bitmap.h"
+			],
+			[
+				"cli",
+				"src/io/cmd-line-interp.cpp"
+			],
+			[
+				"wac",
+				"src/io/WavefrontObj.cpp"
+			],
+			[
+				"te",
+				"src/io/TextureLoader.h"
+			],
+			[
+				"w",
+				"src/io/WavefrontObj.h"
+			],
+			[
+				"cmd",
+				"src/io/cmd-line-interp.h"
+			],
+			[
+				"mi",
+				"src/gui/MainWindow.h"
+			],
+			[
+				"vew",
+				"src/gui/Viewer.h"
+			],
+			[
+				"uni",
+				"src/common/Universal.h"
+			],
+			[
+				"viewr",
+				"src/gui/Viewer.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/lyrahgames/cloud/Dropbox/usr/uni/Externes Praktikum/Bericht/Bericht.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true
+}

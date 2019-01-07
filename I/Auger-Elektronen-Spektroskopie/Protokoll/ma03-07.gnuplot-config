@@ -1,0 +1,14 @@
+set terminal epslatex size 16.5cm,9cm
+set output "ma03-07.tex"
+
+set title 'Ag-Spektrum mit Phase $180^\circ$'
+set xl '$E \ [eV]$'
+set yl '$dN/dE \ [1]$'
+
+set xr [310:400]
+set yr [-2:2]
+
+plot 'ma03-07.txt' \
+	using (-1.624*$1):2 \
+	with lines \
+	title 'Messwerte'

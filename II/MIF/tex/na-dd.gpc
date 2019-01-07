@@ -1,0 +1,12 @@
+set terminal epslatex size 12cm,7cm
+set output "na-dd.tex"
+
+set xl 'Wellenlänge $\lambda \ [\unit{nm}]$'
+set yl 'Intensität'
+
+set xr [585:592]
+set yr [-0.1:15]
+
+set key left box
+
+plot 'messwerte/NaFFT02' using 1:2 with lines title 'Messwerte'

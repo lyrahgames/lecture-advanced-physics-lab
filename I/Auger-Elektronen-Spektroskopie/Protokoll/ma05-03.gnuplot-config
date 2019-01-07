@@ -1,0 +1,19 @@
+set terminal epslatex size 16.5cm,12cm
+set output "ma05-03.tex"
+
+set title 'Proben-Spektrum an Position (3)'
+set xl '$E \ [eV]$'
+set yl '$dN/dE \ [1]$'
+
+#set xr [0:150]
+#set yr [-6:2]
+
+set label "280" at 280, -0.8
+set label "86" at 110, -3.5
+set label "518" at 550, -3.5
+set label "1621" at 1610, 0.2
+
+plot 'ma05-03.txt' \
+	using (-1.624*$1):2:(1) \
+	with lines \
+	title 'Messwerte'

@@ -1,0 +1,12 @@
+set terminal epslatex size 12cm,7cm
+set output "led-laser-spec.tex"
+
+set xl 'Wellenlänge $\lambda \ [\unit{nm}]$'
+set yl 'Intensität'
+
+set xr [650:700]
+set yr [-0.1:2]
+
+set key left box
+
+plot 'messwerte/led-laser-fft-04' using 1:2 with lines title 'Messwerte'

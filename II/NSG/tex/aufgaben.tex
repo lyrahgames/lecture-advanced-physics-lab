@@ -1,0 +1,40 @@
+\section{Aufgaben} % (fold)
+\label{sec:aufgaben}
+
+	Schreiben Sie ein Programm, welches die Navier-Stokes Gleichung für eine inkompressible Flüssigkeit in zwei Dimensionen löst.
+	Beschäftigen Sie sich hierfür zunächst mit der Theorie der Navier-Stokes Gleichung und der Finiten-Differenzen Methode. 
+	Implementieren Sie anschließend Ihr Programm unter Berücksichtigung der Versuchsanleitung.
+	Simulieren und visualisieren Sie mit Ihrem Programm eine Nischenströmung und vergleichen Sie ihre Resultate mit den aus der Literatur bekannten Werten.
+	
+
+	\begin{itemize}
+		\item Überlegen Sie sich im ersten Schritt die Struktur Ihres Programmes. 
+		Es ist sinnvoll, den Quellcode in logische Einheiten zu unterteilen. 
+
+		\item Überlegen Sie sich, welche Parameter Sie für Ihr Programm benötigen werden.
+		Diese sollten nicht im Quellcode gesetzt werden, sondern von einer Parameterdatei eingelesen werden.
+
+		\item Überlegen Sie sich, welche Funktionen Sie benötigen, um den Algorithmus in Ihr Programm zu implementieren.
+		Welche Übergabe- und Rückgabeparameter haben diese Funktionen? 
+
+		\item Kommentieren Sie Ihren Code für eine übersichtliche Dokumentation.
+
+		\item Machen Sie sich Gedanken über die Ausgabe ihres Programmes.
+		Für die Visualisierung des Geschwindigkeitsfeldes wird ein Programm benötigt, welches zweidimensionale Vektordaten darstellen kann.
+
+		\item Analysieren Sie die Zeitevolution der Flüssigkeit.
+		Achten Sie hierbei auf die Ausbildung von Wirbeln und auf den sich einstellenden stationären Endzustand.
+
+		\item Studieren Sie das Verhalten unterschiedlich zäher Flüssigkeiten, indem Sie die Reynoldszahl variieren.
+		Wie wirkt sich dies auf die Wirbelbildung und den stationären Endzustand aus?
+
+		\item Zur Validierung Ihres Codes vergleichen Sie Ihre Ergebnisse mit denen aus der Literatur bekannten Simulationen.
+
+		\item Nachdem Sie sich von der Richtigkeit überzeugt haben, experimentieren Sie mit	unterschiedlichen Boxgeometrien.
+		Wie verhält sich die Flüssigkeit für rechteckige Geometrien?
+
+		\item Gehen Sie am oberen Rand von der konstanten Geschwindigkeitskomponente in eine sich zeitlich periodische Ändernde über.
+
+	\end{itemize}
+
+% section aufgaben (end)

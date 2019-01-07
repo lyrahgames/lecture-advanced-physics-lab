@@ -1,0 +1,14 @@
+set terminal epslatex size 16.5cm,9cm
+set output "ma03-02.tex"
+
+set title 'Ag-Spektrum mit Modulationsspannung $5V$'
+set xl '$E \ [eV]$'
+set yl '$dN/dE \ [1]$'
+
+set yr [-4:4]
+
+plot 'ma03-02.txt' \
+	using (-1.624*$1):2 \
+	with lines \
+	title 'Messwerte', \
+	0 notitle

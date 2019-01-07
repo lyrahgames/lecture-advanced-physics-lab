@@ -1,0 +1,727 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "test.tex",
+			"settings":
+			{
+				"buffer_size": 4368,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "grundlagen.tex",
+			"settings":
+			{
+				"buffer_size": 8279,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "aufbau.tex",
+			"settings":
+			{
+				"buffer_size": 429,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "aufgaben.tex",
+			"settings":
+			{
+				"buffer_size": 1176,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.tex",
+			"settings":
+			{
+				"buffer_size": 391,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/lyrahgames/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+			"settings":
+			{
+				"buffer_size": 1672,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pre.tex",
+			"settings":
+			{
+				"buffer_size": 15232,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/lyrahgames/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 464,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 286.0,
+		"selected_items":
+		[
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"sav",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"lang",
+				"Dictionaries: Set Language (Current View)"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"kebinf",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"statur",
+				"View: Toggle Status Bar"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"brw",
+				"Preferences: Browse Packages"
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			],
+			[
+				"add f",
+				"Project: Add Folder"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 525.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/II/MIF/tex/grundlagen (lyrahgames-lap's conflicted copy 2016-05-29).tex",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/II/MIF/tex/main.tex",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/II/MIF/tex/pre.tex",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/II/NSG/tex/main.tex",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/II/NSG/tex/pre.tex",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Lineare Algebra und Analytische Geometrie/II/Übungen/Übung 03/tex/main.tex",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Lineare Algebra und Analytische Geometrie/II/Aufzeichnungen/tex/main.tex",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Lineare Algebra und Analytische Geometrie/II/Aufzeichnungen/tex/pre.tex",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Spektroskopie der Sonne/messwerte.tex",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/II/NSG/tex/aufbau.tex",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Spektroskopie der Sonne/hg-01.gnuplot-config",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Spektroskopie der Sonne/hg-200-scale.gnuplot-config",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Spektroskopie der Sonne/ne-01.gnuplot-config",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Spektroskopie der Sonne/aufbau.tex",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Spektroskopie der Sonne/hg-200-top.gnuplot-config",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Spektroskopie der Sonne/hg-200-mid.gnuplot-config",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Spektroskopie der Sonne/schema.gnuplot-config",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Spektroskopie der Sonne/doc.tex",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Spektroskopie der Sonne/aufgaben.tex",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Spektroskopie der Sonne/darkcurrent.gnuplot-config",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Spektroskopie der Sonne/dark04-spec.gnuplot-config",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Spektroskopie der Sonne/linear-verlauf.txt",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Spektroskopie der Sonne/linrise.gnuplot-config",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Spektroskopie der Sonne/bias-spec-03.tex",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Spektroskopie der Sonne/grundlagen.tex",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Spektroskopie der Sonne/light-spec-0.5.csv",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Spektroskopie der Sonne/linearspec.gnuplot-config",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Spektroskopie der Sonne/grundlagen",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Supraleitung/messwerte/gut.txt",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Höhere Analysis/I/Übungen/Übung 01/SoSe2015_HABlatt1.tex",
+		"/home/lyrahgames/cloud/Dropbox/pro/latex-stdinit/stdinit.tex",
+		"/home/lyrahgames/cloud/Dropbox/pro/qt-project/histoW-v3/src/histo-w.h",
+		"/home/lyrahgames/pro/latex-stdinit/sublime-text-snippets/subsection_s.sublime-snippet",
+		"/home/lyrahgames/pro/latex-stdinit/table.csv",
+		"/home/lyrahgames/pro/latex-stdinit/sublime-text-snippets/stdinit.sublime-snippet",
+		"/home/lyrahgames/pro/latex-stdinit/test.py",
+		"/home/lyrahgames/pro/latex-stdinit/main.cu",
+		"/home/lyrahgames/pro/latex-stdinit/main.cpp",
+		"/home/lyrahgames/pro/latex-stdinit/sublime-text-snippets/math/qed01.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/lyrahgames/cloud/Dropbox/pro/qt-project/histoW-v3/src/main.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Sp2",
+			"Sp1",
+			"_{koh}",
+			"\\phi",
+			"sin",
+			"cos",
+			"phi",
+			"07",
+			"h",
+			"{koh}",
+			"INTEGRAL",
+			"E_{20}",
+			"E_{10}",
+			"bhfdskgdrisgnrsu",
+			"\\phi",
+			"cos",
+			"omegat",
+			"chead",
+			"idmat",
+			"tran",
+			"equi",
+			"transp",
+			"max",
+			",",
+			"include",
+			"input",
+			"lemma",
+			"enumeration",
+			"lemma",
+			"Lemma",
+			"lemma",
+			"item",
+			"                    item\n",
+			"            \n",
+			"Definition",
+			"item",
+			"darkGray",
+			"customc",
+			"single",
+			"Octave",
+			"txt",
+			"china",
+			"xc3",
+			"darkgray",
+			"black",
+			"customc",
+			"Scheduler",
+			"title",
+			"font"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test.tex",
+					"settings":
+					{
+						"buffer_size": 4368,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4352,
+								4352
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1598.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "grundlagen.tex",
+					"settings":
+					{
+						"buffer_size": 8279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1562,
+								1562
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"spell_check": true,
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1404.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "aufbau.tex",
+					"settings":
+					{
+						"buffer_size": 429,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								380,
+								380
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "aufgaben.tex",
+					"settings":
+					{
+						"buffer_size": 1176,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "main.tex",
+					"settings":
+					{
+						"buffer_size": 391,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								353,
+								353
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/lyrahgames/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 1672,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/PackageDev/Syntax Definitions/Sublime Key Map.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "pre.tex",
+					"settings":
+					{
+						"buffer_size": 15232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13324,
+								13324
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7022.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"file": "/home/lyrahgames/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 464,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/PackageDev/Syntax Definitions/Sublime Settings.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"grun",
+				"grundlagen.tex"
+			],
+			[
+				"ref",
+				"ref.bib"
+			],
+			[
+				"main",
+				"main.tex"
+			],
+			[
+				"aufb",
+				"aufbau.tex"
+			],
+			[
+				"",
+				"main.tex"
+			],
+			[
+				"std",
+				"stdinit.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Spektroskopie der Sonne/p-so.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": false
+}

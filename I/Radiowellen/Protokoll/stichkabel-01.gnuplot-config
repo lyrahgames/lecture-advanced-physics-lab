@@ -1,0 +1,13 @@
+set terminal epslatex size 13cm,7cm
+set output "stichkabel-01.tex"
+
+set xl '$f$ \ [MHz]'
+set yl '$U_{pp}$ \ [mV]'
+
+plot 'stichkabel-upp-f-01.gnuplot-data' \
+	using 1:2 \
+	with points pt 13 \
+	title 'Messwerte' \
+	, \
+	'' using 1:2:($2) \
+	smooth acsplines notitle

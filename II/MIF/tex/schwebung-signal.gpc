@@ -1,0 +1,12 @@
+set terminal epslatex size 12cm,7cm
+set output "schwebung-signal.tex"
+
+set xl 'Wellenlänge $\lambda \ [\unit{nm}]$'
+set yl 'Intensität'
+
+set xr [0:1000]
+set yr [-2:2]
+
+set key left box
+
+plot 'messwerte/Na02' using 1:2 with lines title 'Messwerte'

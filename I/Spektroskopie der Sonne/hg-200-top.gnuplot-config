@@ -1,0 +1,18 @@
+set terminal epslatex size 12cm,7cm
+set output "hg-200-top.tex"
+
+set xl 'Pixel'
+set yl 'Intensität (willkürliche Einheit)'
+
+#set xr [0:1000]
+#set yr [0:20000]
+
+#set xtics 100
+#set ytics 25
+
+set datafile separator ","
+
+plot 'messwerte/Hg-200-s-spec-top.csv' \
+	using 1:2 \
+	with lines \
+	title 'Messwerte'

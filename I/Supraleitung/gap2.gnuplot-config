@@ -1,0 +1,13 @@
+set terminal epslatex size 12cm,6.75cm
+set output "gap2.tex"
+
+set xl '$\sim \textit{Spannung an Diode}$'
+set yl '$\textit{Spannung am Tantaldraht}$'
+
+set format y '%.2f'
+set format x '%.2f'
+
+set yr [0.32:0.52]
+set xtics 0.01
+
+plot 'messwerte/gap2.txt' using 1:2 with points pt 13 ps 0.6 title 'Messwerte'

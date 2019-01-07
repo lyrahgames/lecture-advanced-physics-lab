@@ -1,0 +1,14 @@
+set terminal epslatex size 16.5cm,9cm
+set output "ma03-12.tex"
+
+set title 'Ag-Spektrum mit Zeitkonstante $10ms$'
+set xl '$E \ [eV]$'
+set yl '$dN/dE \ [1]$'
+
+set xr [275:440]
+set yr [-3:3]
+
+plot 'ma03-12.txt' \
+	using (-1.624*$1):2 \
+	with lines \
+	title 'Messwerte'

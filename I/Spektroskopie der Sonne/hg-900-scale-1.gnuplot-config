@@ -1,0 +1,18 @@
+set terminal epslatex size 12cm,7cm
+set output "hg-900-scale-1.tex"
+
+set xl 'Wellenlänge $\lambda \ [\mathrm{nm}]$'
+set yl 'Intensität $I$'
+
+#set xr [0:1000]
+#set yr [0:20000]
+
+#set xtics 100
+#set ytics 25
+
+set datafile separator ","
+
+plot 'messwerte/Hg-P1-mid.csv' \
+	using (507.2825 + 0.0945*$1):2 \
+	with lines \
+	title 'Messwerte'

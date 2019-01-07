@@ -1,0 +1,20 @@
+set terminal epslatex size 12cm,7cm
+set output "hg-200-scale.tex"
+
+set datafile separator ","
+
+set xl 'Wellenlänge $\lambda \ [\unit{nm}]$'
+set yl 'Intensität $I$'
+
+#set xr [0:1000]
+#set yr [0:20000]
+
+#set xtics 100
+#set ytics 25
+
+set datafile separator ","
+
+plot 'Hg-200-s-spec-mid.csv' \
+	using (414.2221 + 0.35374*$1):2 \
+	with lines \
+	title 'Messwerte'

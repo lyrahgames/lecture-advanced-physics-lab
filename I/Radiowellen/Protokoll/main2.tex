@@ -1,0 +1,63 @@
+% documentclass: article used for scientific journals, short reports, program documentation, etc
+% options: fontsize 11, generate document for double sided printing, a4-paper
+\documentclass[11pt, twoside, a4paper]{article}
+
+% package for changing page layout
+\usepackage{geometry}
+\geometry{a4paper, lmargin=30mm, rmargin=20mm, tmargin=30mm, bmargin=20mm}
+% set indentation
+\setlength{\parindent}{0mm} 
+
+% input encoding for special characters (e.g. ä,ü,ö,ß), only for non english text
+% options: utf8 as encoding standard
+\usepackage[utf8]{inputenc}
+% package for changing used language
+% options: german or default: english
+\usepackage[german]{babel}
+
+% package for math symbols, functions and environments from ams(american mathematical society)
+\usepackage{amsmath}
+% package for extended symbols from ams
+\usepackage{amssymb}
+% package for extended symbols from stmaryrd(st mary road)
+%\usepackage{stmaryrd}
+% package for managing pictures
+\usepackage{graphicx}
+
+% package for some extra fonts
+\usepackage{txfonts}
+% package for changing color of font and paper
+% options: using names of default colors (e.g red, black)
+\usepackage[usenames]{color}
+
+% package for converting eps-files to pdf-files and then include them
+\usepackage{epstopdf}
+% use another program (ps2pdf) for converting
+% !!! important: set shell_escape=1 in /etc/texmf/texmf.cnf (Linux) for allowing to use other programs
+% !!!			 or use the command line with -shell-escape
+\epstopdfDeclareGraphicsRule{.eps}{pdf}{.pdf}{
+ps2pdf -dEPSCrop #1 \OutputFile
+}
+
+% package for reference to last page (output number of last page)
+\usepackage{lastpage}
+% package for using header and footer
+% options: automate terms of right and left marks
+\usepackage[automark]{scrpage2}
+% set style for footer and header
+\pagestyle{scrheadings}
+% clear pagestyle for redefining
+\clearscrheadfoot
+% set header and footer: use <xx>head/foot[]{Text} (i...inner, o...outer, c...center, o...odd, e...even, l...left, r...right)
+\ihead[]{}
+\ohead[]{}
+\cfoot[]{\pagemark/\pageref{LastPage}}
+
+
+% begin the document
+\begin{document}
+	
+	dies ist ein text
+
+\end{document}
+

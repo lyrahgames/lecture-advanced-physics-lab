@@ -1,0 +1,1565 @@
+%!PS-Adobe-2.0 EPSF-2.0
+%%Title: gut.tex
+%%Creator: gnuplot 4.4 patchlevel 3
+%%CreationDate: Tue Jan  5 11:14:45 2016
+%%DocumentFonts: 
+%%BoundingBox: 50 50 390 241
+%%EndComments
+%%BeginProlog
+/gnudict 256 dict def
+gnudict begin
+%
+% The following true/false flags may be edited by hand if desired.
+% The unit line width and grayscale image gamma correction may also be changed.
+%
+/Color false def
+/Blacktext true def
+/Solid false def
+/Dashlength 1 def
+/Landscape false def
+/Level1 false def
+/Rounded false def
+/ClipToBoundingBox false def
+/TransparentPatterns false def
+/gnulinewidth 5.000 def
+/userlinewidth gnulinewidth def
+/Gamma 1.0 def
+%
+/vshift -73 def
+/dl1 {
+  10.0 Dashlength mul mul
+  Rounded { currentlinewidth 0.75 mul sub dup 0 le { pop 0.01 } if } if
+} def
+/dl2 {
+  10.0 Dashlength mul mul
+  Rounded { currentlinewidth 0.75 mul add } if
+} def
+/hpt_ 31.5 def
+/vpt_ 31.5 def
+/hpt hpt_ def
+/vpt vpt_ def
+Level1 {} {
+/SDict 10 dict def
+systemdict /pdfmark known not {
+  userdict /pdfmark systemdict /cleartomark get put
+} if
+SDict begin [
+  /Title (gut.tex)
+  /Subject (gnuplot plot)
+  /Creator (gnuplot 4.4 patchlevel 3)
+  /Author (lyrahgames)
+%  /Producer (gnuplot)
+%  /Keywords ()
+  /CreationDate (Tue Jan  5 11:14:45 2016)
+  /DOCINFO pdfmark
+end
+} ifelse
+/doclip {
+  ClipToBoundingBox {
+    newpath 50 50 moveto 390 50 lineto 390 241 lineto 50 241 lineto closepath
+    clip
+  } if
+} def
+%
+% Gnuplot Prolog Version 4.4 (August 2010)
+%
+%/SuppressPDFMark true def
+%
+/M {moveto} bind def
+/L {lineto} bind def
+/R {rmoveto} bind def
+/V {rlineto} bind def
+/N {newpath moveto} bind def
+/Z {closepath} bind def
+/C {setrgbcolor} bind def
+/f {rlineto fill} bind def
+/g {setgray} bind def
+/Gshow {show} def   % May be redefined later in the file to support UTF-8
+/vpt2 vpt 2 mul def
+/hpt2 hpt 2 mul def
+/Lshow {currentpoint stroke M 0 vshift R 
+	Blacktext {gsave 0 setgray show grestore} {show} ifelse} def
+/Rshow {currentpoint stroke M dup stringwidth pop neg vshift R
+	Blacktext {gsave 0 setgray show grestore} {show} ifelse} def
+/Cshow {currentpoint stroke M dup stringwidth pop -2 div vshift R 
+	Blacktext {gsave 0 setgray show grestore} {show} ifelse} def
+/UP {dup vpt_ mul /vpt exch def hpt_ mul /hpt exch def
+  /hpt2 hpt 2 mul def /vpt2 vpt 2 mul def} def
+/DL {Color {setrgbcolor Solid {pop []} if 0 setdash}
+ {pop pop pop 0 setgray Solid {pop []} if 0 setdash} ifelse} def
+/BL {stroke userlinewidth 2 mul setlinewidth
+	Rounded {1 setlinejoin 1 setlinecap} if} def
+/AL {stroke userlinewidth 2 div setlinewidth
+	Rounded {1 setlinejoin 1 setlinecap} if} def
+/UL {dup gnulinewidth mul /userlinewidth exch def
+	dup 1 lt {pop 1} if 10 mul /udl exch def} def
+/PL {stroke userlinewidth setlinewidth
+	Rounded {1 setlinejoin 1 setlinecap} if} def
+3.8 setmiterlimit
+% Default Line colors
+/LCw {1 1 1} def
+/LCb {0 0 0} def
+/LCa {0 0 0} def
+/LC0 {1 0 0} def
+/LC1 {0 1 0} def
+/LC2 {0 0 1} def
+/LC3 {1 0 1} def
+/LC4 {0 1 1} def
+/LC5 {1 1 0} def
+/LC6 {0 0 0} def
+/LC7 {1 0.3 0} def
+/LC8 {0.5 0.5 0.5} def
+% Default Line Types
+/LTw {PL [] 1 setgray} def
+/LTb {BL [] LCb DL} def
+/LTa {AL [1 udl mul 2 udl mul] 0 setdash LCa setrgbcolor} def
+/LT0 {PL [] LC0 DL} def
+/LT1 {PL [4 dl1 2 dl2] LC1 DL} def
+/LT2 {PL [2 dl1 3 dl2] LC2 DL} def
+/LT3 {PL [1 dl1 1.5 dl2] LC3 DL} def
+/LT4 {PL [6 dl1 2 dl2 1 dl1 2 dl2] LC4 DL} def
+/LT5 {PL [3 dl1 3 dl2 1 dl1 3 dl2] LC5 DL} def
+/LT6 {PL [2 dl1 2 dl2 2 dl1 6 dl2] LC6 DL} def
+/LT7 {PL [1 dl1 2 dl2 6 dl1 2 dl2 1 dl1 2 dl2] LC7 DL} def
+/LT8 {PL [2 dl1 2 dl2 2 dl1 2 dl2 2 dl1 2 dl2 2 dl1 4 dl2] LC8 DL} def
+/Pnt {stroke [] 0 setdash gsave 1 setlinecap M 0 0 V stroke grestore} def
+/Dia {stroke [] 0 setdash 2 copy vpt add M
+  hpt neg vpt neg V hpt vpt neg V
+  hpt vpt V hpt neg vpt V closepath stroke
+  Pnt} def
+/Pls {stroke [] 0 setdash vpt sub M 0 vpt2 V
+  currentpoint stroke M
+  hpt neg vpt neg R hpt2 0 V stroke
+ } def
+/Box {stroke [] 0 setdash 2 copy exch hpt sub exch vpt add M
+  0 vpt2 neg V hpt2 0 V 0 vpt2 V
+  hpt2 neg 0 V closepath stroke
+  Pnt} def
+/Crs {stroke [] 0 setdash exch hpt sub exch vpt add M
+  hpt2 vpt2 neg V currentpoint stroke M
+  hpt2 neg 0 R hpt2 vpt2 V stroke} def
+/TriU {stroke [] 0 setdash 2 copy vpt 1.12 mul add M
+  hpt neg vpt -1.62 mul V
+  hpt 2 mul 0 V
+  hpt neg vpt 1.62 mul V closepath stroke
+  Pnt} def
+/Star {2 copy Pls Crs} def
+/BoxF {stroke [] 0 setdash exch hpt sub exch vpt add M
+  0 vpt2 neg V hpt2 0 V 0 vpt2 V
+  hpt2 neg 0 V closepath fill} def
+/TriUF {stroke [] 0 setdash vpt 1.12 mul add M
+  hpt neg vpt -1.62 mul V
+  hpt 2 mul 0 V
+  hpt neg vpt 1.62 mul V closepath fill} def
+/TriD {stroke [] 0 setdash 2 copy vpt 1.12 mul sub M
+  hpt neg vpt 1.62 mul V
+  hpt 2 mul 0 V
+  hpt neg vpt -1.62 mul V closepath stroke
+  Pnt} def
+/TriDF {stroke [] 0 setdash vpt 1.12 mul sub M
+  hpt neg vpt 1.62 mul V
+  hpt 2 mul 0 V
+  hpt neg vpt -1.62 mul V closepath fill} def
+/DiaF {stroke [] 0 setdash vpt add M
+  hpt neg vpt neg V hpt vpt neg V
+  hpt vpt V hpt neg vpt V closepath fill} def
+/Pent {stroke [] 0 setdash 2 copy gsave
+  translate 0 hpt M 4 {72 rotate 0 hpt L} repeat
+  closepath stroke grestore Pnt} def
+/PentF {stroke [] 0 setdash gsave
+  translate 0 hpt M 4 {72 rotate 0 hpt L} repeat
+  closepath fill grestore} def
+/Circle {stroke [] 0 setdash 2 copy
+  hpt 0 360 arc stroke Pnt} def
+/CircleF {stroke [] 0 setdash hpt 0 360 arc fill} def
+/C0 {BL [] 0 setdash 2 copy moveto vpt 90 450 arc} bind def
+/C1 {BL [] 0 setdash 2 copy moveto
+	2 copy vpt 0 90 arc closepath fill
+	vpt 0 360 arc closepath} bind def
+/C2 {BL [] 0 setdash 2 copy moveto
+	2 copy vpt 90 180 arc closepath fill
+	vpt 0 360 arc closepath} bind def
+/C3 {BL [] 0 setdash 2 copy moveto
+	2 copy vpt 0 180 arc closepath fill
+	vpt 0 360 arc closepath} bind def
+/C4 {BL [] 0 setdash 2 copy moveto
+	2 copy vpt 180 270 arc closepath fill
+	vpt 0 360 arc closepath} bind def
+/C5 {BL [] 0 setdash 2 copy moveto
+	2 copy vpt 0 90 arc
+	2 copy moveto
+	2 copy vpt 180 270 arc closepath fill
+	vpt 0 360 arc} bind def
+/C6 {BL [] 0 setdash 2 copy moveto
+	2 copy vpt 90 270 arc closepath fill
+	vpt 0 360 arc closepath} bind def
+/C7 {BL [] 0 setdash 2 copy moveto
+	2 copy vpt 0 270 arc closepath fill
+	vpt 0 360 arc closepath} bind def
+/C8 {BL [] 0 setdash 2 copy moveto
+	2 copy vpt 270 360 arc closepath fill
+	vpt 0 360 arc closepath} bind def
+/C9 {BL [] 0 setdash 2 copy moveto
+	2 copy vpt 270 450 arc closepath fill
+	vpt 0 360 arc closepath} bind def
+/C10 {BL [] 0 setdash 2 copy 2 copy moveto vpt 270 360 arc closepath fill
+	2 copy moveto
+	2 copy vpt 90 180 arc closepath fill
+	vpt 0 360 arc closepath} bind def
+/C11 {BL [] 0 setdash 2 copy moveto
+	2 copy vpt 0 180 arc closepath fill
+	2 copy moveto
+	2 copy vpt 270 360 arc closepath fill
+	vpt 0 360 arc closepath} bind def
+/C12 {BL [] 0 setdash 2 copy moveto
+	2 copy vpt 180 360 arc closepath fill
+	vpt 0 360 arc closepath} bind def
+/C13 {BL [] 0 setdash 2 copy moveto
+	2 copy vpt 0 90 arc closepath fill
+	2 copy moveto
+	2 copy vpt 180 360 arc closepath fill
+	vpt 0 360 arc closepath} bind def
+/C14 {BL [] 0 setdash 2 copy moveto
+	2 copy vpt 90 360 arc closepath fill
+	vpt 0 360 arc} bind def
+/C15 {BL [] 0 setdash 2 copy vpt 0 360 arc closepath fill
+	vpt 0 360 arc closepath} bind def
+/Rec {newpath 4 2 roll moveto 1 index 0 rlineto 0 exch rlineto
+	neg 0 rlineto closepath} bind def
+/Square {dup Rec} bind def
+/Bsquare {vpt sub exch vpt sub exch vpt2 Square} bind def
+/S0 {BL [] 0 setdash 2 copy moveto 0 vpt rlineto BL Bsquare} bind def
+/S1 {BL [] 0 setdash 2 copy vpt Square fill Bsquare} bind def
+/S2 {BL [] 0 setdash 2 copy exch vpt sub exch vpt Square fill Bsquare} bind def
+/S3 {BL [] 0 setdash 2 copy exch vpt sub exch vpt2 vpt Rec fill Bsquare} bind def
+/S4 {BL [] 0 setdash 2 copy exch vpt sub exch vpt sub vpt Square fill Bsquare} bind def
+/S5 {BL [] 0 setdash 2 copy 2 copy vpt Square fill
+	exch vpt sub exch vpt sub vpt Square fill Bsquare} bind def
+/S6 {BL [] 0 setdash 2 copy exch vpt sub exch vpt sub vpt vpt2 Rec fill Bsquare} bind def
+/S7 {BL [] 0 setdash 2 copy exch vpt sub exch vpt sub vpt vpt2 Rec fill
+	2 copy vpt Square fill Bsquare} bind def
+/S8 {BL [] 0 setdash 2 copy vpt sub vpt Square fill Bsquare} bind def
+/S9 {BL [] 0 setdash 2 copy vpt sub vpt vpt2 Rec fill Bsquare} bind def
+/S10 {BL [] 0 setdash 2 copy vpt sub vpt Square fill 2 copy exch vpt sub exch vpt Square fill
+	Bsquare} bind def
+/S11 {BL [] 0 setdash 2 copy vpt sub vpt Square fill 2 copy exch vpt sub exch vpt2 vpt Rec fill
+	Bsquare} bind def
+/S12 {BL [] 0 setdash 2 copy exch vpt sub exch vpt sub vpt2 vpt Rec fill Bsquare} bind def
+/S13 {BL [] 0 setdash 2 copy exch vpt sub exch vpt sub vpt2 vpt Rec fill
+	2 copy vpt Square fill Bsquare} bind def
+/S14 {BL [] 0 setdash 2 copy exch vpt sub exch vpt sub vpt2 vpt Rec fill
+	2 copy exch vpt sub exch vpt Square fill Bsquare} bind def
+/S15 {BL [] 0 setdash 2 copy Bsquare fill Bsquare} bind def
+/D0 {gsave translate 45 rotate 0 0 S0 stroke grestore} bind def
+/D1 {gsave translate 45 rotate 0 0 S1 stroke grestore} bind def
+/D2 {gsave translate 45 rotate 0 0 S2 stroke grestore} bind def
+/D3 {gsave translate 45 rotate 0 0 S3 stroke grestore} bind def
+/D4 {gsave translate 45 rotate 0 0 S4 stroke grestore} bind def
+/D5 {gsave translate 45 rotate 0 0 S5 stroke grestore} bind def
+/D6 {gsave translate 45 rotate 0 0 S6 stroke grestore} bind def
+/D7 {gsave translate 45 rotate 0 0 S7 stroke grestore} bind def
+/D8 {gsave translate 45 rotate 0 0 S8 stroke grestore} bind def
+/D9 {gsave translate 45 rotate 0 0 S9 stroke grestore} bind def
+/D10 {gsave translate 45 rotate 0 0 S10 stroke grestore} bind def
+/D11 {gsave translate 45 rotate 0 0 S11 stroke grestore} bind def
+/D12 {gsave translate 45 rotate 0 0 S12 stroke grestore} bind def
+/D13 {gsave translate 45 rotate 0 0 S13 stroke grestore} bind def
+/D14 {gsave translate 45 rotate 0 0 S14 stroke grestore} bind def
+/D15 {gsave translate 45 rotate 0 0 S15 stroke grestore} bind def
+/DiaE {stroke [] 0 setdash vpt add M
+  hpt neg vpt neg V hpt vpt neg V
+  hpt vpt V hpt neg vpt V closepath stroke} def
+/BoxE {stroke [] 0 setdash exch hpt sub exch vpt add M
+  0 vpt2 neg V hpt2 0 V 0 vpt2 V
+  hpt2 neg 0 V closepath stroke} def
+/TriUE {stroke [] 0 setdash vpt 1.12 mul add M
+  hpt neg vpt -1.62 mul V
+  hpt 2 mul 0 V
+  hpt neg vpt 1.62 mul V closepath stroke} def
+/TriDE {stroke [] 0 setdash vpt 1.12 mul sub M
+  hpt neg vpt 1.62 mul V
+  hpt 2 mul 0 V
+  hpt neg vpt -1.62 mul V closepath stroke} def
+/PentE {stroke [] 0 setdash gsave
+  translate 0 hpt M 4 {72 rotate 0 hpt L} repeat
+  closepath stroke grestore} def
+/CircE {stroke [] 0 setdash 
+  hpt 0 360 arc stroke} def
+/Opaque {gsave closepath 1 setgray fill grestore 0 setgray closepath} def
+/DiaW {stroke [] 0 setdash vpt add M
+  hpt neg vpt neg V hpt vpt neg V
+  hpt vpt V hpt neg vpt V Opaque stroke} def
+/BoxW {stroke [] 0 setdash exch hpt sub exch vpt add M
+  0 vpt2 neg V hpt2 0 V 0 vpt2 V
+  hpt2 neg 0 V Opaque stroke} def
+/TriUW {stroke [] 0 setdash vpt 1.12 mul add M
+  hpt neg vpt -1.62 mul V
+  hpt 2 mul 0 V
+  hpt neg vpt 1.62 mul V Opaque stroke} def
+/TriDW {stroke [] 0 setdash vpt 1.12 mul sub M
+  hpt neg vpt 1.62 mul V
+  hpt 2 mul 0 V
+  hpt neg vpt -1.62 mul V Opaque stroke} def
+/PentW {stroke [] 0 setdash gsave
+  translate 0 hpt M 4 {72 rotate 0 hpt L} repeat
+  Opaque stroke grestore} def
+/CircW {stroke [] 0 setdash 
+  hpt 0 360 arc Opaque stroke} def
+/BoxFill {gsave Rec 1 setgray fill grestore} def
+/Density {
+  /Fillden exch def
+  currentrgbcolor
+  /ColB exch def /ColG exch def /ColR exch def
+  /ColR ColR Fillden mul Fillden sub 1 add def
+  /ColG ColG Fillden mul Fillden sub 1 add def
+  /ColB ColB Fillden mul Fillden sub 1 add def
+  ColR ColG ColB setrgbcolor} def
+/BoxColFill {gsave Rec PolyFill} def
+/PolyFill {gsave Density fill grestore grestore} def
+/h {rlineto rlineto rlineto gsave closepath fill grestore} bind def
+%
+% PostScript Level 1 Pattern Fill routine for rectangles
+% Usage: x y w h s a XX PatternFill
+%	x,y = lower left corner of box to be filled
+%	w,h = width and height of box
+%	  a = angle in degrees between lines and x-axis
+%	 XX = 0/1 for no/yes cross-hatch
+%
+/PatternFill {gsave /PFa [ 9 2 roll ] def
+  PFa 0 get PFa 2 get 2 div add PFa 1 get PFa 3 get 2 div add translate
+  PFa 2 get -2 div PFa 3 get -2 div PFa 2 get PFa 3 get Rec
+  gsave 1 setgray fill grestore clip
+  currentlinewidth 0.5 mul setlinewidth
+  /PFs PFa 2 get dup mul PFa 3 get dup mul add sqrt def
+  0 0 M PFa 5 get rotate PFs -2 div dup translate
+  0 1 PFs PFa 4 get div 1 add floor cvi
+	{PFa 4 get mul 0 M 0 PFs V} for
+  0 PFa 6 get ne {
+	0 1 PFs PFa 4 get div 1 add floor cvi
+	{PFa 4 get mul 0 2 1 roll M PFs 0 V} for
+ } if
+  stroke grestore} def
+%
+/languagelevel where
+ {pop languagelevel} {1} ifelse
+ 2 lt
+	{/InterpretLevel1 true def}
+	{/InterpretLevel1 Level1 def}
+ ifelse
+%
+% PostScript level 2 pattern fill definitions
+%
+/Level2PatternFill {
+/Tile8x8 {/PaintType 2 /PatternType 1 /TilingType 1 /BBox [0 0 8 8] /XStep 8 /YStep 8}
+	bind def
+/KeepColor {currentrgbcolor [/Pattern /DeviceRGB] setcolorspace} bind def
+<< Tile8x8
+ /PaintProc {0.5 setlinewidth pop 0 0 M 8 8 L 0 8 M 8 0 L stroke} 
+>> matrix makepattern
+/Pat1 exch def
+<< Tile8x8
+ /PaintProc {0.5 setlinewidth pop 0 0 M 8 8 L 0 8 M 8 0 L stroke
+	0 4 M 4 8 L 8 4 L 4 0 L 0 4 L stroke}
+>> matrix makepattern
+/Pat2 exch def
+<< Tile8x8
+ /PaintProc {0.5 setlinewidth pop 0 0 M 0 8 L
+	8 8 L 8 0 L 0 0 L fill}
+>> matrix makepattern
+/Pat3 exch def
+<< Tile8x8
+ /PaintProc {0.5 setlinewidth pop -4 8 M 8 -4 L
+	0 12 M 12 0 L stroke}
+>> matrix makepattern
+/Pat4 exch def
+<< Tile8x8
+ /PaintProc {0.5 setlinewidth pop -4 0 M 8 12 L
+	0 -4 M 12 8 L stroke}
+>> matrix makepattern
+/Pat5 exch def
+<< Tile8x8
+ /PaintProc {0.5 setlinewidth pop -2 8 M 4 -4 L
+	0 12 M 8 -4 L 4 12 M 10 0 L stroke}
+>> matrix makepattern
+/Pat6 exch def
+<< Tile8x8
+ /PaintProc {0.5 setlinewidth pop -2 0 M 4 12 L
+	0 -4 M 8 12 L 4 -4 M 10 8 L stroke}
+>> matrix makepattern
+/Pat7 exch def
+<< Tile8x8
+ /PaintProc {0.5 setlinewidth pop 8 -2 M -4 4 L
+	12 0 M -4 8 L 12 4 M 0 10 L stroke}
+>> matrix makepattern
+/Pat8 exch def
+<< Tile8x8
+ /PaintProc {0.5 setlinewidth pop 0 -2 M 12 4 L
+	-4 0 M 12 8 L -4 4 M 8 10 L stroke}
+>> matrix makepattern
+/Pat9 exch def
+/Pattern1 {PatternBgnd KeepColor Pat1 setpattern} bind def
+/Pattern2 {PatternBgnd KeepColor Pat2 setpattern} bind def
+/Pattern3 {PatternBgnd KeepColor Pat3 setpattern} bind def
+/Pattern4 {PatternBgnd KeepColor Landscape {Pat5} {Pat4} ifelse setpattern} bind def
+/Pattern5 {PatternBgnd KeepColor Landscape {Pat4} {Pat5} ifelse setpattern} bind def
+/Pattern6 {PatternBgnd KeepColor Landscape {Pat9} {Pat6} ifelse setpattern} bind def
+/Pattern7 {PatternBgnd KeepColor Landscape {Pat8} {Pat7} ifelse setpattern} bind def
+} def
+%
+%
+%End of PostScript Level 2 code
+%
+/PatternBgnd {
+  TransparentPatterns {} {gsave 1 setgray fill grestore} ifelse
+} def
+%
+% Substitute for Level 2 pattern fill codes with
+% grayscale if Level 2 support is not selected.
+%
+/Level1PatternFill {
+/Pattern1 {0.250 Density} bind def
+/Pattern2 {0.500 Density} bind def
+/Pattern3 {0.750 Density} bind def
+/Pattern4 {0.125 Density} bind def
+/Pattern5 {0.375 Density} bind def
+/Pattern6 {0.625 Density} bind def
+/Pattern7 {0.875 Density} bind def
+} def
+%
+% Now test for support of Level 2 code
+%
+Level1 {Level1PatternFill} {Level2PatternFill} ifelse
+%
+/Symbol-Oblique /Symbol findfont [1 0 .167 1 0 0] makefont
+dup length dict begin {1 index /FID eq {pop pop} {def} ifelse} forall
+currentdict end definefont pop
+end
+%%EndProlog
+gnudict begin
+gsave
+doclip
+50 50 translate
+0.050 0.050 scale
+0 setgray
+newpath
+1.000 UL
+LTb
+1078 704 M
+63 0 V
+5264 0 R
+-63 0 V
+1078 1275 M
+63 0 V
+5264 0 R
+-63 0 V
+1078 1847 M
+63 0 V
+5264 0 R
+-63 0 V
+1078 2418 M
+63 0 V
+5264 0 R
+-63 0 V
+1078 2990 M
+63 0 V
+5264 0 R
+-63 0 V
+1078 3561 M
+63 0 V
+5264 0 R
+-63 0 V
+1078 704 M
+0 63 V
+0 2794 R
+0 -63 V
+1966 704 M
+0 63 V
+0 2794 R
+0 -63 V
+2854 704 M
+0 63 V
+0 2794 R
+0 -63 V
+3742 704 M
+0 63 V
+0 2794 R
+0 -63 V
+4629 704 M
+0 63 V
+0 2794 R
+0 -63 V
+5517 704 M
+0 63 V
+0 2794 R
+0 -63 V
+6405 704 M
+0 63 V
+0 2794 R
+0 -63 V
+stroke
+1078 3561 N
+0 -2857 V
+5327 0 V
+0 2857 V
+-5327 0 V
+Z stroke
+1.000 UP
+1.000 UL
+LTb
+0.600 UP
+1.000 UL
+LT0
+LTb
+LT0
+5109 3110 DiaF
+4879 3105 DiaF
+4935 3105 DiaF
+5052 3105 DiaF
+4966 3105 DiaF
+4927 3105 DiaF
+5070 3099 DiaF
+4970 3099 DiaF
+4927 3099 DiaF
+5057 3110 DiaF
+4983 3099 DiaF
+5039 3105 DiaF
+5065 3105 DiaF
+4979 3116 DiaF
+5135 3105 DiaF
+4914 3110 DiaF
+5078 3105 DiaF
+5091 3105 DiaF
+4948 3116 DiaF
+5087 3110 DiaF
+4987 3116 DiaF
+4948 3099 DiaF
+5113 3116 DiaF
+4996 3105 DiaF
+4961 3105 DiaF
+5074 3105 DiaF
+4957 3099 DiaF
+5091 3110 DiaF
+4953 3105 DiaF
+4940 3116 DiaF
+5083 3110 DiaF
+5005 3105 DiaF
+5065 3093 DiaF
+5061 3110 DiaF
+4935 3110 DiaF
+5083 3105 DiaF
+4961 3105 DiaF
+5065 3110 DiaF
+4992 3110 DiaF
+5039 3116 DiaF
+5022 3110 DiaF
+4927 3116 DiaF
+5061 3099 DiaF
+4987 3105 DiaF
+5022 3116 DiaF
+5083 3105 DiaF
+4961 3116 DiaF
+5065 3105 DiaF
+5057 3121 DiaF
+4987 3105 DiaF
+5113 3105 DiaF
+4957 3110 DiaF
+5013 3110 DiaF
+5074 3105 DiaF
+4970 3105 DiaF
+5161 3105 DiaF
+4948 3105 DiaF
+5122 3105 DiaF
+4983 3110 DiaF
+5035 3110 DiaF
+5113 3105 DiaF
+5091 3116 DiaF
+4940 3110 DiaF
+5052 3116 DiaF
+5139 3105 DiaF
+4953 3110 DiaF
+4961 3110 DiaF
+5122 3110 DiaF
+5018 3105 DiaF
+4953 3105 DiaF
+5031 3105 DiaF
+5078 3110 DiaF
+5013 3105 DiaF
+5031 3110 DiaF
+5130 3116 DiaF
+5048 3105 DiaF
+5005 3110 DiaF
+5143 3110 DiaF
+5087 3110 DiaF
+4987 3105 DiaF
+5065 3110 DiaF
+5096 3105 DiaF
+4961 3116 DiaF
+5091 3110 DiaF
+5074 3110 DiaF
+4966 3110 DiaF
+5083 3116 DiaF
+5130 3116 DiaF
+5000 3105 DiaF
+5174 3110 DiaF
+5100 3110 DiaF
+5005 3116 DiaF
+5126 3121 DiaF
+5169 3110 DiaF
+4987 3116 DiaF
+5070 3127 DiaF
+5204 3116 DiaF
+5130 3105 DiaF
+5078 3116 DiaF
+5130 3127 DiaF
+5182 3121 DiaF
+5057 3121 DiaF
+5243 3127 DiaF
+5174 3127 DiaF
+5109 3121 DiaF
+5261 3132 DiaF
+5178 3121 DiaF
+5113 3127 DiaF
+5287 3138 DiaF
+5100 3127 DiaF
+5282 3132 DiaF
+5248 3121 DiaF
+5126 3132 DiaF
+5282 3138 DiaF
+5287 3138 DiaF
+5130 3138 DiaF
+5330 3132 DiaF
+5313 3138 DiaF
+5148 3132 DiaF
+5382 3132 DiaF
+5352 3144 DiaF
+5187 3138 DiaF
+5300 3138 DiaF
+5365 3138 DiaF
+5265 3138 DiaF
+5347 3149 DiaF
+5382 3149 DiaF
+5252 3138 DiaF
+5412 3144 DiaF
+5451 3155 DiaF
+5291 3149 DiaF
+5451 3149 DiaF
+5486 3155 DiaF
+5330 3144 DiaF
+5365 3155 DiaF
+5421 3160 DiaF
+5339 3160 DiaF
+5317 3160 DiaF
+5451 3160 DiaF
+5404 3160 DiaF
+5347 3160 DiaF
+5490 3166 DiaF
+5547 3166 DiaF
+5451 3160 DiaF
+5399 3149 DiaF
+5542 3166 DiaF
+5386 3172 DiaF
+5408 3166 DiaF
+5508 3172 DiaF
+5425 3166 DiaF
+5599 3166 DiaF
+5551 3166 DiaF
+5434 3177 DiaF
+5612 3177 DiaF
+5586 3177 DiaF
+5473 3172 DiaF
+5560 3177 DiaF
+5642 3177 DiaF
+5490 3166 DiaF
+5503 3183 DiaF
+5629 3177 DiaF
+5629 3183 DiaF
+5568 3183 DiaF
+5603 3188 DiaF
+5681 3183 DiaF
+5538 3177 DiaF
+5525 3188 DiaF
+5698 3183 DiaF
+5677 3183 DiaF
+5577 3194 DiaF
+5668 3188 DiaF
+5711 3194 DiaF
+5629 3194 DiaF
+5568 3199 DiaF
+5746 3205 DiaF
+5659 3194 DiaF
+5551 3199 DiaF
+5720 3199 DiaF
+5746 3194 DiaF
+5759 3199 DiaF
+5577 3194 DiaF
+5720 3199 DiaF
+5789 3205 DiaF
+5633 3205 DiaF
+5668 3199 DiaF
+5789 3199 DiaF
+5716 3199 DiaF
+5625 3205 DiaF
+5776 3211 DiaF
+5824 3205 DiaF
+5664 3205 DiaF
+5685 3211 DiaF
+5690 3216 DiaF
+5863 3205 DiaF
+5742 3211 DiaF
+5694 3205 DiaF
+5729 3194 DiaF
+5815 3216 DiaF
+5742 3205 DiaF
+5707 3216 DiaF
+5720 3205 DiaF
+5828 3216 DiaF
+5854 3216 DiaF
+5759 3222 DiaF
+5750 3211 DiaF
+5889 3216 DiaF
+5906 3222 DiaF
+5763 3216 DiaF
+5763 3216 DiaF
+5902 3216 DiaF
+5854 3211 DiaF
+5772 3205 DiaF
+5768 3227 DiaF
+5850 3222 DiaF
+5885 3216 DiaF
+5711 3216 DiaF
+5893 3211 DiaF
+5906 3216 DiaF
+5772 3216 DiaF
+5746 3222 DiaF
+5867 3216 DiaF
+5889 3216 DiaF
+5820 3216 DiaF
+5746 3205 DiaF
+5837 3222 DiaF
+5911 3211 DiaF
+5785 3211 DiaF
+5759 3205 DiaF
+5854 3205 DiaF
+5902 3211 DiaF
+5733 3205 DiaF
+5750 3211 DiaF
+5811 3222 DiaF
+5902 3205 DiaF
+5872 3205 DiaF
+5742 3205 DiaF
+5703 3205 DiaF
+5785 3205 DiaF
+5885 3211 DiaF
+5859 3211 DiaF
+5802 3199 DiaF
+5750 3199 DiaF
+5863 3199 DiaF
+5768 3199 DiaF
+5733 3199 DiaF
+5802 3199 DiaF
+5863 3194 DiaF
+5789 3199 DiaF
+5694 3199 DiaF
+5737 3199 DiaF
+5828 3194 DiaF
+5629 3183 DiaF
+5659 3188 DiaF
+5746 3194 DiaF
+5768 3188 DiaF
+5690 3188 DiaF
+5629 3177 DiaF
+5711 3183 DiaF
+5772 3188 DiaF
+5690 3183 DiaF
+5607 3177 DiaF
+5729 3177 DiaF
+5794 3188 DiaF
+5690 3177 DiaF
+5573 3172 DiaF
+5993 3177 DiaF
+5629 3166 DiaF
+5499 3177 DiaF
+5508 3166 DiaF
+5642 3166 DiaF
+5724 3172 DiaF
+5646 3160 DiaF
+5482 3160 DiaF
+5464 3160 DiaF
+5711 3160 DiaF
+5655 3160 DiaF
+5612 3160 DiaF
+5495 3160 DiaF
+5508 3155 DiaF
+5469 3160 DiaF
+5534 3149 DiaF
+5616 3155 DiaF
+5577 3149 DiaF
+5499 3149 DiaF
+5369 3149 DiaF
+5503 3144 DiaF
+5560 3138 DiaF
+5538 3149 DiaF
+5391 3144 DiaF
+5343 3138 DiaF
+5365 3132 DiaF
+5421 3138 DiaF
+5477 3138 DiaF
+5486 3138 DiaF
+5434 3132 DiaF
+5399 3127 DiaF
+5300 3132 DiaF
+5451 3138 DiaF
+5438 3132 DiaF
+5343 3121 DiaF
+5235 3127 DiaF
+5278 3121 DiaF
+5209 3116 DiaF
+5304 3127 DiaF
+5369 3116 DiaF
+5239 3116 DiaF
+5213 3121 DiaF
+5252 3116 DiaF
+5321 3116 DiaF
+5317 3116 DiaF
+5209 3116 DiaF
+5178 3116 DiaF
+5096 3105 DiaF
+5087 3110 DiaF
+5248 3105 DiaF
+5196 3110 DiaF
+5096 3105 DiaF
+5057 3099 DiaF
+5057 3093 DiaF
+5083 3093 DiaF
+5187 3099 DiaF
+5169 3093 DiaF
+5018 3088 DiaF
+4983 3093 DiaF
+5100 3093 DiaF
+5031 3093 DiaF
+4996 3088 DiaF
+4979 3088 DiaF
+5061 3088 DiaF
+5044 3088 DiaF
+5031 3088 DiaF
+4948 3088 DiaF
+4879 3088 DiaF
+4883 3082 DiaF
+4983 3082 DiaF
+5009 3077 DiaF
+4992 3088 DiaF
+4862 3077 DiaF
+4892 3071 DiaF
+4753 3088 DiaF
+4814 3071 DiaF
+4814 3082 DiaF
+4935 3077 DiaF
+4892 3077 DiaF
+4758 3060 DiaF
+4753 3071 DiaF
+4723 3082 DiaF
+4805 3071 DiaF
+4831 3077 DiaF
+4862 3071 DiaF
+4727 3071 DiaF
+4684 3065 DiaF
+4693 3071 DiaF
+4758 3071 DiaF
+4736 3077 DiaF
+4615 3065 DiaF
+4636 3071 DiaF
+4502 3065 DiaF
+4671 3065 DiaF
+4675 3060 DiaF
+4662 3060 DiaF
+4654 3065 DiaF
+4541 3065 DiaF
+4489 3060 DiaF
+4597 3065 DiaF
+4619 3060 DiaF
+4593 3060 DiaF
+4498 3065 DiaF
+4389 3054 DiaF
+4359 3060 DiaF
+4472 3065 DiaF
+4554 3065 DiaF
+4524 3060 DiaF
+4411 3060 DiaF
+4363 3060 DiaF
+4298 3054 DiaF
+4359 3060 DiaF
+4511 3060 DiaF
+4437 3065 DiaF
+4389 3065 DiaF
+4376 3060 DiaF
+4285 3054 DiaF
+4259 3049 DiaF
+4203 3060 DiaF
+4198 3054 DiaF
+4289 3054 DiaF
+4320 3060 DiaF
+4294 3060 DiaF
+4237 3049 DiaF
+4281 3060 DiaF
+4268 3060 DiaF
+4086 3049 DiaF
+4038 3049 DiaF
+4008 3049 DiaF
+3990 3054 DiaF
+4012 3049 DiaF
+4107 3043 DiaF
+4025 3054 DiaF
+4016 3049 DiaF
+4021 3049 DiaF
+4120 3049 DiaF
+4086 3043 DiaF
+4107 3049 DiaF
+4099 3049 DiaF
+3969 3043 DiaF
+3960 3049 DiaF
+3860 3043 DiaF
+3865 3049 DiaF
+3865 3043 DiaF
+3830 3049 DiaF
+3925 3043 DiaF
+3925 3054 DiaF
+3904 3049 DiaF
+3899 3049 DiaF
+3839 3049 DiaF
+3765 3038 DiaF
+3756 3049 DiaF
+3717 3049 DiaF
+3761 3049 DiaF
+3761 3043 DiaF
+3752 3043 DiaF
+3735 3043 DiaF
+3696 3043 DiaF
+3722 3049 DiaF
+3700 3049 DiaF
+3561 3049 DiaF
+3683 3049 DiaF
+3574 3043 DiaF
+3635 3049 DiaF
+3652 3038 DiaF
+3661 3043 DiaF
+3639 3043 DiaF
+3492 3049 DiaF
+3453 3038 DiaF
+3440 3038 DiaF
+3427 3049 DiaF
+3435 3038 DiaF
+3405 3043 DiaF
+3414 3049 DiaF
+3466 3032 DiaF
+3483 3043 DiaF
+3427 3043 DiaF
+3409 3043 DiaF
+3340 3049 DiaF
+3310 3049 DiaF
+3227 3049 DiaF
+3206 3038 DiaF
+3175 3049 DiaF
+3223 3038 DiaF
+3227 3043 DiaF
+3210 3032 DiaF
+3219 3049 DiaF
+3188 3038 DiaF
+3115 3038 DiaF
+3063 3049 DiaF
+3011 3038 DiaF
+3006 3038 DiaF
+2950 3038 DiaF
+2941 3043 DiaF
+2933 3043 DiaF
+2933 3043 DiaF
+2889 3032 DiaF
+2924 3043 DiaF
+2950 3038 DiaF
+2959 3049 DiaF
+2868 3043 DiaF
+2785 3038 DiaF
+2755 3049 DiaF
+2763 3038 DiaF
+2724 3038 DiaF
+2750 3049 DiaF
+2720 3038 DiaF
+2698 3043 DiaF
+2698 3043 DiaF
+2755 3043 DiaF
+2742 3049 DiaF
+2759 3038 DiaF
+2664 3038 DiaF
+2685 3038 DiaF
+2763 3032 DiaF
+2677 3043 DiaF
+2581 3049 DiaF
+2525 3038 DiaF
+2521 3038 DiaF
+2508 3038 DiaF
+2490 3043 DiaF
+2534 3049 DiaF
+2525 3038 DiaF
+2577 3049 DiaF
+2573 3038 DiaF
+2542 3043 DiaF
+2425 3043 DiaF
+2399 3043 DiaF
+2347 3043 DiaF
+2330 3032 DiaF
+2347 3038 DiaF
+2360 3043 DiaF
+2295 3038 DiaF
+2278 3038 DiaF
+2308 3043 DiaF
+2282 3043 DiaF
+2265 3038 DiaF
+2274 3043 DiaF
+2222 3038 DiaF
+2196 3043 DiaF
+2196 3032 DiaF
+2178 3038 DiaF
+2144 3032 DiaF
+2213 3043 DiaF
+2213 3043 DiaF
+2152 3038 DiaF
+2196 3038 DiaF
+2300 3043 DiaF
+2300 3043 DiaF
+2248 3032 DiaF
+2152 3038 DiaF
+2126 3026 DiaF
+2105 3015 DiaF
+2204 3015 DiaF
+2161 3010 DiaF
+2126 2993 DiaF
+2096 2971 DiaF
+2061 2959 DiaF
+2070 2937 DiaF
+2144 2904 DiaF
+2126 2909 DiaF
+2131 2887 DiaF
+2057 2887 DiaF
+2040 2870 DiaF
+2040 2859 DiaF
+2048 2837 DiaF
+2066 2826 DiaF
+2087 2820 DiaF
+2057 2814 DiaF
+2074 2798 DiaF
+2070 2792 DiaF
+1983 2775 DiaF
+2057 2764 DiaF
+2031 2742 DiaF
+2157 2731 DiaF
+2131 2731 DiaF
+2113 2708 DiaF
+2165 2692 DiaF
+2204 2675 DiaF
+2174 2658 DiaF
+2161 2641 DiaF
+2092 2614 DiaF
+2105 2586 DiaF
+1975 2580 DiaF
+2048 2569 DiaF
+1970 2535 DiaF
+2079 2535 DiaF
+2087 2519 DiaF
+2001 2496 DiaF
+1992 2468 DiaF
+2031 2446 DiaF
+2048 2441 DiaF
+2083 2424 DiaF
+2100 2401 DiaF
+2018 2390 DiaF
+2066 2385 DiaF
+2057 2374 DiaF
+2001 2362 DiaF
+1944 2351 DiaF
+1957 2340 DiaF
+2031 2329 DiaF
+2027 2307 DiaF
+2035 2290 DiaF
+2083 2284 DiaF
+2096 2256 DiaF
+2105 2240 DiaF
+2139 2217 DiaF
+2105 2195 DiaF
+2122 2184 DiaF
+2092 2173 DiaF
+2204 2167 DiaF
+2100 2150 DiaF
+2109 2117 DiaF
+2105 2106 DiaF
+2131 2089 DiaF
+2126 2055 DiaF
+2048 2044 DiaF
+2048 2016 DiaF
+2031 2000 DiaF
+1988 1989 DiaF
+2070 1972 DiaF
+1983 1966 DiaF
+1979 1944 DiaF
+1979 1933 DiaF
+2061 1916 DiaF
+1988 1899 DiaF
+1944 1871 DiaF
+1953 1843 DiaF
+1948 1810 DiaF
+1948 1776 DiaF
+1975 1760 DiaF
+2031 1710 DiaF
+2083 1648 DiaF
+1922 1587 DiaF
+2044 1509 DiaF
+2074 1442 DiaF
+2096 1391 DiaF
+2066 1319 DiaF
+2135 1246 DiaF
+2122 1174 DiaF
+2131 1107 DiaF
+2079 1034 DiaF
+2048 1006 DiaF
+1983 979 DiaF
+1927 973 DiaF
+1931 962 DiaF
+1948 951 DiaF
+1909 939 DiaF
+1935 934 DiaF
+1961 928 DiaF
+1948 917 DiaF
+2001 923 DiaF
+2074 912 DiaF
+2066 906 DiaF
+2109 912 DiaF
+2109 900 DiaF
+2053 889 DiaF
+2079 884 DiaF
+2105 889 DiaF
+2057 884 DiaF
+2079 878 DiaF
+2061 889 DiaF
+2074 884 DiaF
+2018 878 DiaF
+2066 884 DiaF
+1944 884 DiaF
+1914 878 DiaF
+1944 878 DiaF
+1944 878 DiaF
+1966 878 DiaF
+1988 884 DiaF
+2014 873 DiaF
+2061 884 DiaF
+1940 873 DiaF
+2001 878 DiaF
+2135 878 DiaF
+2105 878 DiaF
+2092 878 DiaF
+2018 878 DiaF
+1931 873 DiaF
+1927 884 DiaF
+1909 884 DiaF
+2001 878 DiaF
+2044 878 DiaF
+2092 878 DiaF
+2105 873 DiaF
+1940 878 DiaF
+1988 878 DiaF
+2057 873 DiaF
+2122 873 DiaF
+2070 884 DiaF
+2087 873 DiaF
+2074 873 DiaF
+2031 884 DiaF
+1922 878 DiaF
+1862 873 DiaF
+1922 878 DiaF
+1953 873 DiaF
+1983 884 DiaF
+2057 889 DiaF
+2070 884 DiaF
+2074 873 DiaF
+2087 884 DiaF
+2066 878 DiaF
+2053 873 DiaF
+2061 884 DiaF
+2066 884 DiaF
+2083 884 DiaF
+2005 878 DiaF
+1935 884 DiaF
+1914 884 DiaF
+2092 878 DiaF
+2014 884 DiaF
+1875 884 DiaF
+2035 873 DiaF
+2001 873 DiaF
+1966 878 DiaF
+2131 873 DiaF
+2001 873 DiaF
+1896 878 DiaF
+2061 878 DiaF
+2048 878 DiaF
+1892 873 DiaF
+1966 873 DiaF
+1901 873 DiaF
+1979 873 DiaF
+1979 884 DiaF
+1909 878 DiaF
+2048 873 DiaF
+2109 873 DiaF
+2014 878 DiaF
+2057 878 DiaF
+1918 873 DiaF
+2074 873 DiaF
+1918 873 DiaF
+1983 878 DiaF
+2053 873 DiaF
+1935 873 DiaF
+1988 878 DiaF
+2027 878 DiaF
+2048 878 DiaF
+2022 884 DiaF
+1918 873 DiaF
+1896 884 DiaF
+1922 878 DiaF
+1953 878 DiaF
+2027 878 DiaF
+1935 878 DiaF
+1983 873 DiaF
+2014 873 DiaF
+1927 878 DiaF
+2061 873 DiaF
+1992 873 DiaF
+2053 884 DiaF
+2070 884 DiaF
+1940 878 DiaF
+2079 878 DiaF
+1857 873 DiaF
+1979 884 DiaF
+2040 889 DiaF
+2022 878 DiaF
+2040 873 DiaF
+2044 878 DiaF
+1975 873 DiaF
+2061 878 DiaF
+1905 873 DiaF
+2027 889 DiaF
+1914 878 DiaF
+1927 878 DiaF
+2031 873 DiaF
+2022 884 DiaF
+1918 873 DiaF
+1909 873 DiaF
+2014 878 DiaF
+1940 878 DiaF
+1883 873 DiaF
+1922 878 DiaF
+2001 878 DiaF
+2083 861 DiaF
+1935 878 DiaF
+1988 878 DiaF
+2100 878 DiaF
+2018 884 DiaF
+1883 878 DiaF
+1979 878 DiaF
+2040 873 DiaF
+1883 878 DiaF
+2070 878 DiaF
+1914 878 DiaF
+2031 873 DiaF
+2027 878 DiaF
+1935 873 DiaF
+1988 884 DiaF
+2092 878 DiaF
+1922 878 DiaF
+2096 884 DiaF
+1888 878 DiaF
+2031 878 DiaF
+1927 878 DiaF
+1988 878 DiaF
+1948 878 DiaF
+1940 878 DiaF
+2048 878 DiaF
+2083 878 DiaF
+1953 861 DiaF
+1961 878 DiaF
+1953 878 DiaF
+2001 878 DiaF
+1905 873 DiaF
+2057 873 DiaF
+1988 878 DiaF
+1940 873 DiaF
+1918 873 DiaF
+2053 878 DiaF
+2018 884 DiaF
+1953 884 DiaF
+2053 878 DiaF
+1935 878 DiaF
+2109 878 DiaF
+1957 878 DiaF
+1948 873 DiaF
+2092 873 DiaF
+1992 878 DiaF
+1918 873 DiaF
+2083 867 DiaF
+2031 878 DiaF
+1914 867 DiaF
+1966 873 DiaF
+2066 873 DiaF
+1940 878 DiaF
+1935 884 DiaF
+2053 878 DiaF
+1966 867 DiaF
+1940 873 DiaF
+1935 878 DiaF
+2070 873 DiaF
+2018 878 DiaF
+1961 884 DiaF
+1901 878 DiaF
+2001 878 DiaF
+2087 884 DiaF
+1970 878 DiaF
+1914 873 DiaF
+2031 884 DiaF
+2066 884 DiaF
+1988 884 DiaF
+2044 873 DiaF
+1931 878 DiaF
+1927 884 DiaF
+1896 884 DiaF
+1944 878 DiaF
+2040 884 DiaF
+2031 878 DiaF
+1918 873 DiaF
+1948 873 DiaF
+2092 873 DiaF
+1901 873 DiaF
+1922 884 DiaF
+1957 878 DiaF
+2057 873 DiaF
+2031 878 DiaF
+1896 873 DiaF
+2057 884 DiaF
+2057 884 DiaF
+1883 878 DiaF
+2074 873 DiaF
+1940 878 DiaF
+1940 873 DiaF
+1957 878 DiaF
+2083 873 DiaF
+1931 873 DiaF
+1979 867 DiaF
+2040 884 DiaF
+2070 884 DiaF
+1935 878 DiaF
+1901 878 DiaF
+1957 878 DiaF
+2118 878 DiaF
+2079 878 DiaF
+1935 867 DiaF
+1918 878 DiaF
+1961 873 DiaF
+2061 873 DiaF
+1862 878 DiaF
+1918 873 DiaF
+1988 878 DiaF
+2018 878 DiaF
+1953 873 DiaF
+1975 878 DiaF
+2031 878 DiaF
+1879 878 DiaF
+2092 878 DiaF
+2022 873 DiaF
+1944 873 DiaF
+2048 867 DiaF
+2083 878 DiaF
+1988 878 DiaF
+2005 873 DiaF
+1914 878 DiaF
+1940 878 DiaF
+2057 873 DiaF
+2053 878 DiaF
+1927 878 DiaF
+1879 873 DiaF
+2022 884 DiaF
+1983 878 DiaF
+1970 878 DiaF
+2092 878 DiaF
+1944 873 DiaF
+1953 878 DiaF
+2035 884 DiaF
+2005 878 DiaF
+1918 884 DiaF
+1970 878 DiaF
+1940 873 DiaF
+2014 873 DiaF
+2083 884 DiaF
+1970 884 DiaF
+1983 873 DiaF
+1975 884 DiaF
+1888 878 DiaF
+1940 873 DiaF
+2061 873 DiaF
+1901 873 DiaF
+2066 878 DiaF
+1988 873 DiaF
+1888 873 DiaF
+2087 884 DiaF
+2035 878 DiaF
+1931 878 DiaF
+1979 878 DiaF
+2035 889 DiaF
+1944 867 DiaF
+2044 873 DiaF
+1922 878 DiaF
+2040 873 DiaF
+1931 861 DiaF
+1922 873 DiaF
+2014 884 DiaF
+1931 873 DiaF
+2083 884 DiaF
+1918 878 DiaF
+2074 867 DiaF
+1922 873 DiaF
+2061 878 DiaF
+1944 873 DiaF
+1970 867 DiaF
+2061 873 DiaF
+1931 873 DiaF
+1979 867 DiaF
+1922 878 DiaF
+2096 884 DiaF
+1935 873 DiaF
+2022 867 DiaF
+1935 873 DiaF
+1905 884 DiaF
+2074 873 DiaF
+1927 878 DiaF
+2083 873 DiaF
+1992 884 DiaF
+1975 873 DiaF
+2079 873 DiaF
+2061 867 DiaF
+5845 1427 DiaF
+4.000 UL
+LT1
+0.00 0.00 1.00 C LTb
+LT1
+0.00 0.00 1.00 C 5550 1207 M
+591 0 V
+1857 875 M
+42 -1 V
+42 105 V
+42 145 V
+42 -8 V
+41 130 V
+42 396 V
+42 894 V
+42 398 V
+41 76 V
+42 31 V
+42 -1 V
+42 1 V
+42 2 V
+41 0 V
+42 -2 V
+42 0 V
+42 4 V
+41 -1 V
+42 -3 V
+42 -1 V
+42 2 V
+42 -3 V
+41 -1 V
+42 1 V
+42 0 V
+42 4 V
+41 -2 V
+42 0 V
+42 4 V
+42 -4 V
+41 1 V
+42 -2 V
+42 3 V
+42 4 V
+42 2 V
+41 -1 V
+42 -3 V
+42 -6 V
+42 4 V
+41 5 V
+42 -2 V
+42 -1 V
+42 -2 V
+42 4 V
+41 -1 V
+42 -2 V
+42 3 V
+42 -1 V
+41 2 V
+42 0 V
+42 1 V
+42 1 V
+42 -3 V
+41 1 V
+42 5 V
+42 2 V
+42 -2 V
+41 3 V
+42 3 V
+42 1 V
+42 1 V
+41 3 V
+42 -1 V
+42 0 V
+42 1 V
+42 0 V
+41 0 V
+42 6 V
+42 5 V
+42 -3 V
+41 3 V
+42 5 V
+42 16 V
+42 10 V
+42 -5 V
+41 2 V
+42 4 V
+42 6 V
+42 0 V
+41 3 V
+42 7 V
+42 11 V
+42 3 V
+42 8 V
+41 7 V
+42 1 V
+42 7 V
+42 7 V
+41 8 V
+42 3 V
+42 6 V
+42 12 V
+42 5 V
+41 4 V
+42 7 V
+42 -1 V
+42 1 V
+41 -13 V
+42 -21 V
+stroke
+1.000 UL
+LTb
+1078 3561 N
+0 -2857 V
+5327 0 V
+0 2857 V
+-5327 0 V
+Z stroke
+1.000 UP
+1.000 UL
+LTb
+stroke
+grestore
+end
+showpage
+%%Trailer

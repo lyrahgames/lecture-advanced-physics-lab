@@ -1,0 +1,15 @@
+set terminal epslatex size 15cm,9cm
+set output "stichkabel2-upp-f-01.tex"
+
+plot 'stichkabel2-upp-f-01.gnuplot-data' \
+	using 1:2 \
+	with lines, \
+	'stichkabel2-upp-f-02.gnuplot-data' \
+	using 1:2 \
+	with lines, \
+	'stichkabel2-upp-f-03.gnuplot-data' \
+	using 1:2 \
+	with points pt 13 ps 0.8, \
+	'stichkabel2-upp-f-03.gnuplot-data' \
+	using 1:2:(1e3) \
+	smooth acsplines

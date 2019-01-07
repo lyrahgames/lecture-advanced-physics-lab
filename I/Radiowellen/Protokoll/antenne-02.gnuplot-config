@@ -1,0 +1,15 @@
+set terminal epslatex size 13cm,7cm
+set output "antenne-02.tex"
+
+set xl '$\varphi$ \ [$^\circ$]'
+set yl '$U^2_{pp}$ \ [mV$^2$]'
+
+f(x) = a*(cos(x*pi/180)**2)
+fit f(x) 'antenne-02.gnuplot-data' using 1:($2**2) via a
+
+plot 'antenne-02.gnuplot-data' \
+	using 1:($2**2) \
+	with points pt 13 \
+	title 'Messwerte', \
+	'' using 1:($2**2):(1e4) smooth acsplines notitle, \
+	f(x) lt rgb 'blue' title 'Approximation: $f(\varphi) = a\cos^2(\varphi)$'

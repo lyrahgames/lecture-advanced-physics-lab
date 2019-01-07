@@ -1,0 +1,485 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "grundlagen.tex",
+			"settings":
+			{
+				"buffer_size": 6032,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nLaTeXTools\n----------\n\n  LaTeXTools Plugin version 3.6.1 (2016-01-01) changelog:\n  \n  The main user-visible change is the way settings are managed. Please see the \n  README for details. Among other things, this removes the need to reconfigure\n  or migrate settings when new features are added!\n  \n  New features:\n  \n  - Default and User settings (see above)\n  - (minor:) better ')' handling in ref completion (details in README)\n  \n  Bugfixes:\n  \n  - Fixed multi-document forward sync on Windows and other platforms\n  - Jump to image fixes\n  - SumatraPDF and jumpToPDF fixes\n  - Save document before attempting to find TeX root\n",
+			"settings":
+			{
+				"buffer_size": 679,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "main.tex",
+			"settings":
+			{
+				"buffer_size": 11280,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "doc.tex",
+			"settings":
+			{
+				"buffer_size": 588,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "aufbau.tex",
+			"settings":
+			{
+				"buffer_size": 5086,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 217.0,
+		"selected_items":
+		[
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"kebinf",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"statur",
+				"View: Toggle Status Bar"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"brw",
+				"Preferences: Browse Packages"
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			],
+			[
+				"add f",
+				"Project: Add Folder"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 570.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Supraleitung/messwerte/gut.txt",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Höhere Analysis/I/Übungen/Übung 01/SoSe2015_HABlatt1.tex",
+		"/home/lyrahgames/cloud/Dropbox/pro/latex-stdinit/stdinit.tex",
+		"/home/lyrahgames/cloud/Dropbox/pro/qt-project/histoW-v3/src/histo-w.h",
+		"/home/lyrahgames/pro/latex-stdinit/sublime-text-snippets/subsection_s.sublime-snippet",
+		"/home/lyrahgames/pro/latex-stdinit/table.csv",
+		"/home/lyrahgames/pro/latex-stdinit/sublime-text-snippets/stdinit.sublime-snippet",
+		"/home/lyrahgames/pro/latex-stdinit/test.py",
+		"/home/lyrahgames/pro/latex-stdinit/main.cu",
+		"/home/lyrahgames/pro/latex-stdinit/main.cpp",
+		"/home/lyrahgames/pro/latex-stdinit/sublime-text-snippets/math/qed01.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/lyrahgames/cloud/Dropbox/pro/qt-project/histoW-v3/src/main.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			",",
+			"include",
+			"input",
+			"lemma",
+			"enumeration",
+			"lemma",
+			"Lemma",
+			"lemma",
+			"item",
+			"                    item\n",
+			"            \n",
+			"Definition",
+			"item",
+			"darkGray",
+			"customc",
+			"single",
+			"Octave",
+			"txt",
+			"china",
+			"xc3",
+			"darkgray",
+			"black",
+			"customc",
+			"Scheduler",
+			"title",
+			"font"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "grundlagen.tex",
+					"settings":
+					{
+						"buffer_size": 6032,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 100.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 679,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								679,
+								679
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"tab_width": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "main.tex",
+					"settings":
+					{
+						"buffer_size": 11280,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4549.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "doc.tex",
+					"settings":
+					{
+						"buffer_size": 588,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 153.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "aufbau.tex",
+					"settings":
+					{
+						"buffer_size": 5086,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"spell_check": true,
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 17.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"aufbau.tex"
+			],
+			[
+				"std",
+				"stdinit.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"p-e",
+				"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Radiowellen/protokoll-rw.sublime-project"
+			],
+			[
+				"",
+				"/home/lyrahgames/cloud/Dropbox/pro/latex-stdinit/latex-stdinit.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false
+}

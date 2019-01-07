@@ -1,0 +1,21 @@
+set terminal epslatex size 13cm, 7cm
+set output "laborkabel.tex"
+
+set xl '$f$ \ [MHz]'
+set yl '$U_{pp}$ \ [mV]'
+
+plot 'laborkabel-01.gnuplot-data' \
+	using 1:2 \
+	with points pt 13 ps 1 \
+	title 'Messwerte mit $R_{in} = 1$M$\Omega$' \
+	, \
+	'' using 1:2:(1e4) \
+	smooth acsplines notitle\
+	, \
+	'laborkabel-02.gnuplot-data' \
+	using 1:2 \
+	with points pt 15 ps 0.8\
+	title 'Messwerte mit $R_{in} = 50\Omega$' \
+	, \
+	'' using 1:2:(1e4) \
+	smooth acsplines notitle

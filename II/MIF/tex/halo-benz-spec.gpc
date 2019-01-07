@@ -1,0 +1,12 @@
+set terminal epslatex size 12cm,7cm
+set output "halo-benz-spec.tex"
+
+set xl 'Wellenlänge $\lambda \ [\unit{nm}]$'
+set yl 'Intensität'
+
+set xr [400:3000]
+set yr [-0.1:1.1]
+
+set key left box
+
+plot 'messwerte/halo-benz-fft01' using 1:2 with lines title 'Messwerte'

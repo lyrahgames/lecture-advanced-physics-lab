@@ -1,0 +1,16 @@
+set terminal epslatex size 13cm,7cm
+set output "antenne-01-2.tex"
+
+set xl '$L$ \ [cm]'
+set yl '$1/f$ \ [MHz$^{-1}$]'
+
+set yr [0.002:0.007]
+
+f(x) = a*x
+fit f(x) 'antenne-01.gnuplot-data' using 2:(1/$1) via a
+
+plot 'antenne-01.gnuplot-data' \
+	using 2:(1/$1) \
+	with points pt 13 \
+	title 'Messwerte', \
+	f(x) title 'Approximation: $g(x) = ax$'

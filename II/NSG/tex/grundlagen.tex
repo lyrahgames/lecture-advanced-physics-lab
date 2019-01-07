@@ -1,0 +1,85 @@
+\section{Mathematische und physikalische Grundlagen} % (fold)
+\label{sec:grundlagen}
+
+
+	\subsection{Die Navier-Stokes Gleichungen} % (fold)
+	\label{sub:die_navier_stokes_gleichungen}
+
+		Die Navier-Stokes Gleichungen lassen sich aus den Eulergleichungen wie sie aus der Thermodynamik bekannt sind ableiten.
+		Für inkompressible Flüssigkeiten ($\rho = \mathrm{const}$) bilden sie folgendes System partieller Differentialgleichungen:
+
+		\begin{alignat*}{3}
+			\frac{\partial \vec{u}}{\partial t}  + (\vec{u}\cdot\nabla)\vec{u} + \nabla p &= \frac{1}{Re} \nabla \vec{u} + \vec{g} \hfill\text{ (Impulsgleichung)} \\
+			\nabla \cdot \vec{u} &= 0 \hfill \text{ (Kontinuitätsgleichung)}
+		\end{alignat*}
+
+		Dieses gilt es nun mittels numerischer Verfahren zu berechnen.
+		$Re$ bezeichnet hierbei die Reynoldszahl, eine dimensionslose Zahl, die zur Skalierung von Modellen verwendet wird und sich wie folgt ergibt:
+
+		\[ Re = \frac{\rho \cdot v \cdot d}{\eta} \]
+
+		In der Gleichung steht $v$ für die Geschwindigkeit der Strömung, $d$ für eine charakteristische Länge und $\eta$ für die dynamische Viskosität des Fluids.
+		Im Programm wird $Re$ zu einer Konstanten, die Aussagen über das Strömungsverhalten liefert.
+		Kleine Reynoldszahlen bedeuten dann sehr viskose Fluide und meist laminare Strömung, Fluide mit großen Reynoldszahlen zeigen meist turbulente Strömungen und müssen mit mehr Aufwand simuliert werden.
+		\\Da wir im vorliegenden Fall nur zweidimensionale Probleme betrachten wollen, behandeln wir die Entwicklung der Geschwindikeit $\vec{u}$ komponentenweise in der Form:
+
+		\[ \vec{u} = u\vec{e_x} + v\vec{e_y} \]
+
+		Für diese skalaren Größen lauten die Zeitevolutionen dann:
+
+		\[ \frac{\partial u}{\partial t} + \frac{\partial p}{\partial x} = \frac{1}{Re} \curvb{ \frac{\partial ^{2} u}{\partial x ^{2}} + \frac{\partial ^{2} u}{\partial y ^{2}}} 
+		- \frac{ \partial (u^{2}) }{ \partial x} - \frac{ \partial (uv) }{ \partial y} + g_x\]
+
+		\[ \frac{\partial v}{\partial t} + \frac{\partial p}{\partial y} = \frac{1}{Re} \curvb{ \frac{\partial ^{2} v}{\partial x ^{2}} + \frac{\partial ^{2} v}{\partial y ^{2}}} 
+		- \frac{ \partial (uv) }{ \partial x} - \frac{ \partial (v^{2}) }{ \partial y} + g_y\]
+
+		Die Kontinuumsgleichung lässt sich dann einfach in der Form schreiben:
+
+		\[ \frac{\partial u}{\partial x} + \frac{\partial v}{\partial y} = 0\]
+
+	% subsection die_navier_stokes_gleichungen (end)
+
+
+	% \subsection{Danksagung} % (fold)
+	% \label{sub:danksagung}
+
+	% 	\begin{figure}[H]
+	% 		\center
+	% 		\includegraphics[scale = 0.35]{adrienne-bubble-blower-photodromm-09-670x1005.jpg}
+	% 		\caption{Visualisierung des Beispielvektorfeldes $\vec{v}$ durch das erstellte Programm. \\ Vergleiche mit QUELLE.}
+	% 		\label{fig:example view}
+	% 	\end{figure}
+	
+	% % subsection danksagung (end)
+
+	\subsection{Randbedingungen} % (fold)
+	\label{sub:randbedingungen}
+	
+		Um die Randbedingungen zu formulieren, zerlegen wir die Geschwindigkeitsvektoren an den Räandern in ihre tangentialen und normalen Komponten zum Rand.
+		Wir bezeichnen diese mit $\varphi _t$ und $\varphi _n$.
+		Die Randbedingungen definieren wir dann mit Hilfe dieser Komponenten und deren Normalenbleitungen.
+		In diesem Versuch betrachten wir nur den einfachen Fall von senkrechten und waagerechten Randstücken.
+
+		\begin{itemize}
+			\item 
+			Somit ergeben sich für senkrechte Randstücke:
+			\[ \varphi _n = u, \qquad \varphi_t = v, \qquad  \frac{\partial \varphi_n}{\partial n} = \frac{\partial u}{\partial x}, 
+			\qquad \frac{\partial \varphi_t}{\partial n} = \frac{\partial v}{\partial x}\]
+
+			\item
+			Für waagerechte Randstücke folgt:
+			\[ \varphi _n = v, \qquad \varphi_t = u, \qquad  \frac{\partial \varphi_n}{\partial n} = \frac{\partial v}{\partial y}, 
+			\qquad \frac{\partial \varphi_t}{\partial n} = \frac{\partial u}{\partial y}\]
+
+		\end{itemize}
+
+		Mit Hilfe dieser Definitionen lassen sich dann z.B. die Haftbedingung formulieren.
+		Diese gilt, wenn die Grenzen undurchlässig und star sind. 
+		Flüssigkeit kann dann weder in noch aus dem Gebiet $\Omega$ fließen und ruht am Rand.
+			
+		\[ \varphi_n (x, y) = 0, \qquad \varphi_t (x, y) = 0 \]
+		
+
+	% subsection randbedingungen (end)
+
+% section grundlagen (end)

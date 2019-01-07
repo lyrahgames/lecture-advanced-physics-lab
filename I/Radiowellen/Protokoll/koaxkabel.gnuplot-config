@@ -1,0 +1,23 @@
+set terminal epslatex size 13cm,7cm
+set output "koaxkabel.tex"
+
+set yr [100:1300]
+
+set xl '$f$ \ [MHz]'
+set yl '$U_{pp}$ \ [mV]'
+
+plot 'koaxkabel-01.gnuplot-data' \
+	using 1:2 \
+	with points pt 13 \
+	title 'Messwerte mit $R_{in} = 50\Omega$' \
+	, \
+	'' using 1:2:(1e4) \
+	smooth acsplines notitle \
+	, \
+	'koaxkabel-02.gnuplot-data' \
+	using 1:2 \
+	with points pt 1 \
+	title 'Messwerte mit $R_{in} = 1$M$\Omega$' \
+	, \
+	'' using 1:2:(1e4) \
+	smooth acsplines notitle 

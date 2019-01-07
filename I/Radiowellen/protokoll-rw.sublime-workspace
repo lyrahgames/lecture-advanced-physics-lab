@@ -1,0 +1,3513 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pdf",
+				"pdflatex"
+			],
+			[
+				"tex",
+				"texpath"
+			],
+			[
+				"TR",
+				"TrueVisionTGA"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"type",
+				"typeStr"
+			],
+			[
+				"fil",
+				"file_dir"
+			],
+			[
+				"fi",
+				"file_path"
+			],
+			[
+				"read",
+				"readFilePath"
+			],
+			[
+				"file",
+				"file_path"
+			],
+			[
+				"file_",
+				"file_path"
+			],
+			[
+				"v",
+				"virtual"
+			],
+			[
+				"ioh",
+				"iohandl"
+			],
+			[
+				"setv",
+				"setvec2"
+			],
+			[
+				"tm",
+				"tmp_group_vec"
+			],
+			[
+				"nor",
+				"no_norm"
+			],
+			[
+				"res",
+				"resize"
+			],
+			[
+				"pr",
+				"prim"
+			],
+			[
+				"p_c",
+				"p_count"
+			],
+			[
+				"vert",
+				"vert_norm_vec"
+			],
+			[
+				"tmp",
+				"tmp_prim_vec"
+			],
+			[
+				"prim",
+				"prim_vec"
+			],
+			[
+				"ParamSpace",
+				"ParamSpaceVertVec"
+			],
+			[
+				"Tex",
+				"TexVertVec"
+			],
+			[
+				"Vert",
+				"VertNormVec"
+			],
+			[
+				"time",
+				"time_data"
+			],
+			[
+				"tim",
+				"time_data"
+			],
+			[
+				"tie",
+				"time_data"
+			],
+			[
+				"load",
+				"load_count"
+			],
+			[
+				"tre",
+				"TrueVisionTGA"
+			],
+			[
+				"grou",
+				"group_vec"
+			],
+			[
+				"gro",
+				"group_vec"
+			],
+			[
+				"prm",
+				"prim_id_vec"
+			],
+			[
+				"aci",
+				"active_group_vec"
+			],
+			[
+				"log",
+				"log_stream"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"CMD_",
+				"CMD_ERR"
+			],
+			[
+				"name",
+				"namespace	namespace {}"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"u",
+				"unsigned"
+			],
+			[
+				"data",
+				"data_ptr"
+			],
+			[
+				"CM",
+				"cmd_buffer"
+			],
+			[
+				"C",
+				"CmdFunc"
+			],
+			[
+				"Com",
+				"CommandFunction"
+			],
+			[
+				"File",
+				"FILEERROR_TEXT_LENGTH"
+			],
+			[
+				"FILE",
+				"FILEERROR_TEXT_LENGTH"
+			],
+			[
+				"filee",
+				"FILEERROR_TEXT_LENGTH"
+			],
+			[
+				"FILEE",
+				"FILEERROR_TEXT_LENGTH"
+			],
+			[
+				"Fil",
+				"FileErrorVector"
+			],
+			[
+				"save",
+				"saveParamSpaceVertVec"
+			],
+			[
+				"savever",
+				"saveVertNormVec"
+			],
+			[
+				"cu",
+				"cuda-7"
+			],
+			[
+				"Q",
+				"QTextStream"
+			],
+			[
+				"FILE_C",
+				"FILE_CMD_SEP"
+			],
+			[
+				"Wave",
+				"WavefrontOBJ"
+			],
+			[
+				"con",
+				"const"
+			],
+			[
+				"fl",
+				"file_name"
+			],
+			[
+				"e",
+				"endl"
+			],
+			[
+				"p",
+				"push_back"
+			],
+			[
+				"vec",
+				"vec3"
+			],
+			[
+				"dat",
+				"data_count"
+			],
+			[
+				"flo",
+				"FloatVec"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"daa",
+				"data_count"
+			],
+			[
+				"reu",
+				"return"
+			],
+			[
+				"wh",
+				"while	while (){}"
+			],
+			[
+				"Obje",
+				"ObjectVector"
+			],
+			[
+				"Gro",
+				"GroupVector"
+			],
+			[
+				"Li",
+				"LineVector"
+			],
+			[
+				"fac",
+				"FaceVector"
+			],
+			[
+				"pa",
+				"ParamSpaceVertexVector"
+			],
+			[
+				"text",
+				"TextureVertexVector"
+			],
+			[
+				"Ve",
+				"VertexNormalVector"
+			],
+			[
+				"verte",
+				"VertexVector"
+			],
+			[
+				"Ver",
+				"VertexNormal"
+			],
+			[
+				"str",
+				"struct	struct {}"
+			],
+			[
+				"ref",
+				"refVector"
+			],
+			[
+				"cls",
+				"class	class {};"
+			],
+			[
+				"na",
+				"namespace	namespace {}"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Protokoll/main.tex",
+			"settings":
+			{
+				"buffer_size": 3257,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/messwerte.tex",
+			"settings":
+			{
+				"buffer_size": 28887,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/aufbau.tex",
+			"settings":
+			{
+				"buffer_size": 7206,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/grundlagen.tex",
+			"settings":
+			{
+				"buffer_size": 17211,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/ref.bib",
+			"settings":
+			{
+				"buffer_size": 927,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/zusammenfassung.tex",
+			"settings":
+			{
+				"buffer_size": 1816,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/antenne-01-2.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 342,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/stichkabel-02.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 264,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/antenne-02.gnuplot-data",
+			"settings":
+			{
+				"buffer_size": 61,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/antenne-02.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 438,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/antenne-01.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 243,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/antenne-01.gnuplot-data",
+			"settings":
+			{
+				"buffer_size": 57,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/EL STICK/Grundlagen/Grundlagen.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/modulation-amp.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 231,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/impuls-offen-03.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 274,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/messwerte/impuls-offen-03.csv",
+			"settings":
+			{
+				"buffer_size": 11443,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Protokoll/stichkabel2-04.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 653,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/stichkabel-04.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 649,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/stichkabel-03.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 264,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/stichkabel-01.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 263,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/koaxkabel-01.gnuplot-data",
+			"settings":
+			{
+				"buffer_size": 256,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/koaxkabel-02.gnuplot-data",
+			"settings":
+			{
+				"buffer_size": 265,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/koaxkabel.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 468,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/laborkabel-01.gnuplot-data",
+			"settings":
+			{
+				"buffer_size": 145,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/laborkabel-02.gnuplot-data",
+			"settings":
+			{
+				"buffer_size": 141,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/laborkabel.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 463,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/aufgaben.tex",
+			"settings":
+			{
+				"buffer_size": 1447,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/lyrahgames/.config/sublime-text-2/Packages/User/LaTeXTools.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 7813,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/lyrahgames/.config/sublime-text-2/Packages/LaTeXTools/README.markdown",
+			"settings":
+			{
+				"buffer_size": 67361,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Protokoll/messwerte/modulation-amp-par.txt",
+			"settings":
+			{
+				"buffer_size": 523,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nLaTeXTools\n----------\n\n  LaTeXTools Plugin version 2015-11-23 changelog:\n  \n  Emergency fix:\n  \n  - Options support broke building.\n",
+			"settings":
+			{
+				"buffer_size": 183,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "Protokoll/modulation-freq.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 217,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/messwerte/impuls-offen-01-par.txt",
+			"settings":
+			{
+				"buffer_size": 524,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/NL/NewFile0.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/NL/NewFile0.csv",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/stichkabel2-upp-f-03.gnuplot-data",
+			"settings":
+			{
+				"buffer_size": 284,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/stichkabel2-upp-f-02.gnuplot-data",
+			"settings":
+			{
+				"buffer_size": 619,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/stichkabel-upp-f-02.gnuplot-data",
+			"settings":
+			{
+				"buffer_size": 340,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/stichkabel2-upp-f-01.gnuplot-data",
+			"settings":
+			{
+				"buffer_size": 383,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/stichkabel2-upp-f-01.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 369,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/stichkabel-upp-f-01.gnuplot-data",
+			"settings":
+			{
+				"buffer_size": 381,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/messwerte/stichkabel-Upp-f-01.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 21,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/stichkabel-upp-f-03.gnuplot-data",
+			"settings":
+			{
+				"buffer_size": 339,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/stichkabel-upp-f-03.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 140,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/messwerte/stichkabel-Upp-f-02.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 147,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Auger-Elektronen-Spektroskopie/Protokoll/main.tex",
+			"settings":
+			{
+				"buffer_size": 4188,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/messwerte/impuls-offen-01.csv",
+			"settings":
+			{
+				"buffer_size": 11445,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Protokoll/impuls-offen-01.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 211,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/messwerte/impuls-offen-02.csv",
+			"settings":
+			{
+				"buffer_size": 17429,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Protokoll/impuls-offen-02.gnuplot-config",
+			"settings":
+			{
+				"buffer_size": 269,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/messwerte/stichkabel-Upp-f-01.ods",
+			"settings":
+			{
+				"buffer_size": 29687,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Protokoll/messwerte/impuls-offen-02-par.txt",
+			"settings":
+			{
+				"buffer_size": 613,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Protokoll/messwerte/modulation-freq.CSV",
+			"settings":
+			{
+				"buffer_size": 28019,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 56.0,
+		"selected_items":
+		[
+			[
+				"tmpfil",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"latex",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"latex cle",
+				"LaTeXTools: Build cache for LaTeX packages"
+			],
+			[
+				"dictn",
+				"Dictionaries: Set Language"
+			],
+			[
+				"overwe",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upgrad",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"view",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"pdf",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"late",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"packag",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ssqmk",
+				"Set Syntax: QMake Project"
+			],
+			[
+				"ssq",
+				"Set Syntax: QMake Project"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"SIDE",
+				"View: Toggle Side Bar"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"save ",
+				"Project: Save As"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"sta",
+				"View: Toggle Status Bar"
+			],
+			[
+				"status",
+				"View: Toggle Status Bar"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"brw",
+				"Preferences: Browse Packages"
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			],
+			[
+				"add f",
+				"Project: Add Folder"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 570.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/media/EL STICK/Radiowellen/Protokoll/aufbau.tex",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Radiowellen/Protokoll/laborkabel.gnuplot-data",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Radiowellen/aufgaben.tex",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Radiowellen/Protokoll/main2.tex",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Radiowellen/Protokoll/main2.pdf",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/LaTeXTools.sublime-settings",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Radiowellen/mpdulation-freq.gnuplot-config",
+		"/media/NL/SRT0001.CSV",
+		"/media/NL/bbbbbbb1.csv",
+		"/media/NL/bbbbbbb1.txt",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Radiowellen/Protokoll/messwerte/stichkabel-Upp-f-02.gnuplot-data",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Radiowellen/Protokoll/messwerte/stichkabel-Upp-f-01.gnuplot-data",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Radiowellen/Protokoll/messwerte/stichkabel-Upp-f-02.tex",
+		"/home/lyrahgames/cloud/Dropbox/pro/wavefront-obj-loader-v3/src/errhandl.h",
+		"/home/lyrahgames/pro/mesh-data/mini-cooper/mini_obj.obj",
+		"/home/lyrahgames/pro/mesh-data/dabrovic-sponza/sponza.obj",
+		"/home/lyrahgames/cloud/Dropbox/pro/wavefront-obj-loader-v3/pro-files/data/tmp/input.obj",
+		"/home/lyrahgames/cloud/Dropbox/pro/wavefront-obj-loader-v3/pro-files/data/tmp/out.txt",
+		"/home/lyrahgames/cloud/Dropbox/pro/wavefront-obj-loader-v3/src/log.cpp",
+		"/home/lyrahgames/cloud/Dropbox/pro/wavefront-obj-loader-v3/src/log.h",
+		"/home/lyrahgames/cloud/Dropbox/pro/test/test.txt",
+		"/home/lyrahgames/cloud/Dropbox/pro/test/input.txt",
+		"/home/lyrahgames/pro/mesh-data/head/head.OBJ",
+		"/home/lyrahgames/pro/mesh-data/cornell-box/CornellBox-Empty-White.obj",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/Distraction Free.sublime-settings",
+		"/home/lyrahgames/tmp/NVIDIA_CUDA-7.0_Samples/0_Simple/vectorAdd/Makefile",
+		"/home/lyrahgames/tmp/NVIDIA_CUDA-7.0_Samples/0_Simple/vectorAdd/readme.txt",
+		"/home/lyrahgames/pro/julia-set/julia-set-gpu/main.cu",
+		"/media/LG-HDD-TOSH/pro/julia-set/julia-set-gpu/main.cu",
+		"/media/LG-HDD-TOSH/pro/gpu-ray-tracer/main.cu",
+		"/home/lyrahgames/tmp/NVIDIA_CUDA-7.0_Samples/0_Simple/vectorAddDrv/vectorAddDrv.cpp",
+		"/home/lyrahgames/tmp/NVIDIA_CUDA-7.0_Samples/0_Simple/vectorAdd/vectorAdd.cu",
+		"/home/lyrahgames/.bashrc",
+		"/home/lyrahgames/cloud/Dropbox/pro/vrGen/cudaBench-amb-occl/pro-files/linux/.bashrc",
+		"/home/lyrahgames/cloud/Dropbox/pro/wavefront-obj-loader/pro-files/data/tmp/vec3-data-ascii.txt",
+		"/home/lyrahgames/tmp/stl-lib/stl_vector.h",
+		"/home/lyrahgames/cloud/Dropbox/pro/wavefront-obj-loader/pro-files/data/obj-files/test.obj",
+		"/home/lyrahgames/cloud/Dropbox/pro/wavefront-obj-loader/pro-files/data/tmp/float-data-ascii.txt",
+		"/home/lyrahgames/cloud/Dropbox/pro/wavefront-obj-loader/wavefront-obj.cpp",
+		"/home/lyrahgames/pro/vrGenGL_markus/pro-files/linux/qrc_resources.cpp",
+		"/home/lyrahgames/pro/vrGenGL_markus/src/gui/Viewer.h",
+		"/home/lyrahgames/pro/mesh-data/audi-r8-tex/audi_r8-tex.obj",
+		"/home/lyrahgames/pro/vrGenGL_markus/pro-files/data/test-obj/test.obj",
+		"/home/lyrahgames/pro/vrGenGL_markus/pro-files/data/test-obj/triangle.obj",
+		"/home/lyrahgames/pro/vrGenGL_markus/pro-files/data/test-obj/cube.obj",
+		"/home/lyrahgames/pro/mesh-data/cornell-box/CornellBox-Original.mtl",
+		"/home/lyrahgames/pro/mesh-data/crytek-sponza/sponza.obj",
+		"/home/lyrahgames/pro/mesh-data/hairball/hairball.obj",
+		"/home/lyrahgames/pro/mesh-data/cube/cube.obj",
+		"/home/lyrahgames/pro/mesh-data/chinese-dragon/dragon.obj",
+		"/home/lyrahgames/pro/mesh-data/cornell-box/CornellBox-Original.obj",
+		"/home/lyrahgames/pro/vrGenGL_markus/pro-files/linux/include/MCTP1.h",
+		"/home/lyrahgames/.gvfs/usb-hdd-medion on lyrahgames-rout/projects/struct/vec3f/vec3f.h",
+		"/home/lyrahgames/.gvfs/usb-hdd-medion on lyrahgames-rout/projects/struct/vector/vector.h",
+		"/home/lyrahgames/.gvfs/usb-hdd-medion on lyrahgames-rout/projects/struct/vec3f/vec3f.cpp",
+		"/home/lyrahgames/pro/latex-stdinit/sublime-text-snippets/subsection_s.sublime-snippet",
+		"/home/lyrahgames/pro/latex-stdinit/table.csv",
+		"/home/lyrahgames/pro/latex-stdinit/sublime-text-snippets/stdinit.sublime-snippet",
+		"/home/lyrahgames/pro/latex-stdinit/test.py",
+		"/home/lyrahgames/pro/latex-stdinit/main.cu",
+		"/home/lyrahgames/pro/latex-stdinit/main.cpp",
+		"/home/lyrahgames/pro/latex-stdinit/sublime-text-snippets/math/qed01.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/lyrahgames/cloud/Dropbox/pro/qt-project/histoW-v3/src/histo-w.h",
+		"/home/lyrahgames/cloud/Dropbox/pro/qt-project/histoW-v3/src/main.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"itshape",
+			"Lambda",
+			"LAMBA",
+			"LAMBA /2",
+			"cdot",
+			"0.3",
+			"Z_L",
+			"0.09",
+			"JPG",
+			"PNG",
+			"*",
+			"* ",
+			"dfraq",
+			"Z_L",
+			"‘",
+			"Messwerte",
+			"stichkabel-0",
+			"stichkabel",
+			"Stichkabel",
+			"stichkabel",
+			"MHz",
+			"Auger-Elektronen-Spektroskopie",
+			"void",
+			"file_path",
+			"read",
+			"file_path",
+			"WavefrontOBJ::",
+			"WavefrontOBJ",
+			"AliasWavefrontMTL::",
+			"AliasWavefrontMTL",
+			"TrueVisionTGA::",
+			"TrueVisionTGA",
+			"CmdLineInterp::",
+			"CmdLineInterp",
+			"loghandl",
+			"__LOG_H__",
+			"vec4f",
+			"//",
+			"vert_norm_vec.size()",
+			"vert_vec.size()",
+			"tex_vert_vec.size()",
+			"vert_vec",
+			"vert_norm_vec",
+			"vert_vec.size()",
+			"vert_vec",
+			"vn_size1",
+			"vt_size1",
+			"tex_vert_vec.size()",
+			"tex_vert_vec",
+			"v_size1",
+			"bool",
+			"token.size() > 4",
+			"0",
+			"- 1",
+			"shrinkt_to_fit",
+			"prim_vec",
+			"param_space_vert_vec",
+			"path.data()",
+			"file_path",
+			"magn",
+			"f",
+			".setnorm3()",
+			"log_stream",
+			"active_obj",
+			"active_group",
+			"active_obj_vec",
+			"active_group_vec",
+			"active_gr",
+			"f",
+			"use",
+			"findmtlide",
+			"findmtlid",
+			"use",
+			"*log_stream",
+			"logh",
+			"log",
+			"msg",
+			"log",
+			"dir",
+			"log::",
+			"log",
+			"return out(errh::WARN",
+			"errh::SUCC",
+			"return out(errh::ERR",
+			"errh::errlev",
+			"return out(errh::WARN",
+			"log::err",
+			"log::out",
+			"errh::ERR",
+			"errh::SUCC",
+			"errh::errlev",
+			"errlev",
+			"tmp_exit_status",
+			"tmp_err_level",
+			"out",
+			"dir",
+			"TEXT",
+			"errh::errlev",
+			"errlev",
+			"height",
+			"c",
+			"p",
+			"const char input[]",
+			"cmd_vec",
+			"FILEERROR_TEXT_LENGTH",
+			"bool",
+			"out",
+			"u",
+			"out",
+			"stream",
+			"vert_vec",
+			"static",
+			"data",
+			"count",
+			"vec3",
+			"in3",
+			"v3",
+			"_M_insert_aux",
+			"struct vector",
+			"vector",
+			"and vector",
+			"union",
+			"memory",
+			"union",
+			"\\t",
+			"MAX_MATERIALS",
+			"wf",
+			"wavefrontobj"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Protokoll/main.tex",
+					"settings":
+					{
+						"buffer_size": 3257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2213,
+								2213
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 714.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Protokoll/messwerte.tex",
+					"settings":
+					{
+						"buffer_size": 28887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27885,
+								27885
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"spell_check": true,
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7395.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Protokoll/aufbau.tex",
+					"settings":
+					{
+						"buffer_size": 7206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1099,
+								1099
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"spell_check": true,
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Protokoll/grundlagen.tex",
+					"settings":
+					{
+						"buffer_size": 17211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2255,
+								2255
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"spell_check": true,
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1632.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Protokoll/ref.bib",
+					"settings":
+					{
+						"buffer_size": 927,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								308,
+								308
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/LaTeX/Bibtex.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Protokoll/zusammenfassung.tex",
+					"settings":
+					{
+						"buffer_size": 1816,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1816,
+								1816
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Protokoll/antenne-01-2.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 342,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								138,
+								138
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Protokoll/stichkabel-02.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								264,
+								264
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "Protokoll/antenne-02.gnuplot-data",
+					"settings":
+					{
+						"buffer_size": 61,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61,
+								61
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "Protokoll/antenne-02.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 438,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								125,
+								125
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "Protokoll/antenne-01.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								243,
+								243
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "Protokoll/antenne-01.gnuplot-data",
+					"settings":
+					{
+						"buffer_size": 57,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								57,
+								57
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/media/EL STICK/Grundlagen/Grundlagen.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "Protokoll/modulation-amp.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143,
+								143
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "Protokoll/impuls-offen-03.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 274,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								274,
+								274
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "Protokoll/messwerte/impuls-offen-03.csv",
+					"settings":
+					{
+						"buffer_size": 11443,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1275.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "Protokoll/stichkabel2-04.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 653,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								645,
+								645
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "Protokoll/stichkabel-04.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 649,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								640,
+								640
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "Protokoll/stichkabel-03.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								264,
+								264
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "Protokoll/stichkabel-01.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								263,
+								263
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "Protokoll/koaxkabel-01.gnuplot-data",
+					"settings":
+					{
+						"buffer_size": 256,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								256,
+								256
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "Protokoll/koaxkabel-02.gnuplot-data",
+					"settings":
+					{
+						"buffer_size": 265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								265,
+								265
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "Protokoll/koaxkabel.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 468,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								80,
+								80
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "Protokoll/laborkabel-01.gnuplot-data",
+					"settings":
+					{
+						"buffer_size": 145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								145,
+								145
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "Protokoll/laborkabel-02.gnuplot-data",
+					"settings":
+					{
+						"buffer_size": 141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								141,
+								141
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "Protokoll/laborkabel.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 463,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								260,
+								260
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "Protokoll/aufgaben.tex",
+					"settings":
+					{
+						"buffer_size": 1447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1370,
+								1370
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"spell_check": true,
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "/home/lyrahgames/.config/sublime-text-2/Packages/User/LaTeXTools.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 7813,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/AAAPackageDev/Syntax Definitions/Sublime Settings.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1683.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "/home/lyrahgames/.config/sublime-text-2/Packages/LaTeXTools/README.markdown",
+					"settings":
+					{
+						"buffer_size": 67361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6171.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "Protokoll/messwerte/modulation-amp-par.txt",
+					"settings":
+					{
+						"buffer_size": 523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"settings":
+					{
+						"buffer_size": 183,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183,
+								183
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"file": "Protokoll/modulation-freq.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								217
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/User/gnuplot/gnuplot.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"file": "Protokoll/messwerte/impuls-offen-01-par.txt",
+					"settings":
+					{
+						"buffer_size": 524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								179,
+								179
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 33,
+					"file": "/media/NL/NewFile0.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 34,
+					"file": "/media/NL/NewFile0.csv",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 35,
+					"file": "Protokoll/stichkabel2-upp-f-03.gnuplot-data",
+					"settings":
+					{
+						"buffer_size": 284,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								284,
+								284
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 36,
+					"file": "Protokoll/stichkabel2-upp-f-02.gnuplot-data",
+					"settings":
+					{
+						"buffer_size": 619,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								619,
+								619
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 775.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 37,
+					"file": "Protokoll/stichkabel-upp-f-02.gnuplot-data",
+					"settings":
+					{
+						"buffer_size": 340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 38,
+					"file": "Protokoll/stichkabel2-upp-f-01.gnuplot-data",
+					"settings":
+					{
+						"buffer_size": 383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								383,
+								383
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 39,
+					"file": "Protokoll/stichkabel2-upp-f-01.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 369,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								290,
+								290
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/User/gnuplot/gnuplot.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 40,
+					"file": "Protokoll/stichkabel-upp-f-01.gnuplot-data",
+					"settings":
+					{
+						"buffer_size": 381,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 41,
+					"file": "Protokoll/messwerte/stichkabel-Upp-f-01.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 21,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								21
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/User/gnuplot/gnuplot.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 42,
+					"file": "Protokoll/stichkabel-upp-f-03.gnuplot-data",
+					"settings":
+					{
+						"buffer_size": 339,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								196,
+								196
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 43,
+					"file": "Protokoll/stichkabel-upp-f-03.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								100,
+								100
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/User/gnuplot/gnuplot.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 44,
+					"file": "Protokoll/messwerte/stichkabel-Upp-f-02.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 147,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								141,
+								141
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/User/gnuplot/gnuplot.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 45,
+					"file": "/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Auger-Elektronen-Spektroskopie/Protokoll/main.tex",
+					"settings":
+					{
+						"buffer_size": 4188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3255,
+								3255
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 221.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 46,
+					"file": "Protokoll/messwerte/impuls-offen-01.csv",
+					"settings":
+					{
+						"buffer_size": 11445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8,
+								8
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 47,
+					"file": "Protokoll/impuls-offen-01.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								189,
+								189
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/User/gnuplot/gnuplot.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 48,
+					"file": "Protokoll/messwerte/impuls-offen-02.csv",
+					"settings":
+					{
+						"buffer_size": 17429,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13,
+								13
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 49,
+					"file": "Protokoll/impuls-offen-02.gnuplot-config",
+					"settings":
+					{
+						"buffer_size": 269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								206,
+								206
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/User/gnuplot/gnuplot.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 50,
+					"file": "Protokoll/messwerte/stichkabel-Upp-f-01.ods",
+					"settings":
+					{
+						"buffer_size": 29687,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 51,
+					"file": "Protokoll/messwerte/impuls-offen-02-par.txt",
+					"settings":
+					{
+						"buffer_size": 613,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 52,
+					"file": "Protokoll/messwerte/modulation-freq.CSV",
+					"settings":
+					{
+						"buffer_size": 28019,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"aufb",
+				"Protokoll/aufbau.tex"
+			],
+			[
+				"g",
+				"Protokoll/grundlagen.tex"
+			],
+			[
+				"gru",
+				"Protokoll/grundlagen.tex"
+			],
+			[
+				"me",
+				"Protokoll/messwerte.tex"
+			],
+			[
+				"auf",
+				"Protokoll/aufbau.tex"
+			],
+			[
+				"mai",
+				"Protokoll/main.tex"
+			],
+			[
+				"mes",
+				"Protokoll/messwerte.tex"
+			],
+			[
+				"modula",
+				"Protokoll/modulation-freq.gnuplot-config"
+			],
+			[
+				"impuls",
+				"Protokoll/impuls-offen-02.gnuplot-config"
+			],
+			[
+				"au",
+				"Protokoll/aufbau.tex"
+			],
+			[
+				"modu",
+				"Protokoll/messwerte/modulation-freq.CSV"
+			],
+			[
+				"impuls-offen-02",
+				"Protokoll/messwerte/impuls-offen-02-par.txt"
+			],
+			[
+				"im",
+				"Protokoll/messwerte/impuls-offen-01.csv"
+			],
+			[
+				"co",
+				"pro-files/linux/config.pro"
+			],
+			[
+				"gac",
+				"src/truevision-tga.cpp"
+			],
+			[
+				"tga",
+				"src/truevision-tga.h"
+			],
+			[
+				"fi",
+				"src/file-format.h"
+			],
+			[
+				"clic",
+				"src/cmd-line-interp.cpp"
+			],
+			[
+				"cli",
+				"src/cmd-line-interp.h"
+			],
+			[
+				"tgah",
+				"src/truevision-tga.h"
+			],
+			[
+				"log",
+				"src/loghandl.cpp"
+			],
+			[
+				"logh",
+				"src/loghandl.h"
+			],
+			[
+				"tg",
+				"src/truevision-tga.cpp"
+			],
+			[
+				"file",
+				"src/file-format.h"
+			],
+			[
+				"",
+				"src/truevision-tga.h"
+			],
+			[
+				"ta",
+				"src/truevision-tga.cpp"
+			],
+			[
+				"con",
+				"pro-files/linux/config.pro"
+			],
+			[
+				"tgac",
+				"src/truevision-tga.cpp"
+			],
+			[
+				"clih",
+				"src/cmd-line-interp.h"
+			],
+			[
+				"bmpl",
+				"src/bitmap-loader.h"
+			],
+			[
+				"for",
+				"src/file-format.h"
+			],
+			[
+				"bmp",
+				"src/bitmap.h"
+			],
+			[
+				"mtlc",
+				"src/alias-wavefront-mtl.cpp"
+			],
+			[
+				"mtlh",
+				"src/alias-wavefront-mtl.h"
+			],
+			[
+				"obj",
+				"src/wavefront-obj.h"
+			],
+			[
+				"ma",
+				"src/main.cpp"
+			],
+			[
+				"objc",
+				"src/wavefront-obj.cpp"
+			],
+			[
+				"mtl",
+				"src/alias-wavefront-mtl.h"
+			],
+			[
+				"main",
+				"src/main.cpp"
+			],
+			[
+				"objh",
+				"src/wavefront-obj.h"
+			],
+			[
+				"mth",
+				"src/alias-wavefront-mtl.h"
+			],
+			[
+				"vec",
+				"src/vec4f.h"
+			],
+			[
+				"obj.h",
+				"src/wavefront-obj.h"
+			],
+			[
+				"obj.c",
+				"src/wavefront-obj.cpp"
+			],
+			[
+				"c",
+				"pro-files/linux/config.pro"
+			],
+			[
+				"vec4",
+				"src/vec4f.h"
+			],
+			[
+				"lgc",
+				"src/loghandl.cpp"
+			],
+			[
+				"bmpc",
+				"src/bitmap.cpp"
+			],
+			[
+				"bmph",
+				"src/bitmap.h"
+			],
+			[
+				"logc",
+				"src/loghandl.cpp"
+			],
+			[
+				"out",
+				"pro-files/data/tmp/out.txt"
+			],
+			[
+				"loghc",
+				"src/loghandl.cpp"
+			],
+			[
+				"bit",
+				"src/bitmap.h"
+			],
+			[
+				"mt",
+				"src/alias-wavefront-mtl.cpp"
+			],
+			[
+				"cl",
+				"src/cmd-line-interp.h"
+			],
+			[
+				"err",
+				"src/errhandl.h"
+			],
+			[
+				"te",
+				"test.txt"
+			],
+			[
+				"vew",
+				"src/gui/Viewer.h"
+			],
+			[
+				"uni",
+				"src/common/Universal.h"
+			],
+			[
+				"tex",
+				"src/io/TextureLoader.h"
+			],
+			[
+				"viewr",
+				"src/gui/Viewer.cpp"
+			],
+			[
+				"vi",
+				"src/gui/Viewer.h"
+			],
+			[
+				"math",
+				"src/common/MathUtil.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/II/NSG/code/nsg-code.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true
+}

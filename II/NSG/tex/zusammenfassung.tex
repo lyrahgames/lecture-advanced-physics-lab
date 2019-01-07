@@ -1,0 +1,27 @@
+\section{Zusammenfassung} % (fold)
+\label{sec:zusammenfassung}
+
+	% Zusammenfassend kann man sagen, dass die ursprüngliche abgeschlossene Klostergemeinschaft ohne großen Kontakt zur Außenwelt und vor allem ohne weibliche Wesen auch in heutiger Zeit für manche Personen insbesondere für bestimmte theoretische Physiker eine gute, praktikable alternative Lebensform darstellt.
+	% Im Versuch konnte mehrmals eindeutig nachgewiesen werden, dass freudlose Sack-T-Shirts in Zusammenhang mit nie wechselnden kurzen aber dennoch ungleublich weiten Hosen aus den 30ern und bis dahin nicht für möglich gehaltenen Zehenschuhen eine sagen wir unvorteilhafte Kombination für die offene Gesellschaft darstellt, jedoch in gewissen Kreisen durchaus akzeptabel wäre.
+	% Die zusätzlichen Messungen zeigten, dass auch Hautunreinheiten, mangelnde Bart- und Haarpflege und ein generelles Erscheinungsbild, als würde man zu seiner eigenen Hinrichtung gehen und sich auch dafür noch entschuldigen, unter normalen Umständen mit sehr viel Arbeit behoben werden müsste, durch das Konzept der gut abgeschirmten Glaubensgemeinschaften aber eine praktische Verwertung erfahren könnte.
+	% Als angenehmer Nebeneffekt käme hinzu, dass durch Ablegung des Zölibaths und entsagen jeglicher Form körperlicher Freude (was im vorliegenden Fall ja quasi schon geschehen ist) auch zukünftige Generationen nachhaltig vor derlei Erscheinungsformen geschützt wären, was einem gegenseiteigen Nutzen entspricht.
+
+	% Oder anders ausgedrückt:
+	% \\Junge geh mal duschen, rasier dich, kauf dir nen Spiegel, einen zweiten Satz Klamotten und geh vielleicht mal nach draußen verdammt noch mal!!!
+
+	Der Versuch diente dazu numerische Verfahren zu erlernen, um Differentialgleichungen wie die Navier-Stokes Gleichung für inkompressible Flüssigkeiten zu lösen und simulieren.
+	Die hierfür verwendeten Techniken wie finite Differenzen, Donor-Cell-Stencils oder das SOR Verfahren lieferten gute Ergebnisse bei der Berechnung von Druck und Geschwindigkeit.
+	Die damit simulierten Nischenströmungen deckten sich für kleine Reynoldszahlen (1 bis 100) sehr gut mit den Erwartungen aus der eigenen Erfahrung, sowie mit den bekannten Simulationen und Beispielen aus der Literatur.
+	Auch konvergierte die Lösung relativ schnell, innerhalb weniger Sekunden gegen den stationären Endzustand, wenn man die Berechnung auf einem $64\times64$ Gitter durchführte.
+	Für größere Reynoldszahlen wie z.B. $Re = 1000$ entstanden hier bereits beträchtliche Instabilitäten, die keine sinnvolle Simulation mehr möglich machten.
+	Zur Berechnung derartiger Flüssigkeiten musste die Ortsauflösung stark erhöht werden, was zwar wieder zu guten Übereinstimmungen mit Literaturwerten führte, den Zeitaufwand aber natürlich erheblich ansteigen ließ.
+	So dauerte das Errechnen des Endzustandes in diesem Fall schon über eine halbe Stunde in Echtzeit.
+	Der höhere Rechenaufwand für größere Reynoldszahlen ist gewissermaßen eine notwendige Konsequenz, da mit der Erhöhung von $Re$ die innere Reibung der Flüssigkeit abnimmt und damit die einzelnen Teilgebiete sich unabhängig von den Nachbarzellen entwickeln können, was zu mehreren kleinen Wirbeln und Turbulenzen führt, wie es ja auch in natürlichen, realen Strömungen der Fall ist.
+	Die Simulationen, die unter veränderten Randbedingungen wie rechteckige Boxgeometrie oder zeitlich wechselnder Geschwindigkeit erstellt wurden, zeigten ebenfalls sehr gute Ergebnisse, die den Erwartungen für reale Flüssigkeiten entsprachen.
+	Zusammenfassend kann man sagen, dass die numerische Behandlung der Navier-Stokes Gleichung wie sie hier durchgeführt wurde, ein sehr effizientes Verfahren zur Simulation des Verhaltens inkompressibler Flüssigkeiten darstellt.
+	Mittels einfacher Rechentechnik können hiermit bereits nach kurzer Zeit für die meisten Fluide sehr gute Ergebnisse erziehlt werden, die aufwändige Versuche in Wind- oder Strömungskanälen ersparen.
+	Erweiterungen zum Simulieren hoher Reynoldszahlen oder kompressibler Substanzen lassen sich durch zusätzliche Terme in der Differentialgleichung und höhere Rechenleistung z.B. mittels Computercluster und paralleler Programmierung bewerkstelligen, wodurch das Verfahren universell einsetzbar wird.
+
+
+	 
+% section zusammenfassung (end)

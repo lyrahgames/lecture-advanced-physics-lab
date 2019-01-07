@@ -1,0 +1,1075 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ren",
+				"render"
+			],
+			[
+				"setS",
+				"setScalarField"
+			],
+			[
+				"render",
+				"render-w"
+			],
+			[
+				"ome",
+				"omega1"
+			],
+			[
+				"ve",
+				"velocity"
+			],
+			[
+				"Vec",
+				"VecField2f	(main.cpp)"
+			],
+			[
+				"ran",
+				"rand_num"
+			],
+			[
+				"ra",
+				"rand_num_size"
+			],
+			[
+				"rand",
+				"rand_num"
+			],
+			[
+				"vc",
+				"vec2f"
+			],
+			[
+				"sc",
+				"scalar_field"
+			],
+			[
+				"sca",
+				"scalar-field"
+			],
+			[
+				"pixe",
+				"pixel_grid"
+			],
+			[
+				"vec",
+				"vec2f"
+			],
+			[
+				"inv",
+				"inv_max_mag"
+			],
+			[
+				"Sca",
+				"ScalarField2f	(scalar-field.h)"
+			],
+			[
+				"max",
+				"max_mag"
+			],
+			[
+				"Sc",
+				"ScalarField2f	(render-w.h)"
+			],
+			[
+				"__",
+				"__SCALAR_FIELD_H__"
+			],
+			[
+				"Ve",
+				"VecField2f"
+			],
+			[
+				"vec2",
+				"vec2u"
+			],
+			[
+				"tm",
+				"tmp_y2"
+			],
+			[
+				"tmp",
+				"tmp_x2"
+			],
+			[
+				"tmp_y",
+				"tmp_y1"
+			],
+			[
+				"_",
+				"_field"
+			],
+			[
+				"gri",
+				"grid_point"
+			],
+			[
+				"grid",
+				"grid_min"
+			],
+			[
+				"pos",
+				"pos_vec"
+			],
+			[
+				"def",
+				"def_grid"
+			],
+			[
+				"com",
+				"comp	(vec.h)"
+			],
+			[
+				"Grid",
+				"Grid2"
+			],
+			[
+				"max_",
+				"max_val"
+			],
+			[
+				"min",
+				"min_val"
+			],
+			[
+				"tem",
+				"template	(grid.h)"
+			],
+			[
+				"lin",
+				"lineTo"
+			],
+			[
+				"size",
+				"size_x"
+			],
+			[
+				"pa",
+				"path"
+			],
+			[
+				"gi",
+				"grid"
+			],
+			[
+				"S",
+				"ScalarField2f	(render-w.h)"
+			],
+			[
+				"idx",
+				"idx_y"
+			],
+			[
+				"set",
+				"setzero"
+			],
+			[
+				"Gr",
+				"Grid2"
+			],
+			[
+				"te",
+				"template	(grid.h)"
+			],
+			[
+				"Grd",
+				"Grid2f	(grid.h)"
+			],
+			[
+				"mi",
+				"min_x"
+			],
+			[
+				"siz",
+				"size_x"
+			],
+			[
+				"co",
+				"count_y"
+			],
+			[
+				"cou",
+				"count_y"
+			],
+			[
+				"si",
+				"size_y"
+			],
+			[
+				"N_",
+				"N_Y"
+			],
+			[
+				"N",
+				"N_Y"
+			],
+			[
+				"sz",
+				"size_x"
+			],
+			[
+				"ot",
+				"out"
+			],
+			[
+				"bac",
+				"back_shift"
+			],
+			[
+				"bit",
+				"bit_reverse"
+			],
+			[
+				"o",
+				"even_out"
+			],
+			[
+				"tw",
+				"twiddle_lut_power"
+			],
+			[
+				"twi",
+				"twiddle_lut_count"
+			],
+			[
+				"eve",
+				"even_out"
+			],
+			[
+				"ui",
+				"uint"
+			],
+			[
+				"odd",
+				"odd_in"
+			],
+			[
+				"even",
+				"even_in"
+			],
+			[
+				"init",
+				"initTwiddleLUT"
+			],
+			[
+				"M_P",
+				"M_PI"
+			],
+			[
+				"struct",
+				"struct	struct"
+			],
+			[
+				"fft",
+				"fft_data"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.cpp",
+			"settings":
+			{
+				"buffer_size": 1831,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/render-w.h",
+			"settings":
+			{
+				"buffer_size": 3808,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/grid.h",
+			"settings":
+			{
+				"buffer_size": 2649,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/vec-field.h",
+			"settings":
+			{
+				"buffer_size": 2853,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/scalar-field.h",
+			"settings":
+			{
+				"buffer_size": 2529,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/vec.h",
+			"settings":
+			{
+				"buffer_size": 5041,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pro-files/linux/config.pro",
+			"settings":
+			{
+				"buffer_size": 597,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/nsg.h",
+			"settings":
+			{
+				"buffer_size": 4478,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 217.0,
+		"selected_items":
+		[
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"langua",
+				"Dictionaries: Set Language"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"tmpf",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"tmpfi",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"tmpfil",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"kebinf",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"statur",
+				"View: Toggle Status Bar"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"brw",
+				"Preferences: Browse Packages"
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			],
+			[
+				"add f",
+				"Project: Add Folder"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 525.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/II/NSG/code/src/scalar-field.h",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/II/NSG/code/src/field.h",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/II/NSG/code/render-w.h",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Proseminar Numerische Mathematik/presentation/doc.tex",
+		"/tmp/mozilla_lyrahgames0/bow.tex",
+		"/tmp/mozilla_lyrahgames0/game0.tex",
+		"/home/lyrahgames/cloud/Dropbox/pro/latex-stdinit/hilbert.tex",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/LaTeXTools.sublime-settings",
+		"/home/lyrahgames/cloud/Dropbox/pro/latex-stdinit/main.cpp",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/II/317 - Elektrischer Schwingkreis/erzw-schw.gnuplot-config",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/II/406 - Gitter und Prismenspektrometer/dispersion.gnuplot-config",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/412 - Spezifische Drehung von Zucker/d-phi.gnuplot-config",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/120 - Gekoppelte Schwingungen/frequenzen.gnuplot-config",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/120 - Gekoppelte Schwingungen/frequenzen.gnuplot-data",
+		"/home/lyrahgames/cloud/Dropbox/tools/sublime-text/sublime-text-2.0.2/User/LaTeX/snippets/stdinit.sublime-snippet",
+		"/home/lyrahgames/cloud/Dropbox/pro/latex-stdinit/main (lyrahgames-lap's conflicted copy 2015-12-09).log",
+		"/home/lyrahgames/cloud/Dropbox/pro/latex-stdinit/main (lyrahgames-lap's conflicted copy 2015-12-09).aux",
+		"/home/lyrahgames/cloud/Dropbox/pro/latex-stdinit/stdinit.tex",
+		"/home/lyrahgames/cloud/Dropbox/pro/latex-stdinit/main.tex",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Höhere Analysis/I/Übungen/Übung 01/SoSe2015_HABlatt1.tex",
+		"/home/lyrahgames/cloud/Dropbox/pro/qt-project/histoW-v3/src/histo-w.h",
+		"/home/lyrahgames/pro/latex-stdinit/sublime-text-snippets/subsection_s.sublime-snippet",
+		"/home/lyrahgames/pro/latex-stdinit/table.csv",
+		"/home/lyrahgames/pro/latex-stdinit/sublime-text-snippets/stdinit.sublime-snippet",
+		"/home/lyrahgames/pro/latex-stdinit/test.py",
+		"/home/lyrahgames/pro/latex-stdinit/main.cu",
+		"/home/lyrahgames/pro/latex-stdinit/main.cpp",
+		"/home/lyrahgames/pro/latex-stdinit/sublime-text-snippets/math/qed01.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/lyrahgames/cloud/Dropbox/pro/qt-project/histoW-v3/src/main.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"6",
+			"7",
+			"9",
+			"ScalarField2f",
+			"epsilo",
+			"max_mag",
+			"VecField2",
+			"min",
+			"scale",
+			"tmp",
+			"unsigned",
+			"v",
+			"def_grid",
+			"len",
+			"d",
+			"pos",
+			"path2",
+			"floor",
+			"vec2",
+			"vec1",
+			"vec2.",
+			"vec1.",
+			"&vec2",
+			"vec2",
+			"vec2(",
+			"size",
+			"comp",
+			"grid",
+			"_grid",
+			"Field2",
+			"__FIELD_H__",
+			"vec4",
+			"div2",
+			"vec4",
+			"mult3",
+			"mult2",
+			"vec4",
+			"add",
+			"vec4",
+			"float",
+			"path",
+			"3f",
+			"0",
+			"2",
+			"0f",
+			"10",
+			"int",
+			"ScalarField",
+			"ScalarField2",
+			"__SCALAR_FIELD_H__",
+			"beta",
+			"cdot",
+			"enumeration",
+			"itemize",
+			"MidnightBlue",
+			"itemize",
+			"alignat",
+			"definition",
+			"stddef",
+			"[htbp",
+			"definie",
+			"title",
+			"chicago",
+			"Computing",
+			"Concurren",
+			"Scientific",
+			"Springer",
+			"table",
+			"figure",
+			"[htb]",
+			"[t]",
+			"table",
+			"!htbp",
+			"Bezeichnet",
+			"0.1",
+			"0.8",
+			"c_",
+			"dashbox",
+			"Red",
+			"Black",
+			"colorbox",
+			"MidnightBlue",
+			"framebox",
+			"dashbox",
+			"htbp",
+			"dashbox",
+			"proposition",
+			"\\tilde{b}",
+			"end",
+			"overline",
+			"setcolor",
+			"texttt",
+			"2^{p-q}t",
+			"2^{q-1}",
+			"0",
+			"dashbox",
+			"0.1",
+			"7",
+			"\\makebox(0,0)",
+			"proposition",
+			"induktiven",
+			"qquad",
+			"Bmatrix",
+			"matrix",
+			"array",
+			"Bmatrix",
+			"end",
+			"initially",
+			"asymptotische",
+			"cdot",
+			"e^",
+			"definition",
+			"alignat",
+			"m",
+			"k",
+			"omega_k",
+			"\\tilde{f}",
+			"tcolorbox",
+			"i + shift*(r+1)",
+			"i + shift*r",
+			"count",
+			"out",
+			"tmp_left",
+			"t_odd_out",
+			"t_even_out",
+			"count",
+			"0",
+			"even_out[i"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\t"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.cpp",
+					"settings":
+					{
+						"buffer_size": 1831,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1613,
+								1613
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 918.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/render-w.h",
+					"settings":
+					{
+						"buffer_size": 3808,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2397,
+								2397
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1224.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/grid.h",
+					"settings":
+					{
+						"buffer_size": 2649,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"spell_check": true,
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 510.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/vec-field.h",
+					"settings":
+					{
+						"buffer_size": 2853,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"spell_check": true,
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 102.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/scalar-field.h",
+					"settings":
+					{
+						"buffer_size": 2529,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/vec.h",
+					"settings":
+					{
+						"buffer_size": 5041,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1017,
+								1017
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 969.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "pro-files/linux/config.pro",
+					"settings":
+					{
+						"buffer_size": 597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/QMakeProject/QMakeProject.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/nsg.h",
+					"settings":
+					{
+						"buffer_size": 4478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1479.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"co",
+				"pro-files/linux/config.pro"
+			],
+			[
+				"ren",
+				"src/render-w.h"
+			],
+			[
+				"ma",
+				"src/main.cpp"
+			],
+			[
+				"c",
+				"pro-files/linux/config.pro"
+			],
+			[
+				"ns",
+				"src/nsg.h"
+			],
+			[
+				"pre",
+				"pre.tex"
+			],
+			[
+				"bea",
+				"beamer.tex"
+			],
+			[
+				"be",
+				"beamer.tex"
+			],
+			[
+				"mai",
+				"main.tex"
+			],
+			[
+				"f",
+				"fft.cpp"
+			],
+			[
+				"",
+				"diagramm.gnuplot-config"
+			],
+			[
+				"std",
+				"stdinit.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/lyrahgames/cloud/Dropbox/usr/uni/Lineare Algebra und Analytische Geometrie/II/Aufzeichnungen/tex/lina2.sublime-project"
+			],
+			[
+				"histow",
+				"/home/lyrahgames/cloud/Dropbox/pro/qt-project/histow-kde-v2/histow-kde-v2.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true
+}

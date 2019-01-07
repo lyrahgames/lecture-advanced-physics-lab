@@ -1,0 +1,312 @@
+\section{Messwerte und Auswertung} % (fold)
+\label{sec:messwerte_und_auswertung}
+
+	\subsection{Bestimmung des Ausleserauschens} % (fold)
+	\label{sub:bestimmung_des_ausleserauschens}
+	
+		Zur Bestimmung des systematischen Fehlers und des Rauschens mussten mehrere Biasbilder aufgenommen werden.
+		Abbildung \ref{fig:beispiel-biasbild} zeigt ein Beispiel eines solchen Biasbildes, wie es von uns verwendet wurde.
+
+		\begin{figure}
+			\center
+			\fbox{\includegraphics[scale=0.5]{messwerte/bias-1.jpg}}
+			\caption{Beispiel einer Biasaufnahme bei $-8\unit{$^\circ$C}$ mit eingefügtem Messcursor}
+			\label{fig:beispiel-biasbild}
+		\end{figure}
+
+		Für den weiteren Versuchsteil wurden genau 100 Biasbilder aufgenommen.
+		Über diese Bilder wurde für jeden Pixel der Mittelwert gebildet, sodass ein Mittelwertbild entstand.
+		Dieses ist in Abbildung \ref{fig:bias-mean} gezeigt.
+		Es wird deutlich, dass sich der systematische Fehler entlang der Abzisse verändert.
+		Durch Abzug dieses Bildes von anderen Aufnahmen kann der Einfluss des systematischen Fehlers bei Messungen näherungsweise als Null angenommen werden. 
+
+		\begin{figure}
+			\center
+			\fbox{\includegraphics{messwerte/bias-mean.png}}
+			\caption{Mittelwertbild von 100 aufgenommenen Biasbildern bei Raumtemperatur}
+			\label{fig:bias-mean}
+		\end{figure}
+
+		Um ein Maß für den Wert des Rauschens zu erhalten, wurde nun noch ein weiteres Biasbild aufgenommen.
+		Von dieser Aufnahme wurde das Mittelwertbild abgezogen.
+		Da so diverse Pixel durchaus auch negative Werte annehmen könnten, wurde eine bekannten Konstante (auch Offset) von 200 hinzuaddiert. 
+		Dieses Verfahren wurde auch für alle weiteren Differenzbilder, von denen zum Beispiel der systematische Fehler subtrahiert wurde, verwendet.
+		Das erhaltene Rauschbild ist in Abbildung \ref{fig:bias-noise} gezeigt.
+
+		\begin{figure}
+			\center
+			\fbox{\includegraphics{messwerte/bias-noise.png}}
+			\caption{Rauschbild bei Raumtemperatur mit Offset von 200}
+			\label{fig:bias-noise}
+		\end{figure}
+
+		Die minimale Standardabweichung wurde über das Programm und mit Hilfe des Messcursors zu circa 11.2 bestimmt.
+		Da uns in diesem Versuch aber mehr die Lage der Peaks im Spektrum als ihre Intensität interessiert, ist dieser Wert für die weitere Auswertung eher unerheblich.
+		Im folgenden werden alle weiteren Aufnahmen auch immer, wenn nicht ausdrücklich anderes gesagt, nach Abzug des entsprechenden Biaslevels gezeigt und ausgewertet.
+
+	% subsection bestimmung_des_ausleserauschens (end)
+
+
+	\subsection{Temperaturabhängigkeit des Dunkelstromes} % (fold)
+	\label{sub:temperaturabh_ngigkeit_des_dunkelstromes}
+
+		Die Dunkelstrombilder wurden wie unter \ref{sub:dunkelstromaufnahme} gezeigt erstellt und im Anschluss wurde stets eine Bias-Aufnahme abgezogen.
+		Als Beispiel sind in den Abbidungen \ref{dark04} und \ref{dark04_spec} die Intensitätsverteilungen des reduzierten Dunkelstrombildes bei $2\unit{$^\circ$C}$ zu sehen.
+		Alle folgenden Dunkelstrombilder wurden mit einer Belichtungszeit von $5\unit{min}$ aufgenommen.
+
+		\begin{figure}
+			\center
+			\fbox{\includegraphics[scale=0.5]{messwerte/dark04.PNG}}
+			\caption{Dunkelstrombild bei geschlossener Blende und $2\unit{$^\circ$C}$}
+			\label{dark04}
+		\end{figure}
+
+		\begin{figure}
+			\center
+			\input{dark04-spec}
+			\caption{Signalverteilung über die Pixelspalten bei geschlossener Blende und $2\unit{$^\circ$C}$}
+			\label{dark04_spec}
+		\end{figure}
+
+		Alle Signalverteilungen mitteln das Signal über eine Spalte von Pixeln und stellen es dann in Abhängigkeit des Spaltenindex dar.
+		Zu erkennen ist klar ein Grundlevel um 320 und einzelne zufällige Spitzen.
+		Diese können durch Temperaturveränderungen während der Aufnahme oder durch durchdringende Strahlung (natürliche Radioaktivität, kosmische Strahlung, etc.) entstanden sein.
+		Trägt man nun die jeweiligen gemittelten Grundlevel der einzelnen Aufnahmen über der Temperatur auf, so ergibt sich der in Abbildung \ref{fig:dark-temp} gezeigte Zusammenhang:
+
+		\begin{figure}
+			\center
+			\input{dark-temp}
+			\caption{Abhängigkeit des Dunkelstroms von der Temperatur}
+			\label{fig:dark-temp}
+		\end{figure}
+
+		Legt man für die Temperaturabhängigkeit des Signals den folgenden Zusammenhang zugrunde,
+		\[ I \propto \exp\curvb{-\frac{E_G}{kT}} \]
+		wobei $E_G$ für die Bandlückenenergie des dotierten Halbleiters steht, $k$ die Boltzmann-Konstante und $T$ die absolute Temperatur beschreibt, so kann man aus dem gemittelten Anstieg $a$ der Ausgleichsgeraden $E_G$ bestimmen.
+		\[ E_G = -\frac{k}{a} \]
+		Aus der Approximation erhielten wir
+		\[ a = (-0.0066 \pm 0.0012)\unit{JK}^{-1} \]
+		Durch $\Delta a$ ergibt sich für $E_G$ ein relativer Fehler von ungefähr $20\unit{\%}$.
+		\[ E_G \approx 2.1\cdot 10^{-21}\unit{J} = 13\unit{meV} \]
+		Dieser Wert liegt im Bereichen des für Germanium typischen Wertes.
+		Er ist damit also plausibel.
+	
+	% subsection temperaturabh_ngigkeit_des_dunkelstromes (end)
+
+
+	\subsection{Linearität der CCD-Kamera} % (fold)
+	\label{sub:linearit_t_der_ccd_kamera}
+
+		Zur Überprüfung der Linearität wurde wie unter \ref{sub:_berpr_fung_der_linearit_t} beschrieben vorgegangen.
+		Die Temperatur wurde dabei konstant auf $0\unit{$^\circ$C}$ gehalten und Biasaufnahmen wurden stets abgezogen.
+		In Abbildung \ref{linspec} ist eine Beispielaufnahme dargestellt.
+
+		\begin{figure}
+			\center
+			\input{linearspec}
+			\caption{CCD-Aufnahme bei Beleuchtung mit Mikroskoplampe und vorgesetzter Lochblende, gemessen bei $0\unit{$^\circ$C}$, Belichtungszeit 0.5s}
+			\label{linspec}
+		\end{figure}
+
+		Im Weiteren Vorgehen wurde stets das mittlere Maximum als Bezugspunkt gewählt.
+		Da alle Aufnahmen unabhängig von der Belichtungszeit den gleichen (qualitativen) Verlauf aufwiesen, ist es völlig ausreichend nur die Werte an diesem Punkt zu untersuchen.
+		Die jeweiligen Intensitätswerte am Maximum wurden über der Belichtungszeit in Abbildung \ref{linrise} zusammengefasst.
+
+		\begin{figure}
+			\center
+			\input{linrise}
+			\caption{CCD-Signal am mittleren Peak in Abhängigkeit der Belichtungszeit, gemessen bei $0\unit{$^\circ$C}$, Maximum mit Hilfe von Gnuplot ausgemessen}
+			%stimmt nicht, es war mit Hilfe von Scidavis, muhahah!
+			\label{linrise}
+		\end{figure}
+
+		Die lineare Anstiegsgerade ist offensichtlich und bestätigt in sehr guter Weise die Annahme und Forderung, dass die CCD-Zellen Elektronen proportional zur eingestrahlten Energie ansammeln.
+		Der minimale Knick und das Offset um den Nullpunkt wird plausibel, wenn man den endlichen Dunkelstrom bedenkt und vor allem das stets aufaddierte Offset von 200 mit einbezieht.
+		Abbildung \ref{linrise} zeigt somit eindeutig, dass die CCD über einen sehr weiten Bereich linear arbeitet und somit für unsere Zwecke bestens geeignet ist.
+
+	% subsection linearit_t_der_ccd_kamera (end)
+
+
+	\subsection{Vergleichsspektren von Hg-Cd und Ne} % (fold)
+	\label{sub:vergleichsspektren_von_hg_cd_und_ne}
+
+		Zur Kalibrierung und zum besseren Verständnis der Arbeitsweise des Gitterspektrografen wurden die Spektren einer Quecksilber-Cadmium-Entladungslampe sowie einer Neon-Glimmlampe aufgenommen, da diese gut zu erkennende und zuzuordnende Spektrallinien in unterschiedlichen Wellenlängenbereichen aufweisen.
+		Da die Lampen erst zur Kalibrierung dienen, kann ihr Spektrum in diesem Abschnitt natürlich nur qualitativ ausgewertet werden.
+		Die aufgenommenen Spektrallinien der Hg-Cd-Lampe sind in Abbildung \ref{hg_01} zu sehen. Weil das Licht der Lampe sehr intensiv war, wurde ein Papierfilter zwischen Optik und Lampe gebracht. 
+		Dieser veränderte zwar durch sein Absorptionsverhalten die Intensität der Peaks jedoch nicht deren Lage.
+
+		\begin{figure}
+			\center
+			\input{hg-01}
+			\caption{Spektrum der Quecksilber-Cadmium-Entladungslampe betrachtet durch die mittlere Blende bei verwendetem Gitter mit $g=200$, vorangestellten Papierfilter, Belichtungszeit von 0.1 s und Temperatur von $0\unit{$^\circ$C}$}
+			\label{hg_01}
+		\end{figure}
+
+		Zu sehen sind alle charakteristischen Linien von Quecksilber und Cadmium von 405 bis $644\unit{nm}$ wie sie auch in der Referenz im Anhang \ref{sec:vergleichsspektren} zu finden sind.
+		Die verminderte Intensität des Doppelpeaks und der Übrigen ist, wie oben erklärt, der Absorption des Papierfilters verschuldet.
+		Wie wir sehen, reicht hier die Auflösung des groben Gitters vollkommen aus, um alle relevanten Linien zu zeigen und es bringt zu dem den Vorteil, das gesamte Spektrum auf eine Aufnahme zu projizieren.
+		Nach Anpassung des Winkels an den Spektralbereich der Neon-Glimmlampe konnte das Bild von Abbildung \ref{ne_01} aufgenommen werden.
+
+		\begin{figure}
+			\center
+			\input{ne-01}
+			\caption{Spektrum der Neon-Glimmlampe betrachtet durch die mittlere Blende bei verwendetem Gitter mit $g = 200$, Belichtungszeit von 0.1 s und Temperatur von $0\unit{$^\circ$C}$}
+			\label{ne_01}
+		\end{figure}
+
+		Vergleich mit dem im Anhang angegebenen Referenzspektrum zeigt nicht nur eine sehr gute Übereinstimmung der Lage der Spitzen von circa $580\unit{nm}$ bis $680\unit{nm}$ sondern auch noch eine sehr gute qualitative Ähnlichkeit der Intensität der Peaks mit denen der Referenz, da hier kein Papierfilter verwendet wurde.
+		Auch in diesem Fall reicht die Auflösung des 200-Gitters völlig um alle Doppelpeaks klar trennen zu können, jedoch passt hier nicht mehr der gesamte Spektralbereich von $580\unit{nm}$ bis $750\unit{nm}$ auf eine Aufnahme.
+	
+	% subsection vergleichsspektren_von_hg_cd_und_ne (end)
+
+	\subsection{Linearität der Dispersionsrelation} % (fold)
+	\label{sub:linearit_t_der_dispersionsrelation}
+	
+		Verwendet man in Abbildung \ref{hg_01} die beiden äußeren Spektrallinien, welche nach Angabe der vorgegebenen Vergleichsspektren bei $435.8\unit{nm}$ und $643.8\unit{nm}$ zu finden sind, dann lassen sich die Skalierung $\alpha$ und das Offset $\beta$ bestimmen
+		\begin{alignat*}{3}
+			\alpha &= &0.35374\unit{nm} \\
+			\beta &= &\ 414.2221\unit{nm}
+		\end{alignat*}
+		Durch diese Skalierung ergibt aus Abbildung \ref{hg_01} die Signalverteilung in Abhängigkeit der Wellenlänge (siehe).
+
+		\begin{figure}
+			\center
+			\input{hg-200-scale}
+			\caption{Spektrum der Quecksilber-Cadmium-Entladungslampe über der Wellenlänge betrachtet durch die mittlere Blende bei verwendetem Gitter mit $g=200$, vorangestellten Papierfilter, Belichtungszeit von 0.1 s und Temperatur von $0\unit{$^\circ$C}$}
+			\label{hg-scale}
+		\end{figure}
+
+		Die Linearität lässt sich nun durch Vergleich der gezeigten Wellenlängen mit den Bekannten überprüfen.
+		Tabelle \ref{tab:hg-1} zeigt die typischen Spektrallinien für eine Hg-Cd-Lampe im Vergleich mit den gemessenen Werten.
+		Die Fehlerwerte ergaben sich aus Ableseungenauigkeiten der Peak-Maxima.
+		Innerhalb des untersuchten Bereiches kann die Dispersionsrelation im Rahmen der angegebenen Fehler als linear angenommen werden.
+
+		\begin{table}
+			\center
+			\caption{Vergleich der gemessenen Spektrallinien und der Bekannten für die Hg-Cd-Lampe}
+			\label{tab:hg-1}
+			\begin{tabular}{c|c}
+				Messwerte [nm] & Literaturwert [nm] \\
+				\hline
+				$469 \pm 2$ & 467.8 \\
+				$481 \pm 2$ & 480.0 \\
+				$510 \pm 2$ & 508.6 \\
+				$547 \pm 2$ & 546.1 \\
+				$577 \pm 2$ & 577.0 \\
+				$580 \pm 2$ & 579.0 \\
+			\end{tabular}
+		\end{table}
+
+	% subsection linearit_t_der_dispersionsrelation (end)
+
+	\subsection{Auflösevermögen des Gitterspektrographen} % (fold)
+	\label{sub:aufl_severm_gen_des_gitterspektrographen}
+
+		Das Auflösungsvermögen lässt sich nun durch Ausmessen der halben Peak-Breite bestimmen.
+		Als Beispiel sei hier der Peak bei $\lambda = 547\unit{nm}$ der Hg-Cd-Lampe aus \ref{hg-scale} angegeben.
+		Dieser wurde durch die mittlere Spalte (und damit die schmalste) beleuchtet.
+		Die gesamte Peak-Breite konnte zu $2\Delta \lambda = 3.9\unit{nm}$ bestimmt werden.
+		\[ \frac{\lambda}{\Delta \lambda} \approx 281 \]
+		Damit ist das Auflösungsvermögen weit unterhalb des zu erwartenden Auflösungsvermögen für ein Gitter, der sonst in Bereichen von ungefähr 2000 liegen müsste.
+		Für das 200-Gitter ergaben sich dann je nach Spalt die in Tabelle \ref{tab:200-gitter-aufloesung} gezeigten Werte.
+
+		\begin{table}
+			\center
+			\caption{Auflösungsvermögen des $547\unit{nm}$-Peaks der Hg-Cd-Lampe in Abhängigkeit der Spaltbreite am 200-Gitter}
+			\label{tab:200-gitter-aufloesung}
+			\begin{tabular}{r|r|r|r}
+				Spaltbreite [$\mu$m] & 25 & 35 & 50 \\
+				\hline
+				Auflösungsvermögen & 281 & 257 & 205
+			\end{tabular}
+		\end{table}
+
+		Um nun das 900-Gitter zu untersuchen ist in Abbildung \ref{hg-900-scale} das Spektrum der Hg-Cd-Lampe für das 900-Gitter im Bereich von $508\unit{nm}$ bis $580\unit{nm}$ gezeigt.
+		Die Umrechnungskoeffizienten waren dabei
+		\begin{alignat*}{3}
+			\alpha &=& 0.0945\unit{nm} \\
+			\beta &=& \ 507.2825\unit{nm}
+		\end{alignat*}
+		Für das Auflösungsvermögen ergeben sich dann analog die Werte aus Tabelle \ref{tab:900-gitter-aufloesung}.
+		Es ist erkennbar, dass für das 900-Gitter ein wesentlich höheres Auflösungsvermögen erreicht wird.
+		Dies ist auch mit der Theorie des Gitters zu vereinbaren, da die Spalte durch ein Lichtbündel konstanten Durchmessers beleuchtet werden.
+		Es werden dadurch also sehr viel mehr Spalte beleuchtet als bei dem 200-Gitter.
+		Das Auflösungsvermögen muss also verbessert werden.
+		Dennoch liegt das gemessene Auflösungsvermögen weit unter einem theoretisch berechneten  Wert von ungefähr 10000.
+		In den Grundlagen ist bereits beschrieben, dass dieses Problem durch eine endliche Spaltbreite entsteht.
+		Wie erkennbar ist das Auflösungsvermögen also ebenfalls von der Spaltbreite abhängig. 
+
+		\begin{figure}
+			\center
+			\input{hg-900-scale-1}
+			\caption{Spektrum der Quecksilber-Cadmium-Entladungslampe über der Wellenlänge betrachtet durch die mittlere Blende bei verwendetem Gitter mit $g=900$, vorangestellten Papierfilter, Belichtungszeit von 0.1 s und Temperatur von $0\unit{$^\circ$C}$}
+			\label{hg-900-scale}
+		\end{figure}
+
+		\begin{table}
+			\center
+			\caption{Auflösungsvermögen des $547\unit{nm}$-Peaks der Hg-Cd-Lampe in Abhängigkeit der Spaltbreite am 900-Gitter}
+			\label{tab:900-gitter-aufloesung}
+			\begin{tabular}{r|r|r|r}
+				Spaltbreite [$\mu$m] & 25 & 35 & 50 \\
+				\hline
+				Auflösungsvermögen & 890 & 772 & 681
+			\end{tabular}
+		\end{table}
+
+	% subsection aufl_severm_gen_des_gitterspektrographen (end)
+
+	\subsection{Spektren des Sonnenlichts} % (fold)
+	\label{sub:spektren_des_sonnenlichts}
+
+		Die Sonnenspektren wurden, wie in der Durchführung beschrieben, aufgenommen und mit dem im Anschluss erstellten Vergleichsspektren kalibriert und skaliert.
+		Um ein bestmögliches Auflösungsvermögen zu erreichen verwendeten wir im Folgenden für alle Messungen das 900-Gitter und den mittleren und damit auch den schmalsten Spalt.
+		Die Temperatur des CCD-Sensors betrug immer $0\unit{$^\circ$C}$ und die Belichtungszeit $1\unit{s}$.
+
+		\begin{figure}
+			\center
+			\input{sonne-p1}
+			\caption{gemessenes Spektrum des natürlichen Lichts}
+			\label{sonne-p1}
+		\end{figure}
+
+		\begin{figure}
+			\center
+			\input{sonne-p2}
+			\caption{gemessenes Spektrum des natürlichen Lichts}
+			\label{sonne-p2}
+		\end{figure}
+
+		\begin{figure}
+			\center
+			\input{sonne-p3}
+			\caption{gemessenes Spektrum des natürlichen Lichts}
+			\label{sonne-p3}
+		\end{figure}
+
+		In den Abbildungen \ref{sonne-p1}, \ref{sonne-p2} und \ref{sonne-p3} lassen sich nun charakteristische Absorptionslinien herauslesen. 
+		Diese sind in Tabelle \ref{tab:sonne-spec} aufgeführt.
+		Durch die im Anhang angegebenen Sonnenspektren konnten alle Linien nachvollzogen werden.
+		Es konnte eine sehr gute Übereinstimmung mit den angegebenen Werten erreicht werden, wodurch auch verschiedene Elemente in Sonne und Atmosphäre nachgewiesen werden konnten.
+
+		\begin{table}
+			\center
+			\caption{gemessene Absorptionslinien des natürlichen Lichts mit zugeordneten Elementen und Linien}
+			\label{tab:sonne-spec}
+			\begin{tabular}{c|r}
+				Messwerte [nm] & Linie/Element \\
+				\hline
+				517 & MgI \\
+				518 & MgI \\
+				525 & FeI \\
+				540 & FeI \\
+				578 & CaI \\
+				588 & Na \\
+				624 & O$_2$(tell.) \\
+				656 & H$\alpha$ \\
+				686 & O$_2$(tell.)
+			\end{tabular}
+		\end{table}
+	
+	% subsection spektren_des_sonnenlichts (end)
+% section messwerte_und_auswertung (end)

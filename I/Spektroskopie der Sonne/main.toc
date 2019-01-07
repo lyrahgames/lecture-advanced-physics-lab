@@ -1,0 +1,25 @@
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}Aufgaben}{1}
+\contentsline {section}{\numberline {2}Grundlagen}{2}
+\contentsline {subsection}{\numberline {2.1}Gitterspektrograph}{2}
+\contentsline {subsection}{\numberline {2.2}CCD-Detektor}{3}
+\contentsline {subsection}{\numberline {2.3}Sonnenspektrum}{5}
+\contentsline {section}{\numberline {3}Aufbau und Durchf\IeC {\"u}hrung}{6}
+\contentsline {subsection}{\numberline {3.1}Bestimmung des Ausleserauschens des CCD-Detektors}{6}
+\contentsline {subsection}{\numberline {3.2}Dunkelstromaufnahme}{6}
+\contentsline {subsection}{\numberline {3.3}\IeC {\"U}berpr\IeC {\"u}fung der Linearit\IeC {\"a}t}{6}
+\contentsline {subsection}{\numberline {3.4}Kalibrierung des Spektrometers}{7}
+\contentsline {subsection}{\numberline {3.5}Aufnahme des Sonnenspektrums}{7}
+\contentsline {section}{\numberline {4}Messwerte und Auswertung}{9}
+\contentsline {subsection}{\numberline {4.1}Bestimmung des Ausleserauschens}{9}
+\contentsline {subsection}{\numberline {4.2}Temperaturabh\IeC {\"a}ngigkeit des Dunkelstromes}{11}
+\contentsline {subsection}{\numberline {4.3}Linearit\IeC {\"a}t der CCD-Kamera}{13}
+\contentsline {subsection}{\numberline {4.4}Vergleichsspektren von Hg-Cd und Ne}{15}
+\contentsline {subsection}{\numberline {4.5}Linearit\IeC {\"a}t der Dispersionsrelation}{16}
+\contentsline {subsection}{\numberline {4.6}Aufl\IeC {\"o}severm\IeC {\"o}gen des Gitterspektrographen}{18}
+\contentsline {subsection}{\numberline {4.7}Spektren des Sonnenlichts}{19}
+\contentsline {section}{\numberline {5}Zusammenfassung}{22}
+\contentsline {section}{\numberline {6}Verwendete Quellen}{23}
+\contentsline {section}{\numberline {A}Vergleichsspektren}{24}
+\contentsline {section}{\numberline {B}Beispiele des Sonnenspektrums}{26}
+\contentsline {section}{\numberline {C}Kenngr\IeC {\"o}\IeC {\ss }en des Gitterspektrographen}{28}

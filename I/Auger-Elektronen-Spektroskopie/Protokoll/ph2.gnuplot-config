@@ -1,0 +1,18 @@
+set terminal epslatex size 16.5cm,10cm
+set output "ph2.tex"
+
+set title 'Probenhalter-Spektrum an Position (2)'
+set xl '$E \ [eV]$'
+set yl '$dN/dE \ [1]$'
+
+#set xr [275:440]
+#set yr [-3:3]
+
+set label "1399" at 1350, 0.5
+set label "520" at 490, -3.5
+set label "282" at 220, -2.3
+
+plot 'PH2.txt' \
+	using (-1.624*$1):2:(1) \
+	with lines \
+	title 'Messwerte'

@@ -1,0 +1,106 @@
+\section{Messwerte und Auswertung} % (fold)
+\label{sec:messwerte_und_auswertung}
+
+	\subsection{Temperaturverteilung} % (fold)
+	\label{sub:temperaturverteilung}
+	
+		Um eine Vorstellung des genauen Temperaturverlaufs innerhalb der Kühlkanne zu bekommen, wurde die Temperatur an einigen markanten Stellen über Widerstandsmessung des Pt1000 Drahts sowie über die Diode bestimmt.
+		Wie erwartet lief der metallische Widerstand auf einen konstanten Restwiderstand hinaus.
+		Dadurch konnte die Temperatur unterhalb von $20\unit{K}$ nur noch sehr unzuverlässig bestimmt werden.
+
+
+	% subsection temperaturverteilung (end)
+
+
+	% \subsection{Beurteilung der Farbe der Kühlkanne} % (fold)
+	% \label{sub:beurteilung_der_farbe_der_k_hlkanne}
+	% 	Die Farbe der Kühlkanne ließ sich nur schwer mit den uns zur Verfügung stehenden Mitteln bestimmen. Sicher feststellen konnten wir allerdings, dass die Farbe hervoragend in die karge und abstoßende Atmosphäre des Raumes 
+	% 	passt. 
+
+	% % subsection beurteilung_der_farbe_der_k_hlkanne (end)
+
+
+	\subsection{Supraleitung von Tantal} % (fold)
+	\label{sub:supraleitung_von_tantal}
+
+		Mit Hilfe der Werte aus Abschnitt \ref{sub:temperaturverteilung} konnte nun ein Tantal-Draht an die richtige Position und Temperatur gebracht werden, dass der Effekt der Supraleitung gezeigt wurde.
+		Abbildung \ref{widerstandsabfall} zeigt eindeutig den schlagartigen Abfall des Restwiderstands bei einem gewissen Widerstandswert der Diode.
+		\begin{figure}
+			% \center
+			\include{gut}
+			\caption{Spannungsverlauf des Tantal-Drahtes in Abhängigkeit der Temperatur (dargestellt durch Diodenspannung bei konstantem Diodenstrom von $10\unit{$\mu$A}$) \\ (aufgezeichnet durch LabView) }
+			\label{widerstandsabfall}
+		\end{figure}
+		Die Diodenspannung wurde invertiert und mit einem Offset versehen, um den qualitativen Temperaturverlauf besser darzustellen.
+		\par
+		Im Folgenden wurde die Abhängigkeit der Sprungtemperatur vom äußeren Magnetfeld untersucht.
+		Wie in Abbildung \ref{gap} zu sehen, stieg der Widerstand am Tantal-Draht je nach ein- oder ausgeschalteten Magnetfeld sprunghaft um $0.15\unit{V}$ an.
+		Dies deutet auf eine Überschreitung der durch das Magnetfeld verringerten Sprungtemperatur hin.
+		\begin{figure}
+			% \center
+			\include{gap2}
+			\caption{Spannung des Tantal-Drahtes für ein- und ausgeschaltetes $B$-Feld. \\ (aufgezeichnet durch LabView)}
+			\label{gap}
+		\end{figure}
+
+	% subsection supraleitung_von_tantal (end)
+
+
+	\subsection{Gleichstrom Josephson-Kontakt} % (fold)
+	\label{sub:gleichstrom_josephson_kontakt}
+	
+		Der SIS-Kontakt wurde wie in Abschnitt \ref{sec:aufbau_und_durchf_hrung} beschrieben hergestellt.
+		Der rein supraleitende Fall ist in Abbildung \ref{waag_strich} zu sehen. 
+		Wie erwartet fällt keine Spannung über dem Kontakt ab, da die Cooper-Paare widerstandslos durch die Leiter gehen und über die Isolatorschicht tunneln.
+		\begin{figure}
+			\center
+			\includegraphics[scale=0.08]{messwerte/DSC_0618.JPG}
+			\caption{Tantalspannung über Strom am Oszilloskop}
+			\label{waag_strich}
+		\end{figure}
+		Bei größerem Wechselstrom konnte das vorhergesagte Verhalten mit Wechsel zwischen ohmschem und supraleitendem Zustand (siehe Abbildung \ref{zickzack}) beobachtet werden.
+		\begin{figure}
+			\center
+			\includegraphics[scale=0.08]{messwerte/DSC_0624.JPG}
+			\caption{Tantalspannung über Strom am Oszilloskop bei größerem Betrag des Wechselstromes}
+			\label{zickzack}
+		\end{figure}
+		Oberhalb des positiven und unterhalb des negativen kritischen Stromes fällt wieder eine Spannung proportional zur durchfließenden Stromstärke ab.
+		Durch Einkoppeln des Mikrowellenstrahlers wurde zwar eine Annäherung an die erwartete monoton steigende gewellte Gerade erreicht, allerdings reichte der Effekt nicht aus, um eindeutige Stufen wie in der Theorie prognostiziert zu sehen. 
+		Ein Beispielbild ist in Abbildung \ref{nichtwelle} zu sehen:
+		\begin{figure}
+			\center
+			\includegraphics[scale=0.08]{messwerte/DSC_0622.JPG}
+			\caption{Tantalspannung über Strom bei größerem Betrag des Wechselstromes mit eingekoppelten Mikrowellen}
+			\label{nichtwelle}
+		\end{figure}
+		Um den Effekt deutlicher darzustellen, wären wohl stabilere Kontakte und bessere Kopplungen erforderlich gewesen. 
+		Auch die Leistung des Strahlers könnte erhöht werden.
+		Des Weiteren bleibt zu bemerken, dass durch den sehr provisorisch erstellten Josephson-Kontakt eine Reproduzierbarkeit der Ergebnisse unmöglich war, da selbst kleinste Schwankungen und kurze Zeiträume den Kontakt und somit die Messung stark Verändern konnten.
+
+	% subsection gleichstrom_josephson_kontakt (end)
+
+
+	\subsection{SQUID-Magnetfeldmessung} % (fold)
+	\label{sub:squid_magnetfeldmessung}
+	
+		Wie in der Durchführung beschrieben wurde der SQUID durch die Methode der gekreuzten Drähte bewerkstelligt. 
+		Das Magnetfeld wurde durch zwei Helmholtz-Spulen erzeugt und mit Hilfe eines Stromteilers bestehend aus einer Dekadenreihe konnte der Strom und somit auch das Feld sehr genau eingestellt werden.
+		Nach langem Suchen des richtigen Kontaktes, der richtigen Temperatur, der korrekten Ausrichtung der Spulen und vorteilhaften Anzeige des Oszilloskops, konnte eine Einstellung gefunden werden, die die erwarteten periodischen Stromminima aufwies. 
+		Diese lagen bei:
+
+		\[ 0.33\unit{A},\quad 0.6\unit{A},\quad 0.9\unit{A},\quad 1.2\unit{A},\quad 1.48\unit{A},\quad 1.8\unit{A} \]
+
+		Daraus lässt sich eine gemittelte Periode von circa $0.3\unit{A}$ errechnen.
+		Aus der Elektrodynamik ist dann bekannt, dass sich das $B$-Feld im Mittelpunkt exakt durch folgende Gleichung berechnen lässt (äquivalent zur Bestimmung des $B$-Feldes einer Leiterschleife):
+		\[ B = \mu_0 IN \dfrac{R^2}{\boxb{R^2 + \curvb{\frac{l}{2}}^2}^{\frac{3}{2}}} \]
+		Es ergibt sich nun mit $R=25\unit{cm}$, $l=54\unit{cm}$ und $N=40$ folgendes: 
+		\[ \Delta B = 1.9\cdot 10^{-5}\unit{T} \]
+		Die Fläche des betrachteten SQUIDs folgt nun aus Grundlagen durch
+		\[ A = \dfrac{\Phi_0}{\Delta B} = 1.1\cdot 10^{-10}\unit{m}^2 \]
+		Dies entspricht der zu erwartenden Größenordnung.
+
+	% subsection squid_magnetfeldmessung (end)
+
+
+% section messwerte_und_auswertung (end)

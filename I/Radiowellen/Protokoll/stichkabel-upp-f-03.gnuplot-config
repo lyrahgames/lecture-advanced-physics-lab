@@ -1,0 +1,6 @@
+set terminal epslatex size 15cm,9cm
+set output "stichkabel-upp-f-03.tex"
+
+plot 'stichkabel-upp-f-03.gnuplot-data' \
+	using 1:2 \
+	with lines

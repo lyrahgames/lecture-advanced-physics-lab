@@ -1,0 +1,1290 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"vec",
+				"vec2"
+			],
+			[
+				"Vec",
+				"VecField2f"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"rand",
+				"rand_pos_size"
+			],
+			[
+				"init",
+				"initRandPos"
+			],
+			[
+				"ve",
+				"vector"
+			],
+			[
+				"rand_p",
+				"rand_pos_size"
+			],
+			[
+				"ran",
+				"rand_pos"
+			],
+			[
+				"Ra",
+				"RAND_POINT_COUNT"
+			],
+			[
+				"ra",
+				"rand_num"
+			],
+			[
+				"pri",
+				"private"
+			],
+			[
+				"ome",
+				"omega2"
+			],
+			[
+				"F_",
+				"F_tmp3"
+			],
+			[
+				"F",
+				"F_tmp1"
+			],
+			[
+				"inv",
+				"inv_scale"
+			],
+			[
+				"Re",
+				"Re_inv"
+			],
+			[
+				"Sc",
+				"ScalarField2f"
+			],
+			[
+				"S",
+				"ScalarField2f"
+			],
+			[
+				"sc",
+				"scalar_field	(render-w.h)"
+			],
+			[
+				"end",
+				"endif	(render-w.h)"
+			],
+			[
+				"off",
+				"offset"
+			],
+			[
+				"o",
+				"offset"
+			],
+			[
+				"vc",
+				"vec2"
+			],
+			[
+				"sca",
+				"scalar-field"
+			],
+			[
+				"pixe",
+				"pixel_grid"
+			],
+			[
+				"Sca",
+				"ScalarField2f	(scalar-field.h)"
+			],
+			[
+				"max",
+				"max_mag"
+			],
+			[
+				"__",
+				"__SCALAR_FIELD_H__"
+			],
+			[
+				"Ve",
+				"VecField2f"
+			],
+			[
+				"vec2",
+				"vec2u"
+			],
+			[
+				"tm",
+				"tmp_y2"
+			],
+			[
+				"tmp",
+				"tmp_x2"
+			],
+			[
+				"tmp_y",
+				"tmp_y1"
+			],
+			[
+				"_",
+				"_field"
+			],
+			[
+				"gri",
+				"grid_point"
+			],
+			[
+				"grid",
+				"grid_min"
+			],
+			[
+				"pos",
+				"pos_vec"
+			],
+			[
+				"def",
+				"def_grid"
+			],
+			[
+				"com",
+				"comp	(vec.h)"
+			],
+			[
+				"Grid",
+				"Grid2"
+			],
+			[
+				"max_",
+				"max_val"
+			],
+			[
+				"min",
+				"min_val"
+			],
+			[
+				"tem",
+				"template	(grid.h)"
+			],
+			[
+				"lin",
+				"lineTo"
+			],
+			[
+				"size",
+				"size_x"
+			],
+			[
+				"pa",
+				"path"
+			],
+			[
+				"gi",
+				"grid"
+			],
+			[
+				"idx",
+				"idx_y"
+			],
+			[
+				"set",
+				"setzero"
+			],
+			[
+				"Gr",
+				"Grid2"
+			],
+			[
+				"te",
+				"template	(grid.h)"
+			],
+			[
+				"Grd",
+				"Grid2f	(grid.h)"
+			],
+			[
+				"mi",
+				"min_x"
+			],
+			[
+				"siz",
+				"size_x"
+			],
+			[
+				"co",
+				"count_y"
+			],
+			[
+				"cou",
+				"count_y"
+			],
+			[
+				"si",
+				"size_y"
+			],
+			[
+				"N_",
+				"N_Y"
+			],
+			[
+				"N",
+				"N_Y"
+			],
+			[
+				"sz",
+				"size_x"
+			],
+			[
+				"ot",
+				"out"
+			],
+			[
+				"bac",
+				"back_shift"
+			],
+			[
+				"bit",
+				"bit_reverse"
+			],
+			[
+				"tw",
+				"twiddle_lut_power"
+			],
+			[
+				"twi",
+				"twiddle_lut_count"
+			],
+			[
+				"eve",
+				"even_out"
+			],
+			[
+				"ui",
+				"uint"
+			],
+			[
+				"odd",
+				"odd_in"
+			],
+			[
+				"even",
+				"even_in"
+			],
+			[
+				"M_P",
+				"M_PI"
+			],
+			[
+				"struct",
+				"struct	struct"
+			],
+			[
+				"fft",
+				"fft_data"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.cpp",
+			"settings":
+			{
+				"buffer_size": 1765,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/nsg.h",
+			"settings":
+			{
+				"buffer_size": 4696,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/utils.h",
+			"settings":
+			{
+				"buffer_size": 134,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/scalar-field.h",
+			"settings":
+			{
+				"buffer_size": 2548,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/render-w.h",
+			"settings":
+			{
+				"buffer_size": 4364,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/grid.h",
+			"settings":
+			{
+				"buffer_size": 2651,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/vec-field.h",
+			"settings":
+			{
+				"buffer_size": 2854,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/vec.h",
+			"settings":
+			{
+				"buffer_size": 5041,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pro-files/linux/config.pro",
+			"settings":
+			{
+				"buffer_size": 597,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pro-files/linux/config-periodic.pro",
+			"settings":
+			{
+				"buffer_size": 598,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pro-files/linux/config-static.pro",
+			"settings":
+			{
+				"buffer_size": 596,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"clse",
+				"Project: Close"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"langua",
+				"Dictionaries: Set Language"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"tmpf",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"tmpfi",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"tmpfil",
+				"LaTexTools: Delete temporary files"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"kebinf",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"statur",
+				"View: Toggle Status Bar"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"brw",
+				"Preferences: Browse Packages"
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			],
+			[
+				"add f",
+				"Project: Add Folder"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 525.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/II/NSG/code/utils.h",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/II/NSG/code/src/scalar-field.h",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/II/NSG/code/src/field.h",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/II/NSG/code/render-w.h",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Proseminar Numerische Mathematik/presentation/doc.tex",
+		"/tmp/mozilla_lyrahgames0/bow.tex",
+		"/tmp/mozilla_lyrahgames0/game0.tex",
+		"/home/lyrahgames/cloud/Dropbox/pro/latex-stdinit/hilbert.tex",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/LaTeXTools.sublime-settings",
+		"/home/lyrahgames/cloud/Dropbox/pro/latex-stdinit/main.cpp",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/II/317 - Elektrischer Schwingkreis/erzw-schw.gnuplot-config",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/II/406 - Gitter und Prismenspektrometer/dispersion.gnuplot-config",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/412 - Spezifische Drehung von Zucker/d-phi.gnuplot-config",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/120 - Gekoppelte Schwingungen/frequenzen.gnuplot-config",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Grundpraktikum Experimentalphysik/III/120 - Gekoppelte Schwingungen/frequenzen.gnuplot-data",
+		"/home/lyrahgames/cloud/Dropbox/tools/sublime-text/sublime-text-2.0.2/User/LaTeX/snippets/stdinit.sublime-snippet",
+		"/home/lyrahgames/cloud/Dropbox/pro/latex-stdinit/main (lyrahgames-lap's conflicted copy 2015-12-09).log",
+		"/home/lyrahgames/cloud/Dropbox/pro/latex-stdinit/main (lyrahgames-lap's conflicted copy 2015-12-09).aux",
+		"/home/lyrahgames/cloud/Dropbox/pro/latex-stdinit/stdinit.tex",
+		"/home/lyrahgames/cloud/Dropbox/pro/latex-stdinit/main.tex",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/lyrahgames/cloud/Dropbox/usr/uni/Höhere Analysis/I/Übungen/Übung 01/SoSe2015_HABlatt1.tex",
+		"/home/lyrahgames/cloud/Dropbox/pro/qt-project/histoW-v3/src/histo-w.h",
+		"/home/lyrahgames/pro/latex-stdinit/sublime-text-snippets/subsection_s.sublime-snippet",
+		"/home/lyrahgames/pro/latex-stdinit/table.csv",
+		"/home/lyrahgames/pro/latex-stdinit/sublime-text-snippets/stdinit.sublime-snippet",
+		"/home/lyrahgames/pro/latex-stdinit/test.py",
+		"/home/lyrahgames/pro/latex-stdinit/main.cu",
+		"/home/lyrahgames/pro/latex-stdinit/main.cpp",
+		"/home/lyrahgames/pro/latex-stdinit/sublime-text-snippets/math/qed01.sublime-snippet",
+		"/home/lyrahgames/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/lyrahgames/cloud/Dropbox/pro/qt-project/histoW-v3/src/main.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"5",
+			"6",
+			"9",
+			"7",
+			"9",
+			"6",
+			"7",
+			"6",
+			"7",
+			"6",
+			"5",
+			"7",
+			"6",
+			"5",
+			"9",
+			"len",
+			"rand_pos_size",
+			"7",
+			"6",
+			"9",
+			"5",
+			"v",
+			"7",
+			"5",
+			"7",
+			"8",
+			"7",
+			"5",
+			"7",
+			"5",
+			"60",
+			"7",
+			"6",
+			"10",
+			"grid",
+			"i",
+			"F_tmp1",
+			"max_mag",
+			"VecField2",
+			"min",
+			"scale",
+			"tmp",
+			"unsigned",
+			"v",
+			"def_grid",
+			"len",
+			"d",
+			"pos",
+			"path2",
+			"floor",
+			"vec2",
+			"vec1",
+			"vec2.",
+			"vec1.",
+			"&vec2",
+			"vec2",
+			"vec2(",
+			"size",
+			"comp",
+			"grid",
+			"_grid",
+			"Field2",
+			"__FIELD_H__",
+			"vec4",
+			"div2",
+			"vec4",
+			"mult3",
+			"mult2",
+			"vec4",
+			"add",
+			"vec4",
+			"float",
+			"path",
+			"3f",
+			"0",
+			"2",
+			"0f",
+			"10",
+			"int",
+			"ScalarField",
+			"ScalarField2",
+			"__SCALAR_FIELD_H__",
+			"beta",
+			"cdot",
+			"enumeration",
+			"itemize",
+			"MidnightBlue",
+			"itemize",
+			"alignat",
+			"definition",
+			"stddef",
+			"[htbp",
+			"definie",
+			"title",
+			"chicago",
+			"Computing",
+			"Concurren",
+			"Scientific",
+			"Springer",
+			"table",
+			"figure",
+			"[htb]",
+			"[t]",
+			"table",
+			"!htbp",
+			"Bezeichnet",
+			"0.1",
+			"0.8",
+			"c_",
+			"dashbox",
+			"Red",
+			"Black",
+			"colorbox",
+			"MidnightBlue",
+			"framebox",
+			"dashbox",
+			"htbp",
+			"dashbox",
+			"proposition",
+			"\\tilde{b}",
+			"end",
+			"overline",
+			"setcolor",
+			"texttt",
+			"2^{p-q}t",
+			"2^{q-1}",
+			"0",
+			"dashbox"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\t"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.cpp",
+					"settings":
+					{
+						"buffer_size": 1765,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								208,
+								208
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/nsg.h",
+					"settings":
+					{
+						"buffer_size": 4696,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								682,
+								682
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/utils.h",
+					"settings":
+					{
+						"buffer_size": 134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/scalar-field.h",
+					"settings":
+					{
+						"buffer_size": 2548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 765.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/render-w.h",
+					"settings":
+					{
+						"buffer_size": 4364,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2052,
+								1553
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1131.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/grid.h",
+					"settings":
+					{
+						"buffer_size": 2651,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1712,
+								1712
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"spell_check": true,
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 685.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/vec-field.h",
+					"settings":
+					{
+						"buffer_size": 2854,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2400,
+								2400
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"spell_check": true,
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 510.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/vec.h",
+					"settings":
+					{
+						"buffer_size": 5041,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								577,
+								577
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "pro-files/linux/config.pro",
+					"settings":
+					{
+						"buffer_size": 597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								597,
+								597
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"rulers":
+							[
+							],
+							"syntax": "Packages/QMakeProject/QMakeProject.tmLanguage",
+							"tab_size": 4,
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "pro-files/linux/config-periodic.pro",
+					"settings":
+					{
+						"buffer_size": 598,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/QMakeProject/QMakeProject.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "pro-files/linux/config-static.pro",
+					"settings":
+					{
+						"buffer_size": 596,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								16
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/QMakeProject/QMakeProject.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"c",
+				"pro-files/linux/config.pro"
+			],
+			[
+				"co",
+				"pro-files/linux/config.pro"
+			],
+			[
+				"rener",
+				"src/render-w.h"
+			],
+			[
+				"ma",
+				"src/main.cpp"
+			],
+			[
+				"ut",
+				"utils.h"
+			],
+			[
+				"gri",
+				"src/grid.h"
+			],
+			[
+				"sca",
+				"src/scalar-field.h"
+			],
+			[
+				"ren",
+				"src/render-w.h"
+			],
+			[
+				"sc",
+				"src/scalar-field.h"
+			],
+			[
+				"pre",
+				"pre.tex"
+			],
+			[
+				"bea",
+				"beamer.tex"
+			],
+			[
+				"be",
+				"beamer.tex"
+			],
+			[
+				"mai",
+				"main.tex"
+			],
+			[
+				"f",
+				"fft.cpp"
+			],
+			[
+				"",
+				"diagramm.gnuplot-config"
+			],
+			[
+				"std",
+				"stdinit.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"lina",
+				"/home/lyrahgames/cloud/Dropbox/usr/uni/Lineare Algebra und Analytische Geometrie/II/Aufzeichnungen/tex/lina2.sublime-project"
+			],
+			[
+				"nv",
+				"/home/lyrahgames/cloud/Dropbox/usr/uni/Seminar Numerische Verfahren/tex/nv-tex.sublime-project"
+			],
+			[
+				"lina2",
+				"/home/lyrahgames/cloud/Dropbox/usr/uni/Lineare Algebra und Analytische Geometrie/II/Übungen/Übung 01/tex/lina2-01.sublime-project"
+			],
+			[
+				"latex",
+				"/home/lyrahgames/cloud/Dropbox/pro/latex-stdinit/latex-stdinit.sublime-project"
+			],
+			[
+				"p",
+				"/home/lyrahgames/cloud/Dropbox/usr/uni/Fortgeschrittenenpraktikum Physik/I/Spektroskopie der Sonne/p-so.sublime-project"
+			],
+			[
+				"",
+				"/home/lyrahgames/cloud/Dropbox/pro/latex-stdinit/latex-stdinit.sublime-project"
+			],
+			[
+				"ff",
+				"/home/lyrahgames/cloud/Dropbox/usr/uni/Proseminar Numerische Mathematik/presentation/fft.sublime-project"
+			],
+			[
+				"histow",
+				"/home/lyrahgames/cloud/Dropbox/pro/qt-project/histow-kde-v2/histow-kde-v2.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true
+}
